@@ -55,8 +55,8 @@ The dataset can be found in the `generated_data` directory -
 ```
 
 The directory `data/` contains -
-* `bible-all-books.json` - contains an array of Books in the the New American Bible Revised Edition of The Holy Bible.
-* `bible-nabre-book-chapters.json` - contains the number of chapters for each book in the the New American Bible Revised Edition of The Holy Bible. The format is as follows -
+* `bible-all-books.json` - contains a JSON array of Books in the New American Bible Revised Edition of The Holy Bible.
+* `bible-nabre-book-chapters.json` - contains the number of chapters for each book in the New American Bible Revised Edition of The Holy Bible. The format is as follows -
 ```
 [
   {
