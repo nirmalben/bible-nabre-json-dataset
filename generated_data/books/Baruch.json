@@ -1,0 +1,887 @@
+{
+  "book": "Baruch",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "I. Letter to Jerusalem Chapter 1 A. Historical Setting - Now these are the words of the scroll which Baruch, son of Neriah, son of Mahseiah, son of Zedekiah, son of Hasadiah, son of Hilkiah, wrote in Babylon,"
+        },
+        {
+          "verse": 2,
+          "text": "in the fifth year, on the seventh day of the month, at the time the Chaldeans took Jerusalem and destroyed it with fire."
+        },
+        {
+          "verse": 3,
+          "text": "Baruch read the words of this scroll in the hearing of Jeconiah, son of Jehoiakim, king of Judah, and all the people who came to the reading:"
+        },
+        {
+          "verse": 4,
+          "text": "the nobles, kings’ sons, elders, and all the people, small and great—all who lived in Babylon by the river Sud."
+        },
+        {
+          "verse": 5,
+          "text": "They wept, fasted, and prayed before the Lord,"
+        },
+        {
+          "verse": 6,
+          "text": "and collected such funds as each could afford."
+        },
+        {
+          "verse": 7,
+          "text": "These they sent to Jerusalem, to Jehoiakim the priest, son of Hilkiah, son of Shallum, and to the priests and the whole people who were with him in Jerusalem."
+        },
+        {
+          "verse": 8,
+          "text": "(At the same time he received the vessels of the house of the LORD that had been removed from the temple, to restore them to the land of Judah, on the tenth of Sivan. These silver vessels Zedekiah, son of Josiah, king of Judah, had had made"
+        },
+        {
+          "verse": 9,
+          "text": "after Nebuchadnezzar, king of Babylon, carried off as captives Jeconiah and the princes, the skilled workers, the nobles, and the people of the land from Jerusalem, and brought them to Babylon.)"
+        },
+        {
+          "verse": 10,
+          "text": "B. Confession of Guilt - The message was: “We send you funds, with which you are to procure burnt offerings, sin offerings, and frankincense, and to prepare grain offerings; offer these on the altar of the LORD our God,"
+        },
+        {
+          "verse": 11,
+          "text": "and pray for the life of Nebuchadnezzar, king of Babylon, and of Belshazzar, his son, that their lifetimes may be as the days of the heavens above the earth."
+        },
+        {
+          "verse": 12,
+          "text": "Pray that the LORD may give us strength, and light to our eyes, that we may live under the protective shadow of Nebuchadnezzar, king of Babylon, and of Belshazzar, his son, to serve them many days, and find favor in their sight."
+        },
+        {
+          "verse": 13,
+          "text": "Pray for us to the LORD, our God, for we have sinned against the LORD, our God. Even to this day the wrath of the LORD and his anger have not turned away from us."
+        },
+        {
+          "verse": 14,
+          "text": "On the feast day and during the days of assembly, read aloud in the house of the LORD this scroll that we send you:"
+        },
+        {
+          "verse": 15,
+          "text": "“To the Lord our God belongs justice; to us, people of Judah and inhabitants of Jerusalem, to be shamefaced, as on this day—"
+        },
+        {
+          "verse": 16,
+          "text": "to us, our kings, rulers, priests, and prophets, and our ancestors."
+        },
+        {
+          "verse": 17,
+          "text": "We have sinned in the LORD’s sight"
+        },
+        {
+          "verse": 18,
+          "text": "and disobeyed him. We have not listened to the voice of the LORD, our God, so as to follow the precepts the LORD set before us."
+        },
+        {
+          "verse": 19,
+          "text": "From the day the LORD led our ancestors out of the land of Egypt until the present day, we have been disobedient to the LORD, our God, and neglected to listen to his voice."
+        },
+        {
+          "verse": 20,
+          "text": "Even today evils cling to us, the curse the LORD pronounced to Moses, his servant, at the time he led our ancestors out of the land of Egypt to give us a land flowing with milk and honey."
+        },
+        {
+          "verse": 21,
+          "text": "For we did not listen to the voice of the LORD, our God, in all the words of the prophets he sent us,"
+        },
+        {
+          "verse": 22,
+          "text": "but each of us has followed the inclinations of our wicked hearts, served other gods, and done evil in the sight of the LORD, our God."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Chapter 2 - “So the LORD carried out the warning he had uttered against us: against our judges, who governed Israel, against our kings and princes, and against the people of Israel and Judah."
+        },
+        {
+          "verse": 2,
+          "text": "Nowhere under heaven has anything been done like what he did in Jerusalem, as was written in the law of Moses:"
+        },
+        {
+          "verse": 3,
+          "text": "that we would each eat the flesh of our sons, each the flesh of our daughters."
+        },
+        {
+          "verse": 4,
+          "text": "He has made us subject to all the kingdoms around us, an object of reproach and horror among all the peoples around us, where the LORD has scattered us."
+        },
+        {
+          "verse": 5,
+          "text": "We are brought low, not raised high, because we sinned against the LORD, our God, not listening to his voice."
+        },
+        {
+          "verse": 6,
+          "text": "“To the LORD, our God, belongs justice; to us and to our ancestors, to be shamefaced, as on this day."
+        },
+        {
+          "verse": 7,
+          "text": "All the evils of which the LORD had warned us have come upon us."
+        },
+        {
+          "verse": 8,
+          "text": "We did not entreat the favor of the LORD by turning, each one, from the designs of our evil hearts."
+        },
+        {
+          "verse": 9,
+          "text": "The LORD kept watch over the evils, and brought them home to us; for the LORD is just in all the works he commanded us to do,"
+        },
+        {
+          "verse": 10,
+          "text": "but we did not listen to his voice, or follow the precepts of the LORD which he had set before us."
+        },
+        {
+          "verse": 11,
+          "text": "C. Prayer for Deliverance - “And now, LORD, God of Israel, who led your people out of the land of Egypt with a strong hand, with signs and wonders and great might, and with an upraised arm, so that you have made for yourself a name to the present day:"
+        },
+        {
+          "verse": 12,
+          "text": "we have sinned, we have committed sacrilege, we have violated all your statutes, LORD, our God."
+        },
+        {
+          "verse": 13,
+          "text": "Withdraw your anger from us, for we are left few in number among the nations where you have scattered us."
+        },
+        {
+          "verse": 14,
+          "text": "Hear, LORD, our prayer of supplication, and deliver us for your own sake: grant us favor in the sight of those who brought us into exile,"
+        },
+        {
+          "verse": 15,
+          "text": "that the whole earth may know that you are the LORD, our God, and that Israel and his descendants bear your name."
+        },
+        {
+          "verse": 16,
+          "text": "LORD, look down from your holy dwelling and take thought of us; LORD, incline your ear to hear us."
+        },
+        {
+          "verse": 17,
+          "text": "Open your eyes and see: it is not the dead in Hades, whose breath has been taken from within them, who will declare the glory and vindication to the LORD."
+        },
+        {
+          "verse": 18,
+          "text": "The person who is deeply grieved, who walks bowed and feeble, with failing eyes and famished soul, will declare your glory and justice, LORD!"
+        },
+        {
+          "verse": 19,
+          "text": "“Not on the just deeds of our ancestors and our kings do we base our plea for mercy in your sight, LORD, our God."
+        },
+        {
+          "verse": 20,
+          "text": "You have sent your wrath and anger upon us, as you had warned us through your servants the prophets:"
+        },
+        {
+          "verse": 21,
+          "text": "Thus says the LORD: Bend your necks and serve the king of Babylon, that you may continue in the land I gave your ancestors;"
+        },
+        {
+          "verse": 22,
+          "text": "for if you do not listen to the LORD’s voice so as to serve the king of Babylon,"
+        },
+        {
+          "verse": 23,
+          "text": "I will silence from the cities of Judah and from the streets of Jerusalem the cry of joy and the cry of gladness, the voice of the bridegroom and the voice of the bride; and all the land shall be deserted, without inhabitants."
+        },
+        {
+          "verse": 24,
+          "text": "But we did not listen to your voice, or serve the king of Babylon, and you carried out the threats you had made through your servants the prophets, that the bones of our kings and the bones of our ancestors would be brought out from their burial places."
+        },
+        {
+          "verse": 25,
+          "text": "And indeed, they lie exposed to the heat of day and the frost of night. They died in great suffering, by famine and sword and plague."
+        },
+        {
+          "verse": 26,
+          "text": "And you reduced the house which bears your name to what it is today, because of the wickedness of the house of Israel and the house of Judah."
+        },
+        {
+          "verse": 27,
+          "text": "God’s Promises Recalled. “But with us, Lord, our God, you have dealt in all your clemency and in all your great mercy."
+        },
+        {
+          "verse": 28,
+          "text": "Thus you spoke through your servant Moses, the day you ordered him to write down your law in the presence of the Israelites:"
+        },
+        {
+          "verse": 29,
+          "text": "‘If you do not listen to my voice, surely this great and numerous throng will dwindle away among the nations to which I will scatter them."
+        },
+        {
+          "verse": 30,
+          "text": "For I know they will not listen to me, because they are a stiff-necked people. But in the land of their exile they shall have a change of heart;"
+        },
+        {
+          "verse": 31,
+          "text": "they shall know that I, the LORD, am their God. I will give them a heart and ears that listen;"
+        },
+        {
+          "verse": 32,
+          "text": "and they shall praise me in the land of their exile, and shall remember my name."
+        },
+        {
+          "verse": 33,
+          "text": "Then they shall turn back from their stiff-necked stubbornness, and from their evil deeds, because they shall remember the ways of their ancestors, who sinned against the LORD."
+        },
+        {
+          "verse": 34,
+          "text": "And I will bring them back to the land I promised on oath to their ancestors, to Abraham, Isaac, and Jacob; and they shall rule it. I will make them increase; they shall not be few."
+        },
+        {
+          "verse": 35,
+          "text": "And I will establish for them an eternal covenant: I will be their God, and they shall be my people; and I will never again remove my people Israel from the land I gave them.’"
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Chapter 3 - “LORD Almighty, God of Israel, the anguished soul, the dismayed spirit cries out to you."
+        },
+        {
+          "verse": 2,
+          "text": "Hear, LORD, and have mercy, for you are a merciful God; have mercy on us, who have sinned against you:"
+        },
+        {
+          "verse": 3,
+          "text": "for you are enthroned forever, while we are perishing forever."
+        },
+        {
+          "verse": 4,
+          "text": "LORD Almighty, God of Israel, hear the prayer of the dead of Israel, children who sinned against you; they did not listen to the voice of the LORD, their God, and their evils cling to us."
+        },
+        {
+          "verse": 5,
+          "text": "Do not remember the wicked deeds of our ancestors, but remember at this time your power and your name,"
+        },
+        {
+          "verse": 6,
+          "text": "for you are the LORD our God; and you, LORD, we will praise!"
+        },
+        {
+          "verse": 7,
+          "text": "This is why you put into our hearts the fear of you: that we may call upon your name, and praise you in our exile, when we have removed from our hearts all the wickedness of our ancestors who sinned against you."
+        },
+        {
+          "verse": 8,
+          "text": "See, today we are in exile, where you have scattered us, an object of reproach and cursing and punishment for all the wicked deeds of our ancestors, who withdrew from the LORD, our God.”"
+        },
+        {
+          "verse": 9,
+          "text": "II. Praise of Wisdom A. Importance of Wisdom - Hear, Israel, the commandments of life: listen, and know prudence!"
+        },
+        {
+          "verse": 10,
+          "text": "How is it, Israel, that you are in the land of your foes, grown old in a foreign land,"
+        },
+        {
+          "verse": 11,
+          "text": "Defiled with the dead, counted among those destined for Hades?"
+        },
+        {
+          "verse": 12,
+          "text": "You have forsaken the fountain of wisdom!"
+        },
+        {
+          "verse": 13,
+          "text": "Had you walked in the way of God, you would have dwelt in enduring peace."
+        },
+        {
+          "verse": 14,
+          "text": "Learn where prudence is, where strength, where understanding; That you may know also where are length of days, and life, where light of the eyes, and peace."
+        },
+        {
+          "verse": 15,
+          "text": "Who has found the place of wisdom? Who has entered into her treasuries?"
+        },
+        {
+          "verse": 16,
+          "text": "Where are the rulers of the nations, who lorded it over the wild beasts of the earth,"
+        },
+        {
+          "verse": 17,
+          "text": "made sport of the birds in the heavens, Who heaped up the silver, the gold in which people trust, whose possessions were unlimited,"
+        },
+        {
+          "verse": 18,
+          "text": "Who schemed anxiously for money, their doings beyond discovery?"
+        },
+        {
+          "verse": 19,
+          "text": "They have vanished, gone down to Hades, and others have risen up in their stead."
+        },
+        {
+          "verse": 20,
+          "text": "Later generations have seen the light of day, have dwelt on the earth, But the way to understanding they have not known,"
+        },
+        {
+          "verse": 21,
+          "text": "they have not perceived her paths or reached her; their children remain far from the way to her."
+        },
+        {
+          "verse": 22,
+          "text": "She has not been heard of in Canaan, nor seen in Teman."
+        },
+        {
+          "verse": 23,
+          "text": "The descendants of Hagar who seek knowledge on earth, the merchants of Medan and Tema, the storytellers and those seeking knowledge— These have not known the way to wisdom, nor have they kept her paths in mind."
+        },
+        {
+          "verse": 24,
+          "text": "B. Inaccessibility of Wisdom - O Israel, how vast is the dwelling of God, how broad the scope of his dominion:"
+        },
+        {
+          "verse": 25,
+          "text": "Vast and endless, high and immeasurable!"
+        },
+        {
+          "verse": 26,
+          "text": "In it were born the giants, renowned at the first, huge in stature, skilled in war."
+        },
+        {
+          "verse": 27,
+          "text": "These God did not choose, nor did he give them the way of understanding;"
+        },
+        {
+          "verse": 28,
+          "text": "They perished for lack of prudence, perished through their own folly."
+        },
+        {
+          "verse": 29,
+          "text": "Who has gone up to the heavens and taken her, bringing her down from the clouds?"
+        },
+        {
+          "verse": 30,
+          "text": "Who has crossed the sea and found her, bearing her away rather than choice gold?"
+        },
+        {
+          "verse": 31,
+          "text": "None knows the way to her, nor has at heart her path."
+        },
+        {
+          "verse": 32,
+          "text": "But the one who knows all things knows her; he has probed her by his knowledge— The one who established the earth for all time, and filled it with four-footed animals,"
+        },
+        {
+          "verse": 33,
+          "text": "Who sends out the lightning, and it goes, calls it, and trembling it obeys him;"
+        },
+        {
+          "verse": 34,
+          "text": "Before whom the stars at their posts shine and rejoice."
+        },
+        {
+          "verse": 35,
+          "text": "When he calls them, they answer, “Here we are!” shining with joy for their Maker."
+        },
+        {
+          "verse": 36,
+          "text": "Such is our God; no other is to be compared to him:"
+        },
+        {
+          "verse": 37,
+          "text": "C. Wisdom Contained in the Law - He has uncovered the whole way of understanding, and has given her to Jacob, his servant, to Israel, his beloved."
+        },
+        {
+          "verse": 38,
+          "text": "Thus she has appeared on earth, is at home with mortals."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Chapter 4 - She is the book of the precepts of God, the law that endures forever; All who cling to her will live, but those will die who forsake her."
+        },
+        {
+          "verse": 2,
+          "text": "Turn, O Jacob, and receive her: walk by her light toward splendor."
+        },
+        {
+          "verse": 3,
+          "text": "Do not give your glory to another, your privileges to an alien nation."
+        },
+        {
+          "verse": 4,
+          "text": "Blessed are we, O Israel; for what pleases God is known to us!"
+        },
+        {
+          "verse": 5,
+          "text": "III. Baruch’s Poem of Consolation A. Baruch Addresses Diaspora - Take courage, my people! Remember, O Israel,"
+        },
+        {
+          "verse": 6,
+          "text": "You were sold to the nations not for destruction; It was because you angered God that you were handed over to your foes."
+        },
+        {
+          "verse": 7,
+          "text": "For you provoked your Maker with sacrifices to demons and not to God;"
+        },
+        {
+          "verse": 8,
+          "text": "You forgot the eternal God who nourished you, and you grieved Jerusalem who nurtured you."
+        },
+        {
+          "verse": 9,
+          "text": "She indeed saw coming upon you the wrath of God; and she said: B. Jerusalem Addresses Neighbors - “Hear, you neighbors of Zion! God has brought great mourning upon me,"
+        },
+        {
+          "verse": 10,
+          "text": "For I have seen the captivity that the Eternal One has brought upon my sons and daughters."
+        },
+        {
+          "verse": 11,
+          "text": "With joy I nurtured them; but with mourning and lament I sent them away."
+        },
+        {
+          "verse": 12,
+          "text": "Let no one gloat over me, a widow, bereft of many; For the sins of my children I am left desolate, because they turned from the law of God,"
+        },
+        {
+          "verse": 13,
+          "text": "and did not acknowledge his statutes; In the ways of God’s commandments they did not walk, nor did they tread the disciplined paths of his justice."
+        },
+        {
+          "verse": 14,
+          "text": "“Let Zion’s neighbors come— Remember the captivity of my sons and daughters, brought upon them by the Eternal One."
+        },
+        {
+          "verse": 15,
+          "text": "He has brought against them a nation from afar, a nation ruthless and of alien speech, That has neither reverence for old age nor pity for the child;"
+        },
+        {
+          "verse": 16,
+          "text": "They have led away this widow’s beloved sons, have left me solitary, without daughters."
+        },
+        {
+          "verse": 17,
+          "text": "C. Jerusalem Addresses Diaspora - What can I do to help you?"
+        },
+        {
+          "verse": 18,
+          "text": "The one who has brought this evil upon you must himself deliver you from your enemies’ hands."
+        },
+        {
+          "verse": 19,
+          "text": "Farewell, my children, farewell; I am left desolate."
+        },
+        {
+          "verse": 20,
+          "text": "I have taken off the garment of peace, have put on sackcloth for my prayer of supplication; while I live I will cry out to the Eternal One."
+        },
+        {
+          "verse": 21,
+          "text": "“Take courage, my children; call upon God; he will deliver you from oppression, from enemy hands."
+        },
+        {
+          "verse": 22,
+          "text": "I have put my hope for your deliverance in the Eternal One, and joy has come to me from the Holy One Because of the mercy that will swiftly reach you from your eternal Savior."
+        },
+        {
+          "verse": 23,
+          "text": "With mourning and lament I sent you away, but God will give you back to me with gladness and joy forever."
+        },
+        {
+          "verse": 24,
+          "text": "As Zion’s neighbors lately saw you taken captive, so shall they soon see God’s salvation come to you, with great glory and the splendor of the Eternal One."
+        },
+        {
+          "verse": 25,
+          "text": "“My children, bear patiently the wrath that has come upon you from God; Your enemies have persecuted you, but you will soon see their destruction and trample upon their necks."
+        },
+        {
+          "verse": 26,
+          "text": "My pampered children have trodden rough roads, carried off by their enemies like sheep in a raid."
+        },
+        {
+          "verse": 27,
+          "text": "Take courage, my children; call out to God! The one who brought this upon you will remember you."
+        },
+        {
+          "verse": 28,
+          "text": "As your hearts have been disposed to stray from God, so turn now ten times the more to seek him;"
+        },
+        {
+          "verse": 29,
+          "text": "For the one who has brought disaster upon you will, in saving you, bring you eternal joy.”"
+        },
+        {
+          "verse": 30,
+          "text": "D. Baruch Addresses Jerusalem - Take courage, Jerusalem! The one who gave you your name will console you."
+        },
+        {
+          "verse": 31,
+          "text": "Wretched shall be those who harmed you, who rejoiced at your downfall;"
+        },
+        {
+          "verse": 32,
+          "text": "Wretched shall be the cities where your children were enslaved, wretched the city that received your children."
+        },
+        {
+          "verse": 33,
+          "text": "As that city rejoiced at your collapse, and made merry at your downfall, so shall she grieve over her own desolation."
+        },
+        {
+          "verse": 34,
+          "text": "I will take from her the rejoicing crowds, and her exultation shall be turned to mourning:"
+        },
+        {
+          "verse": 35,
+          "text": "For fire shall come upon her from the Eternal One, for many a day, to be inhabited by demons for a long time."
+        },
+        {
+          "verse": 36,
+          "text": "Look to the east, Jerusalem; see the joy that comes to you from God!"
+        },
+        {
+          "verse": 37,
+          "text": "Here come your children whom you sent away, gathered in from east to west By the word of the Holy One, rejoicing in the glory of God."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Chapter 5 - Jerusalem, take off your robe of mourning and misery; put on forever the splendor of glory from God:"
+        },
+        {
+          "verse": 2,
+          "text": "Wrapped in the mantle of justice from God, place on your head the diadem of the glory of the Eternal One."
+        },
+        {
+          "verse": 3,
+          "text": "For God will show your splendor to all under the heavens;"
+        },
+        {
+          "verse": 4,
+          "text": "you will be named by God forever: the peace of justice, the glory of God’s worship."
+        },
+        {
+          "verse": 5,
+          "text": "Rise up, Jerusalem! stand upon the heights; look to the east and see your children Gathered from east to west at the word of the Holy One, rejoicing that they are remembered by God."
+        },
+        {
+          "verse": 6,
+          "text": "Led away on foot by their enemies they left you: but God will bring them back to you carried high in glory as on royal thrones."
+        },
+        {
+          "verse": 7,
+          "text": "For God has commanded that every lofty mountain and the age-old hills be made low, That the valleys be filled to make level ground, that Israel may advance securely in the glory of God."
+        },
+        {
+          "verse": 8,
+          "text": "The forests and every kind of fragrant tree have overshadowed Israel at God’s command;"
+        },
+        {
+          "verse": 9,
+          "text": "For God is leading Israel in joy by the light of his glory, with the mercy and justice that are his."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "IV. Letter of Jeremiah Chapter 6 - A copy of the letter which Jeremiah sent to those led captive to Babylon by the king of the Babylonians, to tell them what God had commanded him: For the sins you committed before God, you are being led captive to Babylon by Nebuchadnezzar, king of the Babylonians."
+        },
+        {
+          "verse": 2,
+          "text": "When you reach Babylon you will be there many years, a long time—seven generations; after that I will bring you back from there in peace."
+        },
+        {
+          "verse": 3,
+          "text": "And now in Babylon you will see gods of silver and gold and wood, carried shoulder high, to cast fear upon the nations."
+        },
+        {
+          "verse": 4,
+          "text": "Take care that you yourselves do not become like these foreigners and let not such fear possess you."
+        },
+        {
+          "verse": 5,
+          "text": "When you see the crowd before them and behind worshiping them, say in your hearts, “You, Lord, are the one to be worshiped!”"
+        },
+        {
+          "verse": 6,
+          "text": "For my angel is with you, and he will keep watch on you."
+        },
+        {
+          "verse": 7,
+          "text": "Their tongues are smoothed by woodworkers; they are covered with gold and silver—but they are frauds, and cannot speak."
+        },
+        {
+          "verse": 8,
+          "text": "People bring gold, as though for a girl fond of dressing up,"
+        },
+        {
+          "verse": 9,
+          "text": "and prepare crowns for the heads of their gods. Then sometimes the priests filch the gold and silver from their gods and spend it on themselves,"
+        },
+        {
+          "verse": 10,
+          "text": "or give part of it to harlots in the brothel. They dress them up in clothes like human beings, these gods of silver and gold and wood."
+        },
+        {
+          "verse": 11,
+          "text": "Though they are wrapped in purple clothing, they are not safe from rust and corrosion."
+        },
+        {
+          "verse": 12,
+          "text": "Their faces are wiped clean of the cloud of dust which is thick upon them."
+        },
+        {
+          "verse": 13,
+          "text": "Each has a scepter, like the human ruler of a district, but none can do away with those that offend against it."
+        },
+        {
+          "verse": 14,
+          "text": "Each has in its right hand an ax or dagger, but it cannot save itself from war or pillage. Thus it is known they are not gods; do not fear them."
+        },
+        {
+          "verse": 15,
+          "text": "As useless as a broken pot"
+        },
+        {
+          "verse": 16,
+          "text": "are their gods, set up in their temples, their eyes full of dust from the feet of those who enter."
+        },
+        {
+          "verse": 17,
+          "text": "Their courtyards are walled in like those of someone brought to execution for a crime against the king; the priests reinforce their temples with gates and bars and bolts, so they will not be carried off by robbers."
+        },
+        {
+          "verse": 18,
+          "text": "They light more lamps for them than for themselves, yet not one of these can they see."
+        },
+        {
+          "verse": 19,
+          "text": "They are like any timber in the temple; their hearts, it is said, are eaten away. Though crawling creatures from the ground consume them and their garments, they do not feel it."
+        },
+        {
+          "verse": 20,
+          "text": "Their faces become sooty from the smoke in the temple."
+        },
+        {
+          "verse": 21,
+          "text": "Bats and swallows alight on their bodies and heads—any bird, and cats as well."
+        },
+        {
+          "verse": 22,
+          "text": "Know, therefore, that they are not gods; do not fear them."
+        },
+        {
+          "verse": 23,
+          "text": "Gold adorns them, but unless someone wipes away the corrosion, they do not shine; they felt nothing when they were molded."
+        },
+        {
+          "verse": 24,
+          "text": "They are bought at whatever price, but there is no spirit in them."
+        },
+        {
+          "verse": 25,
+          "text": "Since they have no feet, they are carried shoulder high, displaying to all how worthless they are; even those who worship them are put to shame"
+        },
+        {
+          "verse": 26,
+          "text": "because, if they fall to the ground, the worshipers must pick them up. They neither move of themselves if one sets them upright, nor come upright if they are tipped over; offerings are set out for them as for the dead."
+        },
+        {
+          "verse": 27,
+          "text": "Their priests sell their sacrifices for their own advantage. Likewise their wives cure some of the meat, but they do not share it with the poor and the weak;"
+        },
+        {
+          "verse": 28,
+          "text": "women ritually unclean or at childbirth handle their sacrifices. From such things, know that they are not gods; do not fear them."
+        },
+        {
+          "verse": 29,
+          "text": "How can they be called gods? Women set out the offerings for these gods of silver and gold and wood,"
+        },
+        {
+          "verse": 30,
+          "text": "and in their temples the priests squat with torn tunic and with shaven hair and beard, and with their heads uncovered."
+        },
+        {
+          "verse": 31,
+          "text": "They shout and wail before their gods as others do at a funeral banquet."
+        },
+        {
+          "verse": 32,
+          "text": "The priests take some of the clothing from their gods and put it on their wives and children."
+        },
+        {
+          "verse": 33,
+          "text": "Whether these gods are treated well or badly by anyone, they cannot repay it. They can neither set up nor remove a king."
+        },
+        {
+          "verse": 34,
+          "text": "They cannot give anyone riches or pennies; if one fails to fulfill a vow to them, they will not exact it."
+        },
+        {
+          "verse": 35,
+          "text": "They neither save anyone from death, nor deliver the weak from the strong,"
+        },
+        {
+          "verse": 36,
+          "text": "nor do they restore sight to the blind, or rescue anyone in distress."
+        },
+        {
+          "verse": 37,
+          "text": "The widow they do not pity, the orphan they do not help."
+        },
+        {
+          "verse": 38,
+          "text": "These gilded and silvered wooden statues are no better than stones from the mountains; their worshipers will be put to shame."
+        },
+        {
+          "verse": 39,
+          "text": "How then can it be thought or claimed that they are gods?"
+        },
+        {
+          "verse": 40,
+          "text": "Even the Chaldeans themselves have no respect for them; for when they see a deaf mute, unable to speak, they bring forward Bel and expect him to make a sound, as though he could hear."
+        },
+        {
+          "verse": 41,
+          "text": "They themselves are unable to reflect and abandon these gods, for they have no sense."
+        },
+        {
+          "verse": 42,
+          "text": "And the women, with cords around them, sit by the roads, burning chaff for incense;"
+        },
+        {
+          "verse": 43,
+          "text": "and whenever one of them is taken aside by some passerby who lies with her, she mocks her neighbor who has not been thought thus worthy, and has not had her cord broken."
+        },
+        {
+          "verse": 44,
+          "text": "All that is done for these gods is a fraud; how then can it be thought or claimed that they are gods?"
+        },
+        {
+          "verse": 45,
+          "text": "They are produced by woodworkers and goldsmiths; they are nothing other than what these artisans wish them to be."
+        },
+        {
+          "verse": 46,
+          "text": "Even those who produce them are not long-lived;"
+        },
+        {
+          "verse": 47,
+          "text": "how then can the things they have produced be gods? They have left frauds and disgrace to their successors."
+        },
+        {
+          "verse": 48,
+          "text": "For when war or disaster comes upon them, the priests deliberate among themselves where they can hide with them."
+        },
+        {
+          "verse": 49,
+          "text": "How then can one not understand that these are not gods, who save themselves neither from war nor from disaster?"
+        },
+        {
+          "verse": 50,
+          "text": "Beings that are wooden, gilded and silvered, they will later be known for frauds. To all nations and kings it will be clear that they are not gods, but human handiwork; and that God’s work is not in them."
+        },
+        {
+          "verse": 51,
+          "text": "Is it not obvious that they are not gods?"
+        },
+        {
+          "verse": 52,
+          "text": "They set no king over the land, nor do they give rain."
+        },
+        {
+          "verse": 53,
+          "text": "They neither vindicate their own rights, nor do they rescue anyone wronged, for they are powerless."
+        },
+        {
+          "verse": 54,
+          "text": "They are like crows in midair. For when fire breaks out in the temple of these wooden or gilded or silvered gods, though the priests flee and are safe, they themselves are burned up in the fire like timbers."
+        },
+        {
+          "verse": 55,
+          "text": "They cannot resist a king or enemy forces."
+        },
+        {
+          "verse": 56,
+          "text": "How then can it be admitted or thought that they are gods? They are safe from neither thieves nor bandits, these wooden and silvered and gilded gods."
+        },
+        {
+          "verse": 57,
+          "text": "Anyone who can will strip off the gold and the silver, and go away with the clothing that was on them; they cannot help themselves."
+        },
+        {
+          "verse": 58,
+          "text": "How much better to be a king displaying his valor, or a handy tool in a house, the joy of its owner, than these false gods; better the door of a house, protecting whatever is within, than these false gods; better a wooden post in a palace, than these false gods!"
+        },
+        {
+          "verse": 59,
+          "text": "The sun and moon and stars are bright, obedient in the task for which they are sent."
+        },
+        {
+          "verse": 60,
+          "text": "Likewise the lightning, when it flashes, is a great sight; and the one wind blows over every land."
+        },
+        {
+          "verse": 61,
+          "text": "The clouds, too, when commanded by God to proceed across the whole world, fulfill the command;"
+        },
+        {
+          "verse": 62,
+          "text": "and fire, sent from on high to burn up the mountains and the forests, carries out its command. But these false gods are not their equal, whether in appearance or in power."
+        },
+        {
+          "verse": 63,
+          "text": "So it is unthinkable, and cannot be claimed that they are gods. They can neither execute judgment, nor benefit anyone."
+        },
+        {
+          "verse": 64,
+          "text": "Know, therefore, that they are not gods; do not fear them."
+        },
+        {
+          "verse": 65,
+          "text": "Kings they can neither curse nor bless."
+        },
+        {
+          "verse": 66,
+          "text": "They show the nations no signs in the heavens, nor do they shine like the sun, nor give light like the moon."
+        },
+        {
+          "verse": 67,
+          "text": "The beasts are better than they—beasts can help themselves by fleeing to shelter."
+        },
+        {
+          "verse": 68,
+          "text": "Thus is it in no way apparent to us that they are gods; so do not fear them."
+        },
+        {
+          "verse": 69,
+          "text": "For like a scarecrow in a cucumber patch, providing no protection, are their wooden, gilded, silvered gods."
+        },
+        {
+          "verse": 70,
+          "text": "Just like a thornbush in a garden on which perches every kind of bird, or like a corpse hurled into darkness, are their wooden, gilded, silvered gods."
+        },
+        {
+          "verse": 71,
+          "text": "From the rotting of the purple and the linen upon them, you can know that they are not gods; they themselves will in the end be consumed, and be a disgrace in the land."
+        },
+        {
+          "verse": 72,
+          "text": "Better the just who has no idols; such shall be far from disgrace!"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4784 @@
+{
+  "book": "Sirach",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Foreword - Inasmuch as many and great truths have been given to us through the Law, the prophets, and the authors who followed them, for which the instruction and wisdom of Israel merit praise, it is the duty of those who read the scriptures not only to become knowledgeable themselves but also to use their love of learning in speech and in writing to help others less familiar. So my grandfather Jesus, who had long devoted himself to the study of the law, the prophets, and the rest of the books of our ancestors, and had acquired great familiarity with them, was moved to write something himself regarding instruction and wisdom. He did this so that those who love learning might, by accepting what he had written, make even greater progress in living according to the Law. You are invited therefore to read it with good will and attention, with indulgence for any failure on our part, despite earnest efforts, in the interpretation of particular passages. For words spoken originally in Hebrew do not have the same effect when they are translated into another language. That is true not only of this book but of the Law itself, the prophecies, and the rest of the books, which differ no little when they are read in the original. I arrived in Egypt in the thirty-eighth year of the reign of King Euergetes, and while there, I had access to no little learning. I therefore considered it my duty to devote some diligence and industry to the translation of this book. During this time I applied my skill for many sleepless hours to complete the book and publish it for those living abroad who wish to acquire learning and are disposed to live their lives according to the Law. The Wisdom of Ben Sira Chapter 1 God’s Gift of Wisdom - All wisdom is from the Lord and remains with him forever."
+        },
+        {
+          "verse": 2,
+          "text": "The sands of the sea, the drops of rain, the days of eternity—who can count them?"
+        },
+        {
+          "verse": 3,
+          "text": "Heaven’s height, earth’s extent, the abyss and wisdom—who can explore them?"
+        },
+        {
+          "verse": 4,
+          "text": "Before all other things wisdom was created; and prudent understanding, from eternity."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Chapter 2 Trust in God - My child, when you come to serve the Lord, prepare yourself for trials."
+        },
+        {
+          "verse": 2,
+          "text": "Be sincere of heart and steadfast, and do not be impetuous in time of adversity."
+        },
+        {
+          "verse": 3,
+          "text": "Cling to him, do not leave him, that you may prosper in your last days."
+        },
+        {
+          "verse": 4,
+          "text": "Accept whatever happens to you; in periods of humiliation be patient."
+        },
+        {
+          "verse": 5,
+          "text": "For in fire gold is tested, and the chosen, in the crucible of humiliation."
+        },
+        {
+          "verse": 6,
+          "text": "Trust in God, and he will help you; make your ways straight and hope in him."
+        },
+        {
+          "verse": 7,
+          "text": "You that fear the Lord, wait for his mercy, do not stray lest you fall."
+        },
+        {
+          "verse": 8,
+          "text": "You that fear the Lord, trust in him, and your reward will not be lost."
+        },
+        {
+          "verse": 9,
+          "text": "You that fear the Lord, hope for good things, for lasting joy and mercy."
+        },
+        {
+          "verse": 10,
+          "text": "Consider the generations long past and see: has anyone trusted in the Lord and been disappointed? Has anyone persevered in his fear and been forsaken? has anyone called upon him and been ignored?"
+        },
+        {
+          "verse": 11,
+          "text": "For the Lord is compassionate and merciful; forgives sins and saves in time of trouble."
+        },
+        {
+          "verse": 12,
+          "text": "Woe to timid hearts and drooping hands, to the sinner who walks a double path!"
+        },
+        {
+          "verse": 13,
+          "text": "Woe to the faint of heart! For they do not trust, and therefore have no shelter!"
+        },
+        {
+          "verse": 14,
+          "text": "Woe to you that have lost hope! what will you do at the Lord’s visitation?"
+        },
+        {
+          "verse": 15,
+          "text": "Those who fear the Lord do not disobey his words; those who love him keep his ways."
+        },
+        {
+          "verse": 16,
+          "text": "Those who fear the Lord seek to please him; those who love him are filled with his law."
+        },
+        {
+          "verse": 17,
+          "text": "Those who fear the Lord prepare their hearts and humble themselves before him."
+        },
+        {
+          "verse": 18,
+          "text": "Let us fall into the hands of the Lord and not into the hands of mortals, For equal to his majesty is his mercy; and equal to his name are his works."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Chapter 3 Responsibilities to Parents - Children, listen to me, your father; act accordingly, that you may be safe."
+        },
+        {
+          "verse": 2,
+          "text": "For the Lord sets a father in honor over his children and confirms a mother’s authority over her sons."
+        },
+        {
+          "verse": 3,
+          "text": "Those who honor their father atone for sins;"
+        },
+        {
+          "verse": 4,
+          "text": "they store up riches who respect their mother."
+        },
+        {
+          "verse": 5,
+          "text": "Those who honor their father will have joy in their own children, and when they pray they are heard."
+        },
+        {
+          "verse": 6,
+          "text": "Those who respect their father will live a long life; those who obey the Lord honor their mother."
+        },
+        {
+          "verse": 7,
+          "text": "Those who fear the Lord honor their father, and serve their parents as masters."
+        },
+        {
+          "verse": 8,
+          "text": "In word and deed honor your father, that all blessings may come to you."
+        },
+        {
+          "verse": 9,
+          "text": "A father’s blessing gives a person firm roots, but a mother’s curse uproots the growing plant."
+        },
+        {
+          "verse": 10,
+          "text": "Do not glory in your father’s disgrace, for that is no glory to you!"
+        },
+        {
+          "verse": 11,
+          "text": "A father’s glory is glory also for oneself; they multiply sin who demean their mother."
+        },
+        {
+          "verse": 12,
+          "text": "My son, be steadfast in honoring your father; do not grieve him as long as he lives."
+        },
+        {
+          "verse": 13,
+          "text": "Even if his mind fails, be considerate of him; do not revile him because you are in your prime."
+        },
+        {
+          "verse": 14,
+          "text": "Kindness to a father will not be forgotten; it will serve as a sin offering—it will take lasting root."
+        },
+        {
+          "verse": 15,
+          "text": "In time of trouble it will be recalled to your advantage, like warmth upon frost it will melt away your sins."
+        },
+        {
+          "verse": 16,
+          "text": "Those who neglect their father are like blasphemers; those who provoke their mother are accursed by their Creator."
+        },
+        {
+          "verse": 17,
+          "text": "Humility - My son, conduct your affairs with humility, and you will be loved more than a giver of gifts."
+        },
+        {
+          "verse": 18,
+          "text": "Humble yourself the more, the greater you are, and you will find mercy in the sight of God."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Chapter 4 - My child, do not mock the life of the poor; do not keep needy eyes waiting."
+        },
+        {
+          "verse": 2,
+          "text": "Do not grieve the hungry, nor anger the needy."
+        },
+        {
+          "verse": 3,
+          "text": "Do not aggravate a heart already angry, nor delay giving to the needy."
+        },
+        {
+          "verse": 4,
+          "text": "A beggar’s request do not reject; do not turn your face away from the poor."
+        },
+        {
+          "verse": 5,
+          "text": "From the needy do not turn your eyes; do not give them reason to curse you."
+        },
+        {
+          "verse": 6,
+          "text": "If in their pain they cry out bitterly, their Rock will hear the sound of their cry."
+        },
+        {
+          "verse": 7,
+          "text": "Social Conduct - Endear yourself to the assembly; before the city’s ruler bow your head."
+        },
+        {
+          "verse": 8,
+          "text": "Give a hearing to the poor, and return their greeting with deference;"
+        },
+        {
+          "verse": 9,
+          "text": "Deliver the oppressed from their oppressors; right judgment should not be repugnant to you."
+        },
+        {
+          "verse": 10,
+          "text": "Be like a father to orphans, and take the place of a husband to widows. Then God will call you his child, and he will be merciful to you and deliver you from the pit."
+        },
+        {
+          "verse": 11,
+          "text": "The Rewards of Wisdom - Wisdom teaches her children and admonishes all who can understand her."
+        },
+        {
+          "verse": 12,
+          "text": "Those who love her love life; those who seek her out win the LORD’s favor."
+        },
+        {
+          "verse": 13,
+          "text": "Those who hold her fast will attain glory, and they shall abide in the blessing of the LORD."
+        },
+        {
+          "verse": 14,
+          "text": "Those who serve her serve the Holy One; those who love her the Lord loves."
+        },
+        {
+          "verse": 15,
+          "text": "“Whoever obeys me will judge nations; whoever listens to me will dwell in my inmost chambers."
+        },
+        {
+          "verse": 16,
+          "text": "If they remain faithful, they will possess me; their descendants too will inherit me."
+        },
+        {
+          "verse": 17,
+          "text": "“I will walk with them in disguise, and at first I will test them with trials. Fear and dread I will bring upon them and I will discipline them with my constraints. When their hearts are fully with me,"
+        },
+        {
+          "verse": 18,
+          "text": "then I will set them again on the straight path and reveal my secrets to them."
+        },
+        {
+          "verse": 19,
+          "text": "But if they turn away from me, I will abandon them and deliver them over to robbers.”"
+        },
+        {
+          "verse": 20,
+          "text": "Sincerity and Justice - My son, watch for the right time; fear what is evil; do not bring shame upon yourself."
+        },
+        {
+          "verse": 21,
+          "text": "There is a shame heavy with guilt, and a shame that brings glory and respect."
+        },
+        {
+          "verse": 22,
+          "text": "Show no favoritism to your own discredit; let no one intimidate you to your own downfall."
+        },
+        {
+          "verse": 23,
+          "text": "Do not refrain from speaking at the proper time, and do not hide your wisdom;"
+        },
+        {
+          "verse": 24,
+          "text": "For wisdom becomes known through speech, and knowledge through the tongue’s response."
+        },
+        {
+          "verse": 25,
+          "text": "Never speak against the truth, but of your own ignorance be ashamed."
+        },
+        {
+          "verse": 26,
+          "text": "Do not be ashamed to acknowledge your sins, and do not struggle against a rushing stream."
+        },
+        {
+          "verse": 27,
+          "text": "Do not abase yourself before a fool; do not refuse to do so before rulers."
+        },
+        {
+          "verse": 28,
+          "text": "Even to the death, fight for what is right, and the LORD will do battle for you."
+        },
+        {
+          "verse": 29,
+          "text": "Do not be haughty in your speech, or lazy and slack in your deeds."
+        },
+        {
+          "verse": 30,
+          "text": "Do not be like a lion at home, or sly and suspicious with your servants."
+        },
+        {
+          "verse": 31,
+          "text": "Do not let your hand be open to receive, but clenched when it is time to give."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Chapter 5 Against Presumption - Do not rely on your wealth, or say, “I have the power.”"
+        },
+        {
+          "verse": 2,
+          "text": "Do not rely on your strength in following the desires of your heart."
+        },
+        {
+          "verse": 3,
+          "text": "Do not say, “Who can prevail against me?” for the LORD will exact punishment."
+        },
+        {
+          "verse": 4,
+          "text": "Do not say, “I have sinned, yet what has happened to me?” for the LORD is slow to anger!"
+        },
+        {
+          "verse": 5,
+          "text": "Do not be so confident of forgiveness that you add sin upon sin."
+        },
+        {
+          "verse": 6,
+          "text": "Do not say, “His mercy is great; my many sins he will forgive.” For mercy and anger alike are with him; his wrath comes to rest on the wicked."
+        },
+        {
+          "verse": 7,
+          "text": "Do not delay turning back to the LORD, do not put it off day after day. For suddenly his wrath will come forth; at the time of vengeance, you will perish."
+        },
+        {
+          "verse": 8,
+          "text": "Do not rely on deceitful wealth, for it will be no help on the day of wrath."
+        },
+        {
+          "verse": 9,
+          "text": "Use and Abuse of the Tongue - Do not winnow in every wind, nor walk in every path."
+        },
+        {
+          "verse": 10,
+          "text": "Be steadfast regarding your knowledge, and let your speech be consistent."
+        },
+        {
+          "verse": 11,
+          "text": "Be swift to hear, but slow to answer."
+        },
+        {
+          "verse": 12,
+          "text": "If you can, answer your neighbor; if not, place your hand over your mouth!"
+        },
+        {
+          "verse": 13,
+          "text": "Honor and dishonor through speaking! The tongue can be your downfall."
+        },
+        {
+          "verse": 14,
+          "text": "Do not be called double-tongued; and with your tongue do not slander a neighbor. For shame has been created for the thief, and sore disgrace for the double-tongued."
+        },
+        {
+          "verse": 15,
+          "text": "In little or in much, do not act corruptly;"
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Chapter 6 - Do not be a foe instead of a friend. A bad name, disgrace, and dishonor you will inherit. Thus the wicked, the double-tongued!"
+        },
+        {
+          "verse": 2,
+          "text": "Unruly Passions - Do not fall into the grip of your passion, lest like fire it consume your strength."
+        },
+        {
+          "verse": 3,
+          "text": "It will eat your leaves and destroy your fruits, and you will be left like a dry tree."
+        },
+        {
+          "verse": 4,
+          "text": "For fierce passion destroys its owner and makes him the sport of his enemies."
+        },
+        {
+          "verse": 5,
+          "text": "True Friendship - Pleasant speech multiplies friends, and gracious lips, friendly greetings."
+        },
+        {
+          "verse": 6,
+          "text": "Let those who are friendly to you be many, but one in a thousand your confidant."
+        },
+        {
+          "verse": 7,
+          "text": "When you gain friends, gain them through testing, and do not be quick to trust them."
+        },
+        {
+          "verse": 8,
+          "text": "For there are friends when it suits them, but they will not be around in time of trouble."
+        },
+        {
+          "verse": 9,
+          "text": "Another is a friend who turns into an enemy, and tells of the quarrel to your disgrace."
+        },
+        {
+          "verse": 10,
+          "text": "Others are friends, table companions, but they cannot be found in time of affliction."
+        },
+        {
+          "verse": 11,
+          "text": "When things go well, they are your other self, and lord it over your servants."
+        },
+        {
+          "verse": 12,
+          "text": "If disaster comes upon you, they turn against you and hide themselves."
+        },
+        {
+          "verse": 13,
+          "text": "Stay away from your enemies, and be on guard with your friends."
+        },
+        {
+          "verse": 14,
+          "text": "Faithful friends are a sturdy shelter; whoever finds one finds a treasure."
+        },
+        {
+          "verse": 15,
+          "text": "Faithful friends are beyond price, no amount can balance their worth."
+        },
+        {
+          "verse": 16,
+          "text": "Faithful friends are life-saving medicine; those who fear God will find them."
+        },
+        {
+          "verse": 17,
+          "text": "Those who fear the Lord enjoy stable friendship, for as they are, so will their neighbors be."
+        },
+        {
+          "verse": 18,
+          "text": "Blessings of Wisdom - My child, from your youth choose discipline; and when you have gray hair you will find wisdom."
+        },
+        {
+          "verse": 19,
+          "text": "As though plowing and sowing, draw close to her; then wait for her bountiful crops. For in cultivating her you will work but little, and soon you will eat her fruit."
+        },
+        {
+          "verse": 20,
+          "text": "She is rough ground to the fool! The stupid cannot abide her."
+        },
+        {
+          "verse": 21,
+          "text": "She will be like a burdensome stone to them, and they will not delay in casting her aside."
+        },
+        {
+          "verse": 22,
+          "text": "For discipline is like her name, she is not accessible to many."
+        },
+        {
+          "verse": 23,
+          "text": "Listen, my child, and take my advice; do not refuse my counsel."
+        },
+        {
+          "verse": 24,
+          "text": "Put your feet into her fetters, and your neck under her yoke."
+        },
+        {
+          "verse": 25,
+          "text": "Bend your shoulders and carry her and do not be irked at her bonds."
+        },
+        {
+          "verse": 26,
+          "text": "With all your soul draw close to her; and with all your strength keep her ways."
+        },
+        {
+          "verse": 27,
+          "text": "Inquire and search, seek and find; when you get hold of her, do not let her go."
+        },
+        {
+          "verse": 28,
+          "text": "Thus at last you will find rest in her, and she will become your joy."
+        },
+        {
+          "verse": 29,
+          "text": "Her fetters will be a place of strength; her snare, a robe of spun gold."
+        },
+        {
+          "verse": 30,
+          "text": "Her yoke will be a gold ornament; her bonds, a purple cord."
+        },
+        {
+          "verse": 31,
+          "text": "You will wear her as a robe of glory, and bear her as a splendid crown."
+        },
+        {
+          "verse": 32,
+          "text": "If you wish, my son, you can be wise; if you apply yourself, you can be shrewd."
+        },
+        {
+          "verse": 33,
+          "text": "If you are willing to listen, you can learn; if you pay attention, you can be instructed."
+        },
+        {
+          "verse": 34,
+          "text": "Stand in the company of the elders; stay close to whoever is wise."
+        },
+        {
+          "verse": 35,
+          "text": "Be eager to hear every discourse; let no insightful saying escape you."
+        },
+        {
+          "verse": 36,
+          "text": "If you see the intelligent, seek them out; let your feet wear away their doorsteps!"
+        },
+        {
+          "verse": 37,
+          "text": "Reflect on the law of the Most High, and let his commandments be your constant study. Then he will enlighten your mind, and make you wise as you desire."
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Chapter 7 Conduct Toward God and Neighbor - Do no evil, and evil will not overtake you;"
+        },
+        {
+          "verse": 2,
+          "text": "avoid wickedness, and it will turn away from you."
+        },
+        {
+          "verse": 3,
+          "text": "Do not sow in the furrows of injustice, lest you harvest it sevenfold."
+        },
+        {
+          "verse": 4,
+          "text": "Do not seek from God authority or from the king a place of honor."
+        },
+        {
+          "verse": 5,
+          "text": "Do not parade your righteousness before the LORD, and before the king do not flaunt your wisdom."
+        },
+        {
+          "verse": 6,
+          "text": "Do not seek to become a judge if you do not have the strength to root out crime, Lest you show fear in the presence of the prominent and mar your integrity."
+        },
+        {
+          "verse": 7,
+          "text": "Do not be guilty of any evil before the city court or disgrace yourself before the assembly."
+        },
+        {
+          "verse": 8,
+          "text": "Do not plot to repeat a sin; even for one, you will not go unpunished."
+        },
+        {
+          "verse": 9,
+          "text": "Do not say, “He will appreciate my many gifts; the Most High God will accept my offerings.”"
+        },
+        {
+          "verse": 10,
+          "text": "Do not be impatient in prayer or neglect almsgiving."
+        },
+        {
+          "verse": 11,
+          "text": "Do not ridicule the embittered; Remember: there is One who exalts and humbles."
+        },
+        {
+          "verse": 12,
+          "text": "Do not plot mischief against your relative or against your friend and companion."
+        },
+        {
+          "verse": 13,
+          "text": "Refuse to tell lie after lie, for it never results in good."
+        },
+        {
+          "verse": 14,
+          "text": "Do not babble in the assembly of the elders or repeat the words of your prayer."
+        },
+        {
+          "verse": 15,
+          "text": "Do not hate hard work; work was assigned by God."
+        },
+        {
+          "verse": 16,
+          "text": "Do not esteem yourself more than your compatriots; remember, his wrath will not delay."
+        },
+        {
+          "verse": 17,
+          "text": "More and more, humble your pride; what awaits mortals is worms."
+        },
+        {
+          "verse": 18,
+          "text": "Duties of Family Life, Religion and Charity - Do not barter a friend for money, or a true brother for the gold of Ophir."
+        },
+        {
+          "verse": 19,
+          "text": "Do not reject a sensible wife; a gracious wife is more precious than pearls."
+        },
+        {
+          "verse": 20,
+          "text": "Do not mistreat a servant who works faithfully, or laborers who devote themselves to their task."
+        },
+        {
+          "verse": 21,
+          "text": "Love wise servants as yourself; do not refuse them freedom."
+        },
+        {
+          "verse": 22,
+          "text": "Do you have livestock? Look after them; if they are dependable, keep them."
+        },
+        {
+          "verse": 23,
+          "text": "Do you have sons? Correct them and cure their stubbornness in their early youth."
+        },
+        {
+          "verse": 24,
+          "text": "Do you have daughters? Keep them chaste, and do not be indulgent to them."
+        },
+        {
+          "verse": 25,
+          "text": "Give your daughter in marriage, and a worry comes to an end; but give her to a sensible man."
+        },
+        {
+          "verse": 26,
+          "text": "Do you have a wife? Do not mistreat her, but do not trust the wife you hate."
+        },
+        {
+          "verse": 27,
+          "text": "With your whole heart honor your father; your mother’s birth pangs do not forget."
+        },
+        {
+          "verse": 28,
+          "text": "Remember, of these parents you were born; what can you give them for all they gave you?"
+        },
+        {
+          "verse": 29,
+          "text": "With all your soul fear God and revere his priests."
+        },
+        {
+          "verse": 30,
+          "text": "With all your strength love your Maker and do not neglect his ministers."
+        },
+        {
+          "verse": 31,
+          "text": "Honor God and respect the priest; give him his portion as you have been commanded: First fruits and contributions, his portion of victims and holy offerings."
+        },
+        {
+          "verse": 32,
+          "text": "To the poor also extend your hand, that your blessing may be complete."
+        },
+        {
+          "verse": 33,
+          "text": "Give your gift to all the living, and do not withhold your kindness from the dead."
+        },
+        {
+          "verse": 34,
+          "text": "Do not avoid those who weep, but mourn with those who mourn."
+        },
+        {
+          "verse": 35,
+          "text": "Do not hesitate to visit the sick, because for such things you will be loved."
+        },
+        {
+          "verse": 36,
+          "text": "In whatever you do, remember your last days, and you will never sin."
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Chapter 8 Prudence in Dealing with Others - Do not contend with the mighty, lest you fall into their power."
+        },
+        {
+          "verse": 2,
+          "text": "Do not quarrel with the rich, lest they pay out the price of your downfall. For gold has unsettled many, and wealth perverts the character of princes."
+        },
+        {
+          "verse": 3,
+          "text": "Do not quarrel with loud-mouths, or heap wood upon their fire."
+        },
+        {
+          "verse": 4,
+          "text": "Do not associate with the senseless, lest your ancestors be insulted."
+        },
+        {
+          "verse": 5,
+          "text": "Do not reproach one who turns away from sin; remember, we all are guilty."
+        },
+        {
+          "verse": 6,
+          "text": "Do not insult one who is old, for some of us will also grow old."
+        },
+        {
+          "verse": 7,
+          "text": "Do not rejoice when someone dies; remember, we are all to be gathered in."
+        },
+        {
+          "verse": 8,
+          "text": "Do not neglect the discourse of the wise, but busy yourself with their proverbs; For in this way you will acquire the training to stand in the presence of princes."
+        },
+        {
+          "verse": 9,
+          "text": "Do not reject the tradition of the elders which they have heard from their ancestors; For from it you will learn how to answer when the need arises."
+        },
+        {
+          "verse": 10,
+          "text": "Do not kindle the coals of sinners, lest you be burned in their flaming fire."
+        },
+        {
+          "verse": 11,
+          "text": "Do not give ground before scoundrels; it will set them in ambush against you."
+        },
+        {
+          "verse": 12,
+          "text": "Do not lend to one more powerful than yourself; or if you lend, count it as lost."
+        },
+        {
+          "verse": 13,
+          "text": "Do not give collateral beyond your means; consider any collateral a debt you must pay."
+        },
+        {
+          "verse": 14,
+          "text": "Do not go to court against a judge, for the case will be settled in his favor."
+        },
+        {
+          "verse": 15,
+          "text": "Do not travel with the ruthless lest they weigh you down with calamity; For they will only go their own way, and through their folly you will also perish."
+        },
+        {
+          "verse": 16,
+          "text": "Do not defy the quick-tempered, or ride with them through the desert. For bloodshed is nothing to them; when there is no one to help, they will destroy you."
+        },
+        {
+          "verse": 17,
+          "text": "Do not take counsel with simpletons, for they cannot keep a confidence."
+        },
+        {
+          "verse": 18,
+          "text": "Before a stranger do nothing that should be kept secret, for you do not know what it will produce later on."
+        },
+        {
+          "verse": 19,
+          "text": "Open your heart to no one, do not banish your happiness."
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Chapter 9 Advice Concerning Women - Do not be jealous of the wife of your bosom, lest you teach her to do evil against you."
+        },
+        {
+          "verse": 2,
+          "text": "Do not give a woman power over you to trample on your dignity."
+        },
+        {
+          "verse": 3,
+          "text": "Do not go near a strange woman, lest you fall into her snares."
+        },
+        {
+          "verse": 4,
+          "text": "Do not dally with a singer, lest you be captivated by her charms."
+        },
+        {
+          "verse": 5,
+          "text": "Do not entertain any thoughts about a virgin, lest you be enmeshed in damages for her."
+        },
+        {
+          "verse": 6,
+          "text": "Do not give yourself to a prostitute lest you lose your inheritance."
+        },
+        {
+          "verse": 7,
+          "text": "Do not look around the streets of the city or wander through its squares."
+        },
+        {
+          "verse": 8,
+          "text": "Avert your eyes from a shapely woman; do not gaze upon beauty that is not yours; Through woman’s beauty many have been ruined, for love of it burns like fire."
+        },
+        {
+          "verse": 9,
+          "text": "Never recline at table with a married woman, or drink intoxicants with her, Lest your heart be drawn to her and you go down in blood to the grave."
+        },
+        {
+          "verse": 10,
+          "text": "Choice of Friends - Do not abandon old friends; new ones cannot equal them. A new friend is like new wine— when it has aged, you drink it with pleasure."
+        },
+        {
+          "verse": 11,
+          "text": "Do not envy the wicked for you do not know when their day will come."
+        },
+        {
+          "verse": 12,
+          "text": "Do not delight in the pleasures of the ungodly; remember, they will not die unpunished."
+        },
+        {
+          "verse": 13,
+          "text": "Keep away from those who have power to kill, and you will not be filled with the dread of death. But if you come near them, do not offend them, lest they take away your life. Know that you are stepping among snares and walking over a net."
+        },
+        {
+          "verse": 14,
+          "text": "As best you can, answer your neighbor, and associate with the wise."
+        },
+        {
+          "verse": 15,
+          "text": "With the learned exchange ideas; and let all your conversation be about the law of the Most High."
+        },
+        {
+          "verse": 16,
+          "text": "Take the righteous for your table companions; and let your glory be in the fear of God."
+        },
+        {
+          "verse": 17,
+          "text": "Concerning Rulers - Work by skilled hands will earn praise; but the people’s leader is proved wise by his words."
+        },
+        {
+          "verse": 18,
+          "text": "Loud mouths are feared in their city, and whoever is reckless in speech is hated."
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Chapter 10 - A wise magistrate gives stability to his people, and government by the intelligent is well ordered."
+        },
+        {
+          "verse": 2,
+          "text": "As the people’s judge, so the officials; as the head of a city, so the inhabitants."
+        },
+        {
+          "verse": 3,
+          "text": "A reckless king destroys his people, but a city grows through the intelligence of its princes."
+        },
+        {
+          "verse": 4,
+          "text": "Sovereignty over the earth is in the hand of God, who appoints the right person for the right time."
+        },
+        {
+          "verse": 5,
+          "text": "Sovereignty over everyone is in the hand of God, who imparts his majesty to the ruler."
+        },
+        {
+          "verse": 6,
+          "text": "The Sin of Pride - No matter what the wrong, never harm your neighbor or go the way of arrogance."
+        },
+        {
+          "verse": 7,
+          "text": "Odious to the Lord and to mortals is pride, and for both oppression is a crime."
+        },
+        {
+          "verse": 8,
+          "text": "Sovereignty is transferred from one people to another because of the lawlessness of the proud."
+        },
+        {
+          "verse": 9,
+          "text": "Why are dust and ashes proud? Even during life the body decays."
+        },
+        {
+          "verse": 10,
+          "text": "A slight illness—the doctor jests; a king today—tomorrow he is dead."
+        },
+        {
+          "verse": 11,
+          "text": "When a people die, they inherit corruption and worms, gnats and maggots."
+        },
+        {
+          "verse": 12,
+          "text": "The beginning of pride is stubbornness in withdrawing the heart from one’s Maker."
+        },
+        {
+          "verse": 13,
+          "text": "For sin is a reservoir of insolence, a source which runs over with vice; Because of it God sends unheard-of afflictions and strikes people with utter ruin."
+        },
+        {
+          "verse": 14,
+          "text": "God overturns the thrones of the proud and enthrones the lowly in their place."
+        },
+        {
+          "verse": 15,
+          "text": "God plucks up the roots of the proud, and plants the lowly in their place."
+        },
+        {
+          "verse": 16,
+          "text": "The Lord lays waste the lands of the nations, and destroys them to the very foundations of the earth."
+        },
+        {
+          "verse": 17,
+          "text": "He removes them from the earth, destroying them, erasing their memory from the world."
+        },
+        {
+          "verse": 18,
+          "text": "Insolence does not befit mortals, nor impudent anger those born of women."
+        },
+        {
+          "verse": 19,
+          "text": "True Glory - Whose offspring can be honorable? Human offspring. Those who fear the LORD are honorable offspring. Whose offspring can be disgraceful? Human offspring. Those who transgress the commandment are disgraceful offspring."
+        },
+        {
+          "verse": 20,
+          "text": "Among relatives their leader is honored; but whoever fears God is honored among God’s people."
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Chapter 11 - The wisdom of the poor lifts their head high and sets them among princes."
+        },
+        {
+          "verse": 2,
+          "text": "Do not praise anyone for good looks; or despise anyone because of appearance."
+        },
+        {
+          "verse": 3,
+          "text": "The bee is least among winged creatures, but it reaps the choicest of harvests."
+        },
+        {
+          "verse": 4,
+          "text": "Do not mock the one who wears only a loin-cloth, or scoff at a person’s bitter day. For strange are the deeds of the LORD, hidden from mortals his work."
+        },
+        {
+          "verse": 5,
+          "text": "Many are the oppressed who rise to the throne; some that none would consider wear a crown."
+        },
+        {
+          "verse": 6,
+          "text": "Many are the exalted who fall into utter disgrace, many the honored who are given into the power of the few."
+        },
+        {
+          "verse": 7,
+          "text": "Moderation and Patience - Before investigating, do not find fault; examine first, then criticize."
+        },
+        {
+          "verse": 8,
+          "text": "Before listening, do not say a word, interrupt no one in the midst of speaking."
+        },
+        {
+          "verse": 9,
+          "text": "Do not dispute about what is not your concern; in the quarrels of the arrogant do not take part."
+        },
+        {
+          "verse": 10,
+          "text": "My son, why increase your anxiety, since whoever is greedy for wealth will not be blameless? Even if you chase after it, you will never overtake it; and by fleeing you will not escape."
+        },
+        {
+          "verse": 11,
+          "text": "One may work and struggle and drive, and fall short all the same."
+        },
+        {
+          "verse": 12,
+          "text": "Others go their way broken-down drifters, with little strength and great misery— Yet the eye of the LORD looks favorably upon them, shaking them free of the stinking mire."
+        },
+        {
+          "verse": 13,
+          "text": "He lifts up their heads and exalts them to the amazement of the many."
+        },
+        {
+          "verse": 14,
+          "text": "Good and evil, life and death, poverty and riches—all are from the LORD."
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Chapter 12 - If you do good, know for whom you are doing it, and your kindness will have its effect."
+        },
+        {
+          "verse": 2,
+          "text": "Do good to the righteous and reward will be yours, if not from them, from the LORD."
+        },
+        {
+          "verse": 3,
+          "text": "No good comes to those who give comfort to the wicked, nor is it an act of mercy that they do."
+        },
+        {
+          "verse": 4,
+          "text": "Give to the good but refuse the sinner;"
+        },
+        {
+          "verse": 5,
+          "text": "refresh the downtrodden but give nothing to the proud. No arms for combat should you give them, lest they use these against you; Twofold evil you will obtain for every good deed you do for them."
+        },
+        {
+          "verse": 6,
+          "text": "For God also hates sinners, and takes vengeance on evildoers."
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Chapter 13 Caution Regarding Associates - Touch pitch and you blacken your hand; associate with scoundrels and you learn their ways."
+        },
+        {
+          "verse": 2,
+          "text": "Do not lift a weight too heavy for you, or associate with anyone wealthier than you. How can the clay pot go with the metal cauldron? When they knock together, the pot will be smashed:"
+        },
+        {
+          "verse": 3,
+          "text": "The rich do wrong and boast of it, while the poor are wronged and beg forgiveness."
+        },
+        {
+          "verse": 4,
+          "text": "As long as the rich can use you they will enslave you, but when you are down and out they will abandon you."
+        },
+        {
+          "verse": 5,
+          "text": "As long as you have anything they will live with you, but they will drain you dry without remorse."
+        },
+        {
+          "verse": 6,
+          "text": "When they need you they will deceive you and smile at you and raise your hopes; they will speak kindly to you and say, “What do you need?”"
+        },
+        {
+          "verse": 7,
+          "text": "They will embarrass you at their dinner parties, and finally laugh at you. Afterwards, when they see you, they will pass you by, and shake their heads at you."
+        },
+        {
+          "verse": 8,
+          "text": "Be on guard: do not act too boldly; do not be like those who lack sense."
+        },
+        {
+          "verse": 9,
+          "text": "When the influential draw near, keep your distance; then they will urge you all the more."
+        },
+        {
+          "verse": 10,
+          "text": "Do not draw too close, lest you be rebuffed, but do not keep too far away lest you be regarded as an enemy."
+        },
+        {
+          "verse": 11,
+          "text": "Do not venture to be free with them, do not trust their many words; For by prolonged talk they will test you, and though smiling they will probe you."
+        },
+        {
+          "verse": 12,
+          "text": "Mercilessly they will make you a laughingstock, and will not refrain from injury or chains."
+        },
+        {
+          "verse": 13,
+          "text": "Be on your guard and take care never to accompany lawless people."
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Chapter 14 - Happy those whose mouth causes them no grief, those who are not stung by remorse for sin."
+        },
+        {
+          "verse": 2,
+          "text": "Happy are those whose conscience does not reproach them, those who have not lost hope."
+        },
+        {
+          "verse": 3,
+          "text": "The Use of Wealth - Wealth is not appropriate for the mean-spirited; to misers, what use is gold?"
+        },
+        {
+          "verse": 4,
+          "text": "What they deny themselves they collect for someone else, and strangers will live sumptuously on their possessions."
+        },
+        {
+          "verse": 5,
+          "text": "To whom will they be generous that are stingy with themselves and do not enjoy what is their own?"
+        },
+        {
+          "verse": 6,
+          "text": "None are worse than those who are stingy with themselves; they punish their own avarice."
+        },
+        {
+          "verse": 7,
+          "text": "If ever they do good, it is by mistake; in the end they reveal their meanness."
+        },
+        {
+          "verse": 8,
+          "text": "Misers are evil people, they turn away and disregard others."
+        },
+        {
+          "verse": 9,
+          "text": "The greedy see their share as not enough; greedy injustice dries up the soul."
+        },
+        {
+          "verse": 10,
+          "text": "The eye of the miserly is rapacious for food, but there is none of it on their own table."
+        },
+        {
+          "verse": 11,
+          "text": "My son, if you have the means, treat yourself well, and enjoy life as best you can."
+        },
+        {
+          "verse": 12,
+          "text": "Remember that death does not delay, and you have not been told the grave’s appointed time."
+        },
+        {
+          "verse": 13,
+          "text": "Before you die, be good to your friends; give them a share in what you possess."
+        },
+        {
+          "verse": 14,
+          "text": "Do not deprive yourself of good things now or let a choice portion escape you."
+        },
+        {
+          "verse": 15,
+          "text": "Will you not leave your riches to others, and your earnings to be divided by lot?"
+        },
+        {
+          "verse": 16,
+          "text": "Give and take, treat yourself well, for in Sheol there are no joys to seek."
+        },
+        {
+          "verse": 17,
+          "text": "All flesh grows old like a garment; the age-old law is: everyone must die."
+        },
+        {
+          "verse": 18,
+          "text": "As with the leaves growing on a luxuriant tree— one falls off and another sprouts— So with the generations of flesh and blood: one dies and another flourishes."
+        },
+        {
+          "verse": 19,
+          "text": "All human deeds surely perish; the works they do follow after them."
+        },
+        {
+          "verse": 20,
+          "text": "The Search for Wisdom and Her Blessings - Happy those who meditate on Wisdom, and fix their gaze on knowledge;"
+        },
+        {
+          "verse": 21,
+          "text": "Who ponder her ways in their heart, and understand her paths;"
+        },
+        {
+          "verse": 22,
+          "text": "Who pursue her like a scout, and watch at her entry way;"
+        },
+        {
+          "verse": 23,
+          "text": "Who peep through her windows, and listen at her doors;"
+        },
+        {
+          "verse": 24,
+          "text": "Who encamp near her house and fasten their tent pegs next to her walls;"
+        },
+        {
+          "verse": 25,
+          "text": "Who pitch their tent beside her, and dwell in a good place;"
+        },
+        {
+          "verse": 26,
+          "text": "Who build their nest in her leaves, and lodge in her branches;"
+        },
+        {
+          "verse": 27,
+          "text": "Who take refuge from the heat in her shade and dwell in her home."
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Chapter 15 - Whoever fears the LORD will do this; whoever is practiced in the Law will come to Wisdom."
+        },
+        {
+          "verse": 2,
+          "text": "She will meet him like a mother; like a young bride she will receive him,"
+        },
+        {
+          "verse": 3,
+          "text": "She will feed him with the bread of learning, and give him the water of understanding to drink."
+        },
+        {
+          "verse": 4,
+          "text": "He will lean upon her and not fall; he will trust in her and not be put to shame."
+        },
+        {
+          "verse": 5,
+          "text": "She will exalt him above his neighbors, and in the assembly she will make him eloquent."
+        },
+        {
+          "verse": 6,
+          "text": "Joy and gladness he will find, and an everlasting name he will inherit."
+        },
+        {
+          "verse": 7,
+          "text": "The worthless will not attain her, and the haughty will not behold her."
+        },
+        {
+          "verse": 8,
+          "text": "She is far from the impious; liars never think of her."
+        },
+        {
+          "verse": 9,
+          "text": "Praise is unseemly on the lips of sinners, for it has not been allotted to them by God."
+        },
+        {
+          "verse": 10,
+          "text": "But praise is uttered by the mouth of the wise, and its rightful owner teaches it."
+        },
+        {
+          "verse": 11,
+          "text": "Free Will - Do not say: “It was God’s doing that I fell away,” for what he hates he does not do."
+        },
+        {
+          "verse": 12,
+          "text": "Do not say: “He himself has led me astray,” for he has no need of the wicked."
+        },
+        {
+          "verse": 13,
+          "text": "Abominable wickedness the LORD hates and he does not let it happen to those who fear him."
+        },
+        {
+          "verse": 14,
+          "text": "God in the beginning created human beings and made them subject to their own free choice."
+        },
+        {
+          "verse": 15,
+          "text": "If you choose, you can keep the commandments; loyalty is doing the will of God."
+        },
+        {
+          "verse": 16,
+          "text": "Set before you are fire and water; to whatever you choose, stretch out your hand."
+        },
+        {
+          "verse": 17,
+          "text": "Before everyone are life and death, whichever they choose will be given them."
+        },
+        {
+          "verse": 18,
+          "text": "Immense is the wisdom of the LORD; mighty in power, he sees all things."
+        },
+        {
+          "verse": 19,
+          "text": "The eyes of God behold his works, and he understands every human deed."
+        },
+        {
+          "verse": 20,
+          "text": "He never commands anyone to sin, nor shows leniency toward deceivers."
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Chapter 16 God’s Punishment of Sinners - Do not yearn for worthless children, or rejoice in wicked offspring."
+        },
+        {
+          "verse": 2,
+          "text": "Even if they be many, do not rejoice in them if they do not have fear of the LORD."
+        },
+        {
+          "verse": 3,
+          "text": "Do not count on long life for them, or have any hope for their future. For one can be better than a thousand; rather die childless than have impious children!"
+        },
+        {
+          "verse": 4,
+          "text": "Through one wise person a city can be peopled; but through a clan of rebels it becomes desolate."
+        },
+        {
+          "verse": 5,
+          "text": "Many such things my eye has seen, and even more than these my ear has heard."
+        },
+        {
+          "verse": 6,
+          "text": "Against a sinful band fire is kindled, upon a godless people wrath blazes."
+        },
+        {
+          "verse": 7,
+          "text": "He did not forgive the princes of old who rebelled long ago in their might."
+        },
+        {
+          "verse": 8,
+          "text": "He did not spare the neighbors of Lot, abominable in their pride."
+        },
+        {
+          "verse": 9,
+          "text": "He did not spare the doomed people, dispossessed because of their sin;"
+        },
+        {
+          "verse": 10,
+          "text": "Nor the six hundred thousand foot soldiers, sent to their graves for the arrogance of their hearts."
+        },
+        {
+          "verse": 11,
+          "text": "Had there been but one stiff-necked person, it would be a wonder had he gone unpunished. For mercy and anger alike are with him; he remits and forgives, but also pours out wrath."
+        },
+        {
+          "verse": 12,
+          "text": "Great as his mercy is his punishment; he judges people, each according to their deeds."
+        },
+        {
+          "verse": 13,
+          "text": "Criminals do not escape with their plunder; the hope of the righteous, God never leaves unfulfilled."
+        },
+        {
+          "verse": 14,
+          "text": "Whoever does good has a reward; each receives according to their deeds."
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Chapter 17 Creation of Human Beings - The Lord created human beings from the earth, and makes them return to earth again."
+        },
+        {
+          "verse": 2,
+          "text": "A limited number of days he gave them, but granted them authority over everything on earth."
+        },
+        {
+          "verse": 3,
+          "text": "He endowed them with strength like his own, and made them in his image."
+        },
+        {
+          "verse": 4,
+          "text": "He put fear of them in all flesh, and gave them dominion over beasts and birds."
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Chapter 18 The Divine Power and Mercy - He who lives forever created the whole universe;"
+        },
+        {
+          "verse": 2,
+          "text": "the LORD alone is just."
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Chapter 19 - Whoever does this grows no richer; those who waste the little they have will be stripped bare."
+        },
+        {
+          "verse": 2,
+          "text": "Wine and women make the heart lustful, and the companion of prostitutes becomes reckless."
+        },
+        {
+          "verse": 3,
+          "text": "Rottenness and worms will possess him, and the reckless will be snatched away."
+        },
+        {
+          "verse": 4,
+          "text": "Whoever trusts others too quickly has a shallow mind, and those who sin wrong themselves."
+        },
+        {
+          "verse": 5,
+          "text": "The Proper Use of Speech - Whoever gloats over evil will be destroyed,"
+        },
+        {
+          "verse": 6,
+          "text": "and whoever repeats gossip has no sense."
+        },
+        {
+          "verse": 7,
+          "text": "Never repeat gossip, and no one will reproach you."
+        },
+        {
+          "verse": 8,
+          "text": "Tell nothing to friend or foe; and unless it be a sin for you, do not reveal a thing."
+        },
+        {
+          "verse": 9,
+          "text": "For someone may have heard you and watched you, and in time come to hate you."
+        },
+        {
+          "verse": 10,
+          "text": "Let anything you hear die with you; never fear, it will not make you burst!"
+        },
+        {
+          "verse": 11,
+          "text": "Having heard something, the fool goes into labor, like a woman giving birth to a child."
+        },
+        {
+          "verse": 12,
+          "text": "Like an arrow stuck in a fool’s thigh, so is gossip in the belly of a fool."
+        },
+        {
+          "verse": 13,
+          "text": "Admonish your friend—he may not have done it; and if he did, that he may not do it again."
+        },
+        {
+          "verse": 14,
+          "text": "Admonish your neighbor—he may not have said it; and if he did, that he may not say it again."
+        },
+        {
+          "verse": 15,
+          "text": "Admonish your friend—often it may be slander; do not believe every story."
+        },
+        {
+          "verse": 16,
+          "text": "Then, too, a person can slip and not mean it; who has not sinned with his tongue?"
+        },
+        {
+          "verse": 17,
+          "text": "Admonish your neighbor before you break with him; and give due place to the Law of the Most High."
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Chapter 20 Conduct of the Wise and the Foolish - There is an admonition that is untimely, but the silent person is the wise one."
+        },
+        {
+          "verse": 2,
+          "text": "It is much better to admonish than to lose one’s temper;"
+        },
+        {
+          "verse": 3,
+          "text": "one who admits a fault will be kept from disgrace."
+        },
+        {
+          "verse": 4,
+          "text": "Like a eunuch lusting to violate a young woman is the one who does right under compulsion."
+        },
+        {
+          "verse": 5,
+          "text": "One is silent and is thought wise; another, for being talkative, is disliked."
+        },
+        {
+          "verse": 6,
+          "text": "One is silent, having nothing to say; another is silent, biding his time."
+        },
+        {
+          "verse": 7,
+          "text": "The wise remain silent till the right time comes, but a boasting fool misses the proper time."
+        },
+        {
+          "verse": 8,
+          "text": "Whoever talks too much is detested; whoever pretends to authority is hated."
+        },
+        {
+          "verse": 9,
+          "text": "There is the misfortune that brings success; and there is the gain that turns into loss."
+        },
+        {
+          "verse": 10,
+          "text": "There is the gift that profits you nothing, and there is the gift that must be paid back double."
+        },
+        {
+          "verse": 11,
+          "text": "There is the loss for the sake of glory, and there is the one who rises above humble circumstances."
+        },
+        {
+          "verse": 12,
+          "text": "There is one who buys much for little, but pays for it seven times over."
+        },
+        {
+          "verse": 13,
+          "text": "The wise make themselves beloved by a few words, but the courtesies of fools are wasted."
+        },
+        {
+          "verse": 14,
+          "text": "A gift from a fool will do you no good, for in his eyes this one gift is equal to many."
+        },
+        {
+          "verse": 15,
+          "text": "He gives little, criticizes often, and opens his mouth like a town crier. He lends today and asks for it tomorrow; such a person is hateful."
+        },
+        {
+          "verse": 16,
+          "text": "A fool says, “I have no friends nor thanks for my generosity.” Those who eat his bread have a mocking tongue."
+        },
+        {
+          "verse": 17,
+          "text": "How many will ridicule him, and how often!"
+        },
+        {
+          "verse": 18,
+          "text": "A slip on the floor is better than a slip of the tongue; in like manner the downfall of the wicked comes quickly."
+        },
+        {
+          "verse": 19,
+          "text": "A coarse person, an untimely story; the ignorant are always ready to offer it."
+        },
+        {
+          "verse": 20,
+          "text": "A proverb spoken by a fool is unwelcome, for he does not tell it at the proper time."
+        },
+        {
+          "verse": 21,
+          "text": "There is a person whose poverty prevents him from sinning, but when he takes his rest he has no regrets."
+        },
+        {
+          "verse": 22,
+          "text": "There is a person who is destroyed through shame, and ruined by foolish posturing."
+        },
+        {
+          "verse": 23,
+          "text": "There is one who promises a friend out of shame, and so makes an enemy needlessly."
+        },
+        {
+          "verse": 24,
+          "text": "A lie is a foul blot in a person, yet it is always on the lips of the ignorant."
+        },
+        {
+          "verse": 25,
+          "text": "A thief is better than an inveterate liar, yet both will suffer ruin."
+        },
+        {
+          "verse": 26,
+          "text": "A liar’s way leads to dishonor, and his shame remains ever with him."
+        },
+        {
+          "verse": 27,
+          "text": "The wise gain promotion with few words, the prudent please the great."
+        },
+        {
+          "verse": 28,
+          "text": "Those who work the land have abundant crops, and those who please the great are pardoned their faults."
+        },
+        {
+          "verse": 29,
+          "text": "Favors and gifts blind the eyes; like a muzzle over the mouth they silence reproofs."
+        },
+        {
+          "verse": 30,
+          "text": "Hidden wisdom and unseen treasure— what value has either?"
+        },
+        {
+          "verse": 31,
+          "text": "Better are those who hide their folly than those who hide their wisdom."
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Chapter 21 Dangers from Sin - My child, if you have sinned, do so no more, and for your past sins pray to be forgiven."
+        },
+        {
+          "verse": 2,
+          "text": "Flee from sin as from a serpent that will bite you if you go near it; Its teeth, lion’s teeth, destroying human lives."
+        },
+        {
+          "verse": 3,
+          "text": "All lawlessness is like a two-edged sword; when it cuts, there is no healing."
+        },
+        {
+          "verse": 4,
+          "text": "Panic and pride wipe out wealth; so too the house of the proud is uprooted."
+        },
+        {
+          "verse": 5,
+          "text": "Prayer from the lips of the poor is heard at once, and justice is quickly granted them."
+        },
+        {
+          "verse": 6,
+          "text": "Whoever hates correction walks the sinner’s path, but whoever fears the Lord repents in his heart."
+        },
+        {
+          "verse": 7,
+          "text": "Glib speakers are widely known, but when they slip the sensible perceive it."
+        },
+        {
+          "verse": 8,
+          "text": "Those who build their houses with someone else’s money are like those who collect stones for their funeral mounds."
+        },
+        {
+          "verse": 9,
+          "text": "A band of criminals is like a bundle of tow; they will end in a flaming fire."
+        },
+        {
+          "verse": 10,
+          "text": "The path of sinners is smooth stones, but its end is the pit of Sheol."
+        },
+        {
+          "verse": 11,
+          "text": "The Wise and Foolish: A Contrast - Those who keep the Law control their thoughts; perfect fear of the Lord is wisdom."
+        },
+        {
+          "verse": 12,
+          "text": "One who is not clever can never be taught, but there is a cleverness filled with bitterness."
+        },
+        {
+          "verse": 13,
+          "text": "The knowledge of the wise wells up like a flood, and their counsel like a living spring."
+        },
+        {
+          "verse": 14,
+          "text": "A fool’s mind is like a broken jar: it cannot hold any knowledge at all."
+        },
+        {
+          "verse": 15,
+          "text": "When the intelligent hear a wise saying, they praise it and add to it. The wanton hear it with distaste and cast it behind their back."
+        },
+        {
+          "verse": 16,
+          "text": "A fool’s chatter is like a load on a journey, but delight is to be found on the lips of the intelligent."
+        },
+        {
+          "verse": 17,
+          "text": "The views of the prudent are sought in an assembly, and their words are taken to heart."
+        },
+        {
+          "verse": 18,
+          "text": "Like a house in ruins is wisdom to a fool; to the stupid, knowledge is incomprehensible chatter."
+        },
+        {
+          "verse": 19,
+          "text": "To the senseless, education is fetters on the feet, like manacles on the right hand."
+        },
+        {
+          "verse": 20,
+          "text": "Fools raise their voice in laughter, but the prudent at most smile quietly."
+        },
+        {
+          "verse": 21,
+          "text": "Like a gold ornament is education to the wise, like a bracelet on the right arm."
+        },
+        {
+          "verse": 22,
+          "text": "A fool steps boldly into a house, while the well-bred are slow to make an entrance."
+        },
+        {
+          "verse": 23,
+          "text": "A boor peeps through the doorway of a house, but the educated stay outside."
+        },
+        {
+          "verse": 24,
+          "text": "It is rude for one to listen at a door; the discreet person would be overwhelmed by the disgrace."
+        },
+        {
+          "verse": 25,
+          "text": "The lips of the arrogant talk of what is not their concern, but the discreet carefully weigh their words."
+        },
+        {
+          "verse": 26,
+          "text": "The mind of fools is in their mouths, but the mouth of the wise is in their mind."
+        },
+        {
+          "verse": 27,
+          "text": "When the godless curse their adversary, they really curse themselves."
+        },
+        {
+          "verse": 28,
+          "text": "Slanderers sully themselves, and are hated by their neighbors."
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Chapter 22 On Laziness and Foolishness - The sluggard is like a filthy stone; everyone hisses at his disgrace."
+        },
+        {
+          "verse": 2,
+          "text": "The sluggard is like a lump of dung; whoever touches it shakes it off the hands."
+        },
+        {
+          "verse": 3,
+          "text": "An undisciplined child is a disgrace to its father; if it be a daughter, she brings him to poverty."
+        },
+        {
+          "verse": 4,
+          "text": "A thoughtful daughter obtains a husband of her own; a shameless one is her father’s grief."
+        },
+        {
+          "verse": 5,
+          "text": "A hussy shames her father and her husband; she is despised by both."
+        },
+        {
+          "verse": 6,
+          "text": "Like music at the time of mourning is ill-timed talk, but lashes and discipline are at all times wisdom."
+        }
+      ]
+    },
+    {
+      "chapter": 23,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Chapter 23 - Lord, Father and Master of my life, do not abandon me to their designs, do not let me fall because of them!"
+        },
+        {
+          "verse": 2,
+          "text": "Who will apply the lash to my thoughts, and to my mind the rod of discipline, That my failings may not be spared or the sins of my heart overlooked?"
+        },
+        {
+          "verse": 3,
+          "text": "Otherwise my failings may increase, and my sins be multiplied; And I fall before my adversaries, and my enemy rejoice over me?"
+        },
+        {
+          "verse": 4,
+          "text": "Lord, Father and God of my life, do not give me haughty eyes;"
+        },
+        {
+          "verse": 5,
+          "text": "remove evil desire from my heart."
+        },
+        {
+          "verse": 6,
+          "text": "Let neither gluttony nor lust overcome me; do not give me up to shameless desires."
+        },
+        {
+          "verse": 7,
+          "text": "Proper Use of the Tongue - Listen, my children, to instruction concerning the mouth, for whoever keeps it will not be ensnared."
+        },
+        {
+          "verse": 8,
+          "text": "Through the lips the sinner is caught; by them the reviler and the arrogant are tripped up."
+        },
+        {
+          "verse": 9,
+          "text": "Do not accustom your mouth to oaths, or habitually utter the Holy Name."
+        },
+        {
+          "verse": 10,
+          "text": "Just as a servant constantly under scrutiny will not be without bruises, So one who swears continually by the Holy Name will never remain free from sin."
+        },
+        {
+          "verse": 11,
+          "text": "Those who swear many oaths heap up offenses; and the scourge will never be far from their houses. If they swear in error, guilt is incurred; if they neglect their obligation, the sin is doubly great. If they swear without reason they cannot be declared innocent, for their households will be filled with calamities."
+        },
+        {
+          "verse": 12,
+          "text": "There are words comparable to death; may they never be heard in the inheritance of Jacob. To the devout all such words are foreign; they do not wallow in sin."
+        },
+        {
+          "verse": 13,
+          "text": "Do not accustom your mouth to coarse talk, for it involves sinful speech."
+        },
+        {
+          "verse": 14,
+          "text": "Keep your father and mother in mind when you sit among the mighty, Lest you forget yourself in their presence and disgrace your upbringing. Then you will wish you had never been born and will curse the day of your birth."
+        },
+        {
+          "verse": 15,
+          "text": "Those accustomed to using abusive language will never acquire discipline as long as they live."
+        },
+        {
+          "verse": 16,
+          "text": "Sins of the Flesh - Two types of people multiply sins, and a third draws down wrath: Burning passion is like a blazing fire, not to be quenched till it burns itself out; One unchaste with his kindred never stops until fire breaks forth."
+        },
+        {
+          "verse": 17,
+          "text": "To the unchaste all bread is sweet; he is never through till he dies."
+        },
+        {
+          "verse": 18,
+          "text": "The man who dishonors his marriage bed says to himself, “Who can see me? Darkness surrounds me, walls hide me, no one sees me. Who can stop me from sinning?” He is not mindful of the Most High,"
+        },
+        {
+          "verse": 19,
+          "text": "fearing only human eyes. He does not realize that the eyes of the Lord, ten thousand times brighter than the sun, Observe every step taken and peer into hidden corners."
+        },
+        {
+          "verse": 20,
+          "text": "The one who knows all things before they exist still knows them all after they are made."
+        },
+        {
+          "verse": 21,
+          "text": "Such a man will be denounced in the streets of the city; and where he least suspects it, he will be apprehended."
+        },
+        {
+          "verse": 22,
+          "text": "So it is with the woman unfaithful to her husband, who offers him an heir by another man."
+        },
+        {
+          "verse": 23,
+          "text": "First of all, she has disobeyed the law of the Most High; second, she has wronged her husband; Third, through her wanton adultery she has brought forth children by another man."
+        },
+        {
+          "verse": 24,
+          "text": "Such a woman will be dragged before the assembly, and her punishment will extend to her children."
+        },
+        {
+          "verse": 25,
+          "text": "Her children will not take root; her branches will not bring forth fruit."
+        },
+        {
+          "verse": 26,
+          "text": "She will leave behind an accursed memory; her disgrace will never be blotted out."
+        },
+        {
+          "verse": 27,
+          "text": "Thus all who dwell on the earth shall know, all who remain in the world shall understand, That nothing is better than the fear of the Lord, nothing sweeter than obeying the commandments of the Lord."
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Chapter 24 Praise of Wisdom - Wisdom sings her own praises, among her own people she proclaims her glory."
+        },
+        {
+          "verse": 2,
+          "text": "In the assembly of the Most High she opens her mouth, in the presence of his host she tells of her glory:"
+        },
+        {
+          "verse": 3,
+          "text": "“From the mouth of the Most High I came forth, and covered the earth like a mist."
+        },
+        {
+          "verse": 4,
+          "text": "In the heights of heaven I dwelt, and my throne was in a pillar of cloud."
+        },
+        {
+          "verse": 5,
+          "text": "The vault of heaven I compassed alone, and walked through the deep abyss."
+        },
+        {
+          "verse": 6,
+          "text": "Over waves of the sea, over all the land, over every people and nation I held sway."
+        },
+        {
+          "verse": 7,
+          "text": "Among all these I sought a resting place. In whose inheritance should I abide?"
+        },
+        {
+          "verse": 8,
+          "text": "“Then the Creator of all gave me his command, and my Creator chose the spot for my tent. He said, ‘In Jacob make your dwelling, in Israel your inheritance.’"
+        },
+        {
+          "verse": 9,
+          "text": "Before all ages, from the beginning, he created me, and through all ages I shall not cease to be."
+        },
+        {
+          "verse": 10,
+          "text": "In the holy tent I ministered before him, and so I was established in Zion."
+        },
+        {
+          "verse": 11,
+          "text": "In the city he loves as he loves me, he gave me rest; in Jerusalem, my domain."
+        },
+        {
+          "verse": 12,
+          "text": "I struck root among the glorious people, in the portion of the Lord, his heritage."
+        },
+        {
+          "verse": 13,
+          "text": "“Like a cedar in Lebanon I grew tall, like a cypress on Mount Hermon;"
+        },
+        {
+          "verse": 14,
+          "text": "I grew tall like a palm tree in Engedi, like rosebushes in Jericho; Like a fair olive tree in the field, like a plane tree beside water I grew tall."
+        },
+        {
+          "verse": 15,
+          "text": "Like cinnamon and fragrant cane, like precious myrrh I gave forth perfume; Like galbanum and onycha and mastic, like the odor of incense in the holy tent."
+        },
+        {
+          "verse": 16,
+          "text": "“I spread out my branches like a terebinth, my branches so glorious and so graceful."
+        },
+        {
+          "verse": 17,
+          "text": "I bud forth delights like a vine; my blossoms are glorious and rich fruit."
+        }
+      ]
+    },
+    {
+      "chapter": 25,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Chapter 25 Those Who Are Worthy of Praise - With three things I am delighted, for they are pleasing to the Lord and to human beings: Harmony among relatives, friendship among neighbors, and a wife and a husband living happily together."
+        },
+        {
+          "verse": 2,
+          "text": "Three kinds of people I hate, and I loathe their manner of life: A proud pauper, a rich liar, and a lecherous old fool."
+        },
+        {
+          "verse": 3,
+          "text": "In your youth you did not gather. How will you find anything in your old age?"
+        },
+        {
+          "verse": 4,
+          "text": "How appropriate is sound judgment in the gray-haired, and good counsel in the elderly!"
+        },
+        {
+          "verse": 5,
+          "text": "How appropriate is wisdom in the aged, understanding and counsel in the venerable!"
+        },
+        {
+          "verse": 6,
+          "text": "The crown of the elderly, wide experience; their glory, the fear of the Lord."
+        },
+        {
+          "verse": 7,
+          "text": "There are nine who come to mind as blessed, a tenth whom my tongue proclaims: The man who finds joy in his children, and the one who lives to see the downfall of his enemies."
+        },
+        {
+          "verse": 8,
+          "text": "Happy the man who lives with a sensible woman, and the one who does not plow with an ox and a donkey combined. Happy the one who does not sin with the tongue, who does not serve an inferior."
+        },
+        {
+          "verse": 9,
+          "text": "Happy the one who finds a friend, who speaks to attentive ears."
+        },
+        {
+          "verse": 10,
+          "text": "How great is the one who finds wisdom, but none is greater than the one who fears the Lord."
+        },
+        {
+          "verse": 11,
+          "text": "Fear of the Lord surpasses all else. To whom can we compare the one who has it?"
+        }
+      ]
+    },
+    {
+      "chapter": 26,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Chapter 26 - Happy the husband of a good wife; the number of his days will be doubled."
+        },
+        {
+          "verse": 2,
+          "text": "A loyal wife brings joy to her husband, and he will finish his years in peace."
+        },
+        {
+          "verse": 3,
+          "text": "A good wife is a generous gift bestowed upon him who fears the Lord."
+        },
+        {
+          "verse": 4,
+          "text": "Whether rich or poor, his heart is content, a smile ever on his face."
+        },
+        {
+          "verse": 5,
+          "text": "There are three things I dread, and a fourth which terrifies me: Public slander, the gathering of a mob, and false accusation—all harder to bear than death."
+        },
+        {
+          "verse": 6,
+          "text": "A wife jealous of another wife is heartache and mourning; everyone feels the lash of her tongue."
+        },
+        {
+          "verse": 7,
+          "text": "A wicked wife is a chafing yoke; taking hold of her is like grasping a scorpion."
+        },
+        {
+          "verse": 8,
+          "text": "A drunken wife arouses great anger, for she does not hide her shame."
+        },
+        {
+          "verse": 9,
+          "text": "By her haughty stare and her eyelids an unchaste wife can be recognized."
+        },
+        {
+          "verse": 10,
+          "text": "Keep a strict watch over an unruly wife, lest, finding an opportunity, she use it;"
+        },
+        {
+          "verse": 11,
+          "text": "Watch out for her impudent eye, and do not be surprised if she betrays you:"
+        },
+        {
+          "verse": 12,
+          "text": "As a thirsty traveler opens his mouth and drinks from any water nearby, So she sits down before every tent peg and opens her quiver for every arrow."
+        },
+        {
+          "verse": 13,
+          "text": "A gracious wife delights her husband; her thoughtfulness puts flesh on his bones."
+        },
+        {
+          "verse": 14,
+          "text": "A silent wife is a gift from the Lord; nothing is worth more than her self-discipline."
+        },
+        {
+          "verse": 15,
+          "text": "A modest wife is a supreme blessing; no scales can weigh the worth of her chastity."
+        },
+        {
+          "verse": 16,
+          "text": "The sun rising in the Lord’s heavens— the beauty of a good wife in her well-ordered home."
+        },
+        {
+          "verse": 17,
+          "text": "The light which shines above the holy lampstand— a beautiful face on a stately figure."
+        },
+        {
+          "verse": 18,
+          "text": "Golden columns on silver bases— so her shapely legs and steady feet."
+        }
+      ]
+    },
+    {
+      "chapter": 27,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Chapter 27 - For the sake of profit many sin, and the struggle for wealth blinds the eyes."
+        },
+        {
+          "verse": 2,
+          "text": "A stake will be driven between fitted stones— sin will be wedged in between buying and selling."
+        },
+        {
+          "verse": 3,
+          "text": "Unless one holds fast to the fear of the Lord, with sudden swiftness will one’s house be thrown down."
+        },
+        {
+          "verse": 4,
+          "text": "When a sieve is shaken, the husks appear; so do people’s faults when they speak."
+        },
+        {
+          "verse": 5,
+          "text": "The furnace tests the potter’s vessels; the test of a person is in conversation."
+        },
+        {
+          "verse": 6,
+          "text": "The fruit of a tree shows the care it has had; so speech discloses the bent of a person’s heart."
+        },
+        {
+          "verse": 7,
+          "text": "Praise no one before he speaks, for it is then that people are tested."
+        },
+        {
+          "verse": 8,
+          "text": "If you strive after justice, you will attain it, and wear it like a splendid robe."
+        },
+        {
+          "verse": 9,
+          "text": "Birds nest with their own kind, and honesty comes to those who work at it."
+        },
+        {
+          "verse": 10,
+          "text": "A lion lies in wait for prey, so does sin for evildoers."
+        },
+        {
+          "verse": 11,
+          "text": "The conversation of the godly is always wisdom, but the fool changes like the moon."
+        },
+        {
+          "verse": 12,
+          "text": "Limit the time you spend among the stupid, but frequent the company of the thoughtful."
+        },
+        {
+          "verse": 13,
+          "text": "The conversation of fools is offensive, and their laughter is wanton sin."
+        },
+        {
+          "verse": 14,
+          "text": "Their oath-filled talk makes the hair stand on end, and their brawls make one stop the ears."
+        },
+        {
+          "verse": 15,
+          "text": "The wrangling of the proud ends in bloodshed, and their cursing is painful to hear."
+        },
+        {
+          "verse": 16,
+          "text": "Whoever betrays a secret destroys confidence, and will never find a congenial friend."
+        },
+        {
+          "verse": 17,
+          "text": "Cherish your friend, keep faith with him; but if you betray his secrets, do not go after him;"
+        },
+        {
+          "verse": 18,
+          "text": "For as one might kill another, you have killed your neighbor’s friendship."
+        },
+        {
+          "verse": 19,
+          "text": "Like a bird released from your hand, you have let your friend go and cannot recapture him."
+        },
+        {
+          "verse": 20,
+          "text": "Do not go after him, for he is far away, and has escaped like a gazelle from a snare."
+        },
+        {
+          "verse": 21,
+          "text": "For a wound can be bandaged, and an insult forgiven, but whoever betrays secrets does hopeless damage."
+        },
+        {
+          "verse": 22,
+          "text": "Malice, Anger and Vengeance - Whoever has shifty eyes plots mischief and those who know him will keep their distance;"
+        },
+        {
+          "verse": 23,
+          "text": "In your presence he uses honeyed talk, and admires your words, But later he changes his tone and twists the words to your ruin."
+        },
+        {
+          "verse": 24,
+          "text": "I have hated many things but not as much as him, and the Lord hates him as well."
+        },
+        {
+          "verse": 25,
+          "text": "A stone falls back on the head of the one who throws it high, and a treacherous blow causes many wounds."
+        },
+        {
+          "verse": 26,
+          "text": "Whoever digs a pit falls into it, and whoever lays a snare is caught in it."
+        },
+        {
+          "verse": 27,
+          "text": "The evil anyone does will recoil on him without knowing how it came upon him."
+        },
+        {
+          "verse": 28,
+          "text": "Mockery and abuse will befall the arrogant, and vengeance lies in wait for them like a lion."
+        },
+        {
+          "verse": 29,
+          "text": "Those who rejoice in the downfall of the godly will be caught in a snare, and pain will consume them before they die."
+        },
+        {
+          "verse": 30,
+          "text": "Wrath and anger, these also are abominations, yet a sinner holds on to them."
+        }
+      ]
+    },
+    {
+      "chapter": 28,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Chapter 28 - The vengeful will face the Lord’s vengeance; indeed he remembers their sins in detail."
+        },
+        {
+          "verse": 2,
+          "text": "Forgive your neighbor the wrong done to you; then when you pray, your own sins will be forgiven."
+        },
+        {
+          "verse": 3,
+          "text": "Does anyone nourish anger against another and expect healing from the LORD?"
+        },
+        {
+          "verse": 4,
+          "text": "Can one refuse mercy to a sinner like oneself, yet seek pardon for one’s own sins?"
+        },
+        {
+          "verse": 5,
+          "text": "If a mere mortal cherishes wrath, who will forgive his sins?"
+        },
+        {
+          "verse": 6,
+          "text": "Remember your last days and set enmity aside; remember death and decay, and cease from sin!"
+        },
+        {
+          "verse": 7,
+          "text": "Remember the commandments and do not be angry with your neighbor; remember the covenant of the Most High, and overlook faults."
+        },
+        {
+          "verse": 8,
+          "text": "Avoid strife and your sins will be fewer, for the hot-tempered kindle strife;"
+        },
+        {
+          "verse": 9,
+          "text": "The sinner disrupts friendships and sows discord among those who are at peace."
+        },
+        {
+          "verse": 10,
+          "text": "The more the wood, the greater the fire, the more the cruelty, the fiercer the strife; The greater the strength, the sterner the anger, the greater the wealth, the greater the wrath."
+        },
+        {
+          "verse": 11,
+          "text": "Pitch and resin make fire flare up, and a hasty quarrel provokes bloodshed."
+        },
+        {
+          "verse": 12,
+          "text": "The Evil Tongue - If you blow on a spark, it turns into flame, if you spit on it, it dies out; yet both you do with your mouth!"
+        },
+        {
+          "verse": 13,
+          "text": "Cursed be gossips and the double-tongued, for they destroy the peace of many."
+        },
+        {
+          "verse": 14,
+          "text": "A meddlesome tongue subverts many, and makes them refugees among peoples. It destroys strong cities, and overthrows the houses of the great."
+        },
+        {
+          "verse": 15,
+          "text": "A meddlesome tongue drives virtuous women from their homes, and robs them of the fruit of their toil."
+        },
+        {
+          "verse": 16,
+          "text": "Whoever heed it will find no rest, nor will they dwell in peace."
+        },
+        {
+          "verse": 17,
+          "text": "A blow from a whip raises a welt, but a blow from the tongue will break bones."
+        },
+        {
+          "verse": 18,
+          "text": "Many have fallen by the edge of the sword, but not as many as by the tongue."
+        },
+        {
+          "verse": 19,
+          "text": "Happy the one who is sheltered from it, and has not endured its wrath; Who has not borne its yoke nor been bound with its chains."
+        },
+        {
+          "verse": 20,
+          "text": "For its yoke is a yoke of iron, and its chains are chains of bronze;"
+        },
+        {
+          "verse": 21,
+          "text": "The death it inflicts is an evil death, even Sheol is preferable to it."
+        },
+        {
+          "verse": 22,
+          "text": "It will have no power over the godly, nor will they be burned in its flame."
+        },
+        {
+          "verse": 23,
+          "text": "But those who forsake the Lord will fall victim to it, as it burns among them unquenchably; It will hurl itself against them like a lion, and like a leopard, it will tear them to pieces."
+        },
+        {
+          "verse": 24,
+          "text": "As you fence in your property with thorns, so make a door and a bolt for your mouth."
+        },
+        {
+          "verse": 25,
+          "text": "As you lock up your silver and gold, so make balances and scales for your words."
+        },
+        {
+          "verse": 26,
+          "text": "Take care not to slip by your tongue and fall victim to one lying in ambush."
+        }
+      ]
+    },
+    {
+      "chapter": 29,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Chapter 29 Loans, Alms and Surety - The merciful lend to their neighbor, by holding out a helping hand, they keep the commandments."
+        },
+        {
+          "verse": 2,
+          "text": "Lend to your neighbor in his time of need, and pay back your neighbor in time."
+        },
+        {
+          "verse": 3,
+          "text": "Keep your promise and be honest with him, and at all times you will find what you need."
+        },
+        {
+          "verse": 4,
+          "text": "Many borrowers ask for a loan and cause trouble for those who help them."
+        },
+        {
+          "verse": 5,
+          "text": "Till he gets a loan, he kisses the lender’s hand and speaks softly of his creditor’s money, But at time of payment, delays, makes excuses, and finds fault with the timing."
+        },
+        {
+          "verse": 6,
+          "text": "If he can pay, the lender will recover barely half, and will consider that a windfall. If he cannot pay, the lender is cheated of his money and acquires an enemy at no extra charge; With curses and insults the borrower will repay, and instead of honor will repay with abuse."
+        },
+        {
+          "verse": 7,
+          "text": "Many refuse to lend, not out of meanness, but from fear of being cheated needlessly."
+        },
+        {
+          "verse": 8,
+          "text": "But with those in humble circumstances be patient; do not keep them waiting for your alms."
+        },
+        {
+          "verse": 9,
+          "text": "Because of the commandment, help the poor, and in their need, do not send them away empty-handed."
+        },
+        {
+          "verse": 10,
+          "text": "Lose your money for relative or friend; do not hide it under a stone to rot."
+        },
+        {
+          "verse": 11,
+          "text": "Dispose of your treasure according to the commandments of the Most High, and that will profit you more than the gold."
+        },
+        {
+          "verse": 12,
+          "text": "Store up almsgiving in your treasury, and it will save you from every evil."
+        },
+        {
+          "verse": 13,
+          "text": "Better than a mighty shield and a sturdy spear it will fight for you against the enemy."
+        },
+        {
+          "verse": 14,
+          "text": "A good person will be surety for a neighbor, but whoever has lost a sense of shame will fail him."
+        },
+        {
+          "verse": 15,
+          "text": "Do not forget the kindness of your backer, for he has given his very life for you."
+        },
+        {
+          "verse": 16,
+          "text": "A sinner will turn the favor of a pledge into misfortune,"
+        },
+        {
+          "verse": 17,
+          "text": "and the ungrateful will abandon his rescuer."
+        },
+        {
+          "verse": 18,
+          "text": "Going surety has ruined many who were prosperous and tossed them about like waves of the sea; It has exiled the prominent and sent them wandering through foreign lands."
+        },
+        {
+          "verse": 19,
+          "text": "The sinner will come to grief through surety, and whoever undertakes too much will fall into lawsuits."
+        },
+        {
+          "verse": 20,
+          "text": "Help your neighbor according to your means, but take care lest you fall yourself."
+        },
+        {
+          "verse": 21,
+          "text": "Frugality and Its Rewards - Life’s prime needs are water, bread, and clothing, and also a house for decent privacy."
+        },
+        {
+          "verse": 22,
+          "text": "Better is the life of the poor under the shadow of their own roof than sumptuous banquets among strangers."
+        },
+        {
+          "verse": 23,
+          "text": "Whether little or much, be content with what you have: then you will hear no reproach as a parasite."
+        },
+        {
+          "verse": 24,
+          "text": "It is a miserable life to go from house to house, for where you are a guest you dare not open your mouth."
+        },
+        {
+          "verse": 25,
+          "text": "You will entertain and provide drink without being thanked; besides, you will hear these bitter words:"
+        },
+        {
+          "verse": 26,
+          "text": "“Come here, you parasite, set the table, let me eat the food you have there!"
+        },
+        {
+          "verse": 27,
+          "text": "Go away, you parasite, for one more worthy; for my relative’s visit I need the room!”"
+        },
+        {
+          "verse": 28,
+          "text": "Painful things to a sensitive person are rebuke as a parasite and insults from creditors."
+        }
+      ]
+    },
+    {
+      "chapter": 30,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Chapter 30 The Training of Children - Whoever loves a son will chastise him often, that he may be his joy when he grows up."
+        },
+        {
+          "verse": 2,
+          "text": "Whoever disciplines a son will benefit from him, and boast of him among acquaintances."
+        },
+        {
+          "verse": 3,
+          "text": "Whoever educates a son will make his enemy jealous, and rejoice in him among his friends."
+        },
+        {
+          "verse": 4,
+          "text": "At the father’s death, he will seem not dead, for he leaves after him one like himself,"
+        },
+        {
+          "verse": 5,
+          "text": "Whom he looked upon through life with joy, and in death, without regret."
+        },
+        {
+          "verse": 6,
+          "text": "Against his enemies he has left an avenger, and one to repay his friends with kindness."
+        },
+        {
+          "verse": 7,
+          "text": "Whoever spoils a son will have wounds to bandage, and will suffer heartache at every cry."
+        },
+        {
+          "verse": 8,
+          "text": "An untamed horse turns out stubborn; and a son left to himself grows up unruly."
+        },
+        {
+          "verse": 9,
+          "text": "Pamper a child and he will be a terror for you, indulge him, and he will bring you grief."
+        },
+        {
+          "verse": 10,
+          "text": "Do not laugh with him lest you share sorrow with him, and in the end you will gnash your teeth."
+        },
+        {
+          "verse": 11,
+          "text": "Do not give him his own way in his youth, and do not ignore his follies."
+        },
+        {
+          "verse": 12,
+          "text": "Bow down his head in his youth, beat his sides while he is still young, Lest he become stubborn and disobey you, and leave you disconsolate."
+        },
+        {
+          "verse": 13,
+          "text": "Discipline your son and make heavy his yoke, lest you be offended by his shamelessness."
+        },
+        {
+          "verse": 14,
+          "text": "Health and Cheerfulness - Better the poor in vigorous health than the rich with bodily ills."
+        },
+        {
+          "verse": 15,
+          "text": "I would rather have bodily health than any gold, and contentment of spirit than pearls."
+        },
+        {
+          "verse": 16,
+          "text": "No riches are greater than a healthy body; and no happiness than a joyful heart."
+        },
+        {
+          "verse": 17,
+          "text": "Better is death than a wretched life, everlasting sleep than constant illness."
+        },
+        {
+          "verse": 18,
+          "text": "Good things set before one who cannot eat are like food offerings placed before a tomb."
+        },
+        {
+          "verse": 19,
+          "text": "What good is an offering to an idol that can neither eat nor smell? So it is with the one being punished by the Lord,"
+        },
+        {
+          "verse": 20,
+          "text": "who groans at what his eyes behold."
+        },
+        {
+          "verse": 21,
+          "text": "Do not give in to sadness, or torment yourself deliberately."
+        },
+        {
+          "verse": 22,
+          "text": "Gladness of heart is the very life of a person, and cheerfulness prolongs his days."
+        },
+        {
+          "verse": 23,
+          "text": "Distract yourself and renew your courage, drive resentment far away from you; For grief has killed many, and nothing is to be gained from resentment."
+        },
+        {
+          "verse": 24,
+          "text": "Envy and anger shorten one’s days, and anxiety brings on premature old age."
+        },
+        {
+          "verse": 25,
+          "text": "Those who are cheerful and merry at table benefit from their food."
+        }
+      ]
+    },
+    {
+      "chapter": 31,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Chapter 31 The Proper Attitude Toward Riches - Wakefulness over wealth wastes away the flesh, and anxiety over it drives away sleep."
+        },
+        {
+          "verse": 2,
+          "text": "Wakeful anxiety banishes slumber; more than a serious illness it disturbs repose."
+        },
+        {
+          "verse": 3,
+          "text": "The rich labor to pile up wealth, and if they rest, it is to enjoy pleasure;"
+        },
+        {
+          "verse": 4,
+          "text": "The poor labor for a meager living, and if they ever rest, they become needy."
+        },
+        {
+          "verse": 5,
+          "text": "The lover of gold will not be free from sin; whoever pursues money will be led astray by it."
+        },
+        {
+          "verse": 6,
+          "text": "Many have come to ruin for the sake of gold, yet destruction lay before their very eyes;"
+        },
+        {
+          "verse": 7,
+          "text": "It is a stumbling block for fools; any simpleton will be ensnared by it."
+        },
+        {
+          "verse": 8,
+          "text": "Happy the rich person found without fault, who does not turn aside after wealth."
+        },
+        {
+          "verse": 9,
+          "text": "Who is he, that we may praise him? For he has done wonders among his people."
+        },
+        {
+          "verse": 10,
+          "text": "Who has been tested by gold and been found perfect? Let it be for him his glory; Who could have sinned but did not, and could have done evil but did not?"
+        },
+        {
+          "verse": 11,
+          "text": "So his good fortune is secure, and the assembly will recount his praises."
+        },
+        {
+          "verse": 12,
+          "text": "Table Etiquette - Are you seated at the table of the great? Bring to it no greedy gullet, Nor say, “How much food there is here!”"
+        },
+        {
+          "verse": 13,
+          "text": "Remember that the greedy eye is evil. What has been created more greedy than the eye? Therefore, it weeps for any cause."
+        },
+        {
+          "verse": 14,
+          "text": "Toward what he looks at, do not put out a hand; nor reach for the same dish when he does."
+        },
+        {
+          "verse": 15,
+          "text": "Recognize that your neighbor feels as you do, and keep in mind everything you dislike."
+        },
+        {
+          "verse": 16,
+          "text": "Eat, like anyone else, what is set before you, but do not eat greedily, lest you be despised."
+        },
+        {
+          "verse": 17,
+          "text": "Be the first to stop, as befits good manners; and do not gorge yourself, lest you give offense."
+        },
+        {
+          "verse": 18,
+          "text": "If there are many with you at table, do not be the first to stretch out your hand."
+        },
+        {
+          "verse": 19,
+          "text": "Does not a little suffice for a well-bred person? When he lies down, he does not wheeze."
+        },
+        {
+          "verse": 20,
+          "text": "Moderate eating ensures sound slumber and a clear mind on rising the next day. The distress of sleeplessness and of nausea and colic are with the glutton!"
+        },
+        {
+          "verse": 21,
+          "text": "Should you have eaten too much, get up to vomit and you will have relief."
+        },
+        {
+          "verse": 22,
+          "text": "Listen to me, my child, and do not scorn me; later you will find my advice good. In whatever you do, be moderate, and no sickness will befall you."
+        },
+        {
+          "verse": 23,
+          "text": "People bless one who is generous with food, and this testimony to his goodness is lasting."
+        },
+        {
+          "verse": 24,
+          "text": "The city complains about one who is stingy with food, and this testimony to his stinginess is lasting."
+        },
+        {
+          "verse": 25,
+          "text": "Let not wine be the proof of your strength, for wine has been the ruin of many."
+        },
+        {
+          "verse": 26,
+          "text": "As the furnace tests the work of the smith, so does wine the hearts of the insolent."
+        },
+        {
+          "verse": 27,
+          "text": "Wine is very life to anyone, if taken in moderation. Does anyone really live who lacks the wine which from the beginning was created for joy?"
+        },
+        {
+          "verse": 28,
+          "text": "Joy of heart, good cheer, and delight is wine enough, drunk at the proper time."
+        },
+        {
+          "verse": 29,
+          "text": "Headache, bitterness, and disgrace is wine drunk amid anger and strife."
+        },
+        {
+          "verse": 30,
+          "text": "Wine in excess is a snare for the fool; it lessens strength and multiplies wounds."
+        },
+        {
+          "verse": 31,
+          "text": "Do not wrangle with your neighbor when wine is served, nor despise him while he is having a good time; Say no harsh words to him nor distress him by making demands."
+        }
+      ]
+    },
+    {
+      "chapter": 32,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Chapter 32 - If you are chosen to preside at a dinner, do not be puffed up, but with the guests be as one of them; Take care of them first and then sit down;"
+        },
+        {
+          "verse": 2,
+          "text": "see to their needs, and then take your place, To share in their joy and receive a wreath for a job well done."
+        },
+        {
+          "verse": 3,
+          "text": "You who are older, it is your right to speak, but temper your knowledge and do not interrupt the singing."
+        },
+        {
+          "verse": 4,
+          "text": "Where there is entertainment, do not pour out discourse, and do not display your wisdom at the wrong time."
+        },
+        {
+          "verse": 5,
+          "text": "Like a seal of carnelian in a setting of gold: a concert of music at a banquet of wine."
+        },
+        {
+          "verse": 6,
+          "text": "A seal of emerald in a work of gold: the melody of music with delicious wine."
+        },
+        {
+          "verse": 7,
+          "text": "Speak, young man, only when necessary, when they have asked you more than once."
+        },
+        {
+          "verse": 8,
+          "text": "Be brief, say much in few words; be knowledgeable and yet quiet."
+        },
+        {
+          "verse": 9,
+          "text": "When among elders do not be forward, and with officials do not be too insistent."
+        },
+        {
+          "verse": 10,
+          "text": "The lightning that flashes before a hailstorm: the esteem that shines on modesty."
+        },
+        {
+          "verse": 11,
+          "text": "Leave in good time and do not be the last; go home quickly without delay."
+        },
+        {
+          "verse": 12,
+          "text": "There enjoy doing as you wish, but do not sin through words of pride."
+        },
+        {
+          "verse": 13,
+          "text": "Above all, bless your Maker, who showers his favors upon you."
+        },
+        {
+          "verse": 14,
+          "text": "The Providence of God - Whoever seeks God must accept discipline; and whoever resorts to him obtains an answer."
+        },
+        {
+          "verse": 15,
+          "text": "Whoever seeks the law will master it, but the hypocrite will be ensnared by it."
+        },
+        {
+          "verse": 16,
+          "text": "Whoever fears the LORD will understand what is right, and out of obscurity he will draw forth a course of action."
+        },
+        {
+          "verse": 17,
+          "text": "The lawless turn aside warnings and distort the law to suit their purpose."
+        },
+        {
+          "verse": 18,
+          "text": "The sensible will not neglect direction; the proud and insolent are deterred by no fear."
+        },
+        {
+          "verse": 19,
+          "text": "Do nothing without deliberation; then once you have acted, have no regrets."
+        },
+        {
+          "verse": 20,
+          "text": "Do not go on a way set with snares, and do not stumble on the same thing twice."
+        },
+        {
+          "verse": 21,
+          "text": "Do not trust the road, because of bandits;"
+        },
+        {
+          "verse": 22,
+          "text": "be careful on your paths."
+        },
+        {
+          "verse": 23,
+          "text": "Whatever you do, be on your guard, for whoever does so keeps the commandments."
+        },
+        {
+          "verse": 24,
+          "text": "Whoever keeps the law preserves himself; and whoever trusts in the LORD shall not be put to shame."
+        }
+      ]
+    },
+    {
+      "chapter": 33,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Chapter 33 - No evil can harm the one who fears the LORD; through trials, again and again he is rescued."
+        },
+        {
+          "verse": 2,
+          "text": "Whoever hates the law is without wisdom, and is tossed about like a boat in a storm."
+        },
+        {
+          "verse": 3,
+          "text": "The prudent trust in the word of the LORD, and the law is dependable for them as a divine oracle."
+        },
+        {
+          "verse": 4,
+          "text": "Prepare your words and then you will be listened to; draw upon your training, and give your answer."
+        },
+        {
+          "verse": 5,
+          "text": "Like the wheel of a cart is the mind of a fool, and his thoughts like a turning axle."
+        },
+        {
+          "verse": 6,
+          "text": "A mocking friend is like a stallion that neighs, no matter who the rider may be."
+        },
+        {
+          "verse": 7,
+          "text": "Why is one day more important than another, when the same sun lights up every day of the year?"
+        },
+        {
+          "verse": 8,
+          "text": "By the LORD’s knowledge they are kept distinct; and he designates the seasons and feasts."
+        },
+        {
+          "verse": 9,
+          "text": "Some he exalts and sanctifies, and others he lists as ordinary days."
+        },
+        {
+          "verse": 10,
+          "text": "Likewise, all people are of clay, and from earth humankind was formed;"
+        },
+        {
+          "verse": 11,
+          "text": "In the fullness of his knowledge the Lord distinguished them, and he designated their different ways."
+        },
+        {
+          "verse": 12,
+          "text": "Some he blessed and exalted, and some he sanctified and drew to himself. Others he cursed and brought low, and expelled them from their place."
+        },
+        {
+          "verse": 13,
+          "text": "Like clay in the hands of a potter, to be molded according to his pleasure, So are people in the hands of their Maker, to be dealt with as he decides."
+        },
+        {
+          "verse": 14,
+          "text": "As evil contrasts with good, and death with life, so are sinners in contrast with the godly."
+        },
+        {
+          "verse": 15,
+          "text": "See now all the works of the Most High: they come in pairs, one the opposite of the other."
+        },
+        {
+          "verse": 16,
+          "text": "Now I am the last to keep vigil, like a gleaner following the grape-pickers;"
+        },
+        {
+          "verse": 17,
+          "text": "Since by the Lord’s blessing I have made progress till like a grape-picker I have filled my wine press,"
+        },
+        {
+          "verse": 18,
+          "text": "Consider that not for myself only have I labored, but for all who seek instruction."
+        },
+        {
+          "verse": 19,
+          "text": "Property and Servants - Listen to me, leaders of the people; rulers of the congregation, pay heed!"
+        },
+        {
+          "verse": 20,
+          "text": "Let neither son nor wife, neither brother nor friend, have power over you as long as you live. While breath of life is still in you, let no one take your place. Do not give your wealth to another, lest you must plead for support yourself."
+        },
+        {
+          "verse": 21,
+          "text": "Let neither son nor wife, neither brother nor friend, have power over you as long as you live. While breath of life is still in you, let no one take your place. Do not give your wealth to another, lest you must plead for support yourself."
+        },
+        {
+          "verse": 22,
+          "text": "Far better that your children plead with you than that you should look for a handout from them."
+        },
+        {
+          "verse": 23,
+          "text": "Keep control over all your affairs; bring no stain on your honor."
+        },
+        {
+          "verse": 24,
+          "text": "When your few days reach their limit, at the time of death distribute your inheritance."
+        },
+        {
+          "verse": 25,
+          "text": "Fodder and whip and loads for a donkey; food, correction and work for a slave."
+        },
+        {
+          "verse": 26,
+          "text": "Make a slave work, and he will look for rest; let his hands be idle and he will seek to be free."
+        },
+        {
+          "verse": 27,
+          "text": "The yoke and harness will bow the neck; and for a wicked slave, punishment in the stocks."
+        },
+        {
+          "verse": 28,
+          "text": "Force him to work that he be not idle,"
+        },
+        {
+          "verse": 29,
+          "text": "for idleness teaches much mischief."
+        },
+        {
+          "verse": 30,
+          "text": "Put him to work, as is fitting for him; and if he does not obey, load him with chains. But never lord it over any human being, and do nothing unjust."
+        },
+        {
+          "verse": 31,
+          "text": "If you have but one slave, treat him like yourself, for you have acquired him with your life’s blood; If you have but one slave, deal with him as a brother, for you need him as you need your life."
+        },
+        {
+          "verse": 32,
+          "text": "If you mistreat him and he runs away,"
+        },
+        {
+          "verse": 33,
+          "text": "in what direction will you look for him?"
+        }
+      ]
+    },
+    {
+      "chapter": 34,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Chapter 34 Trust in the Lord and Not in Dreams - Empty and false are the hopes of the senseless, and dreams give wings to fools."
+        },
+        {
+          "verse": 2,
+          "text": "Like one grasping at shadows or chasing the wind, so anyone who believes in dreams."
+        },
+        {
+          "verse": 3,
+          "text": "What is seen in dreams is a reflection, the likeness of a face looking at itself."
+        },
+        {
+          "verse": 4,
+          "text": "How can the unclean produce what is clean? How can the false produce what is true?"
+        },
+        {
+          "verse": 5,
+          "text": "Divination, omens, and dreams are unreal; what you already expect, the mind fantasizes."
+        },
+        {
+          "verse": 6,
+          "text": "Unless they are specially sent by the Most High, do not fix your heart on them."
+        },
+        {
+          "verse": 7,
+          "text": "For dreams have led many astray, and those who put their hope in them have perished."
+        },
+        {
+          "verse": 8,
+          "text": "Without such deceptions the Law will be fulfilled, and in the mouth of the faithful is complete wisdom."
+        },
+        {
+          "verse": 9,
+          "text": "A much-traveled person knows many things; and one with much experience speaks sense."
+        },
+        {
+          "verse": 10,
+          "text": "An inexperienced person knows little,"
+        },
+        {
+          "verse": 11,
+          "text": "whereas with travel one adds to resourcefulness."
+        },
+        {
+          "verse": 12,
+          "text": "I have seen much in my travels, and learned more than I could ever say."
+        },
+        {
+          "verse": 13,
+          "text": "Often I was in danger of death, but by these experiences I was saved."
+        },
+        {
+          "verse": 14,
+          "text": "Living is the spirit of those who fear the Lord,"
+        },
+        {
+          "verse": 15,
+          "text": "for their hope is in their savior."
+        },
+        {
+          "verse": 16,
+          "text": "Whoever fear the Lord are afraid of nothing and are never discouraged, for he is their hope."
+        },
+        {
+          "verse": 17,
+          "text": "Happy the soul that fears the Lord!"
+        },
+        {
+          "verse": 18,
+          "text": "In whom does he trust, and who is his support?"
+        },
+        {
+          "verse": 19,
+          "text": "The eyes of the Lord are upon those who love him; he is their mighty shield and strong support, A shelter from the heat, a shade from the noonday sun, a guard against stumbling, a help against falling."
+        },
+        {
+          "verse": 20,
+          "text": "He lifts up spirits, brings a sparkle to the eyes, gives health and life and blessing."
+        },
+        {
+          "verse": 21,
+          "text": "True Worship of God - Ill-gotten goods offered in sacrifice are tainted."
+        },
+        {
+          "verse": 22,
+          "text": "Presents from the lawless do not win God’s favor."
+        },
+        {
+          "verse": 23,
+          "text": "The Most High is not pleased with the gifts of the godless, nor for their many sacrifices does he forgive their sins."
+        },
+        {
+          "verse": 24,
+          "text": "One who slays a son in his father’s presence— whoever offers sacrifice from the holdings of the poor."
+        },
+        {
+          "verse": 25,
+          "text": "The bread of charity is life itself for the needy; whoever withholds it is a murderer."
+        },
+        {
+          "verse": 26,
+          "text": "To take away a neighbor’s living is to commit murder;"
+        },
+        {
+          "verse": 27,
+          "text": "to deny a laborer wages is to shed blood."
+        },
+        {
+          "verse": 28,
+          "text": "If one builds up and another tears down, what do they gain but trouble?"
+        },
+        {
+          "verse": 29,
+          "text": "If one prays and another curses, whose voice will God hear?"
+        },
+        {
+          "verse": 30,
+          "text": "If one again touches a corpse after bathing, what does he gain by the purification?"
+        },
+        {
+          "verse": 31,
+          "text": "So one who fasts for sins, but goes and commits them again: Who will hear his prayer, what is gained by mortification?"
+        }
+      ]
+    },
+    {
+      "chapter": 35,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Chapter 35 - To keep the law is to make many offerings;"
+        },
+        {
+          "verse": 2,
+          "text": "whoever observes the commandments sacrifices a peace offering."
+        },
+        {
+          "verse": 3,
+          "text": "By works of charity one offers fine flour,"
+        },
+        {
+          "verse": 4,
+          "text": "and one who gives alms presents a sacrifice of praise."
+        },
+        {
+          "verse": 5,
+          "text": "To refrain from evil pleases the Lord, and to avoid injustice is atonement."
+        },
+        {
+          "verse": 6,
+          "text": "Do not appear before the Lord empty-handed,"
+        },
+        {
+          "verse": 7,
+          "text": "for all that you offer is in fulfillment of the precepts."
+        },
+        {
+          "verse": 8,
+          "text": "The offering of the just enriches the altar: a sweet odor before the Most High."
+        },
+        {
+          "verse": 9,
+          "text": "The sacrifice of the just is accepted, never to be forgotten."
+        },
+        {
+          "verse": 10,
+          "text": "With a generous spirit pay homage to the Lord, and do not spare your freewill gifts."
+        },
+        {
+          "verse": 11,
+          "text": "With each contribution show a cheerful countenance, and pay your tithes in a spirit of joy."
+        },
+        {
+          "verse": 12,
+          "text": "Give to the Most High as he has given to you, generously, according to your means."
+        },
+        {
+          "verse": 13,
+          "text": "For he is a God who always repays and will give back to you sevenfold."
+        },
+        {
+          "verse": 14,
+          "text": "But offer no bribes; these he does not accept!"
+        },
+        {
+          "verse": 15,
+          "text": "Do not trust in sacrifice of the fruits of extortion, For he is a God of justice, who shows no partiality."
+        },
+        {
+          "verse": 16,
+          "text": "He shows no partiality to the weak but hears the grievance of the oppressed."
+        },
+        {
+          "verse": 17,
+          "text": "He does not forsake the cry of the orphan, nor the widow when she pours out her complaint."
+        },
+        {
+          "verse": 18,
+          "text": "Do not the tears that stream down her cheek"
+        },
+        {
+          "verse": 19,
+          "text": "cry out against the one that causes them to fall?"
+        },
+        {
+          "verse": 20,
+          "text": "Those who serve God to please him are accepted; their petition reaches the clouds."
+        },
+        {
+          "verse": 21,
+          "text": "The prayer of the lowly pierces the clouds; it does not rest till it reaches its goal; Nor will it withdraw till the Most High responds,"
+        },
+        {
+          "verse": 22,
+          "text": "judges justly and affirms the right. God indeed will not delay, and like a warrior, will not be still Till he breaks the backs of the merciless"
+        },
+        {
+          "verse": 23,
+          "text": "and wreaks vengeance upon the nations; Till he destroys the scepter of the proud, and cuts off the staff of the wicked;"
+        },
+        {
+          "verse": 24,
+          "text": "Till he requites everyone according to their deeds, and repays them according to their thoughts;"
+        },
+        {
+          "verse": 25,
+          "text": "Till he defends the cause of his people, and makes them glad by his salvation."
+        },
+        {
+          "verse": 26,
+          "text": "Welcome is his mercy in time of distress as rain clouds in time of drought."
+        }
+      ]
+    },
+    {
+      "chapter": 36,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Chapter 36 A Prayer for God’s People - Come to our aid, O God of the universe,"
+        },
+        {
+          "verse": 2,
+          "text": "and put all the nations in dread of you!"
+        },
+        {
+          "verse": 3,
+          "text": "Raise your hand against the foreign people, that they may see your mighty deeds."
+        },
+        {
+          "verse": 4,
+          "text": "As you have used us to show them your holiness, so now use them to show us your glory."
+        },
+        {
+          "verse": 5,
+          "text": "Thus they will know, as we know, that there is no God but you."
+        },
+        {
+          "verse": 6,
+          "text": "Give new signs and work new wonders;"
+        },
+        {
+          "verse": 7,
+          "text": "show forth the splendor of your right hand and arm."
+        },
+        {
+          "verse": 8,
+          "text": "Rouse your anger, pour out wrath;"
+        },
+        {
+          "verse": 9,
+          "text": "humble the enemy, scatter the foe."
+        },
+        {
+          "verse": 10,
+          "text": "Hasten the ending, appoint the time, and let people proclaim your mighty deeds."
+        },
+        {
+          "verse": 11,
+          "text": "Let raging fire consume the fugitive, and your people’s oppressors meet destruction."
+        },
+        {
+          "verse": 12,
+          "text": "Crush the heads of the hostile rulers who say, “There is no one besides me.”"
+        },
+        {
+          "verse": 13,
+          "text": "Gather all the tribes of Jacob,"
+        }
+      ]
+    },
+    {
+      "chapter": 37,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Chapter 37 - Every friend declares friendship, but there are friends who are friends in name only."
+        },
+        {
+          "verse": 2,
+          "text": "Is it not a sorrow unto death when your other self becomes your enemy?"
+        },
+        {
+          "verse": 3,
+          "text": "“Alas, my companion! Why were you created to fill the earth with deceit?”"
+        },
+        {
+          "verse": 4,
+          "text": "A harmful friend will look to your table, but in time of trouble he stands aloof."
+        },
+        {
+          "verse": 5,
+          "text": "A good friend will fight with you against the foe, and against your enemies he will hold up your shield."
+        },
+        {
+          "verse": 6,
+          "text": "Do not forget your comrade during the battle, and do not neglect him when you distribute your spoils."
+        },
+        {
+          "verse": 7,
+          "text": "Every counselor points out a way, but some counsel ways of their own."
+        },
+        {
+          "verse": 8,
+          "text": "Watch out when one offers advice; find out first of all what he wants. For he also may be thinking of himself— Why should the opportunity fall to him?"
+        },
+        {
+          "verse": 9,
+          "text": "He may tell you how good your way will be, and then stand by to see you impoverished."
+        },
+        {
+          "verse": 10,
+          "text": "Seek no advice from your father-in-law, and from one who is envious of you, keep your intentions hidden."
+        },
+        {
+          "verse": 11,
+          "text": "Seek no advice from a woman about her rival, from a coward about war, from a merchant about business, from a buyer about value, from a miser about generosity, from a cruel person about well-being, from a worthless worker about his work, from a seasonal laborer about the harvest, from an idle slave about a great task— pay no attention to any advice they give."
+        },
+        {
+          "verse": 12,
+          "text": "Instead, associate with a religious person, who you know keeps the commandments; Who is like-minded with yourself and will grieve for you if you fall."
+        },
+        {
+          "verse": 13,
+          "text": "Then, too, heed your own heart’s counsel; for there is nothing you can depend on more."
+        },
+        {
+          "verse": 14,
+          "text": "The heart can reveal your situation better than seven sentinels on a tower."
+        },
+        {
+          "verse": 15,
+          "text": "Then with all this, pray to God to make your steps firm in the true path."
+        },
+        {
+          "verse": 16,
+          "text": "Wisdom and Temperance - A word is the source of every deed; a thought, of every act."
+        },
+        {
+          "verse": 17,
+          "text": "The root of all conduct is the heart;"
+        },
+        {
+          "verse": 18,
+          "text": "four branches it shoots forth: Good and evil, death and life, and their absolute mistress is the tongue."
+        },
+        {
+          "verse": 19,
+          "text": "One may be wise and benefit many, yet appear foolish to himself."
+        },
+        {
+          "verse": 20,
+          "text": "One may be wise, but if his words are rejected, he will be deprived of all enjoyment."
+        }
+      ]
+    },
+    {
+      "chapter": 38,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Chapter 38 Sickness and Death - Make friends with the doctor, for he is essential to you; God has also established him in his profession."
+        },
+        {
+          "verse": 2,
+          "text": "From God the doctor has wisdom, and from the king he receives sustenance."
+        },
+        {
+          "verse": 3,
+          "text": "Knowledge makes the doctor distinguished, and gives access to those in authority."
+        },
+        {
+          "verse": 4,
+          "text": "God makes the earth yield healing herbs which the prudent should not neglect;"
+        },
+        {
+          "verse": 5,
+          "text": "Was not the water sweetened by a twig, so that all might learn his power?"
+        },
+        {
+          "verse": 6,
+          "text": "He endows people with knowledge, to glory in his mighty works,"
+        },
+        {
+          "verse": 7,
+          "text": "Through which the doctor eases pain,"
+        },
+        {
+          "verse": 8,
+          "text": "and the druggist prepares his medicines. Thus God’s work continues without cease in its efficacy on the surface of the earth."
+        },
+        {
+          "verse": 9,
+          "text": "My son, when you are ill, do not delay, but pray to God, for it is he who heals."
+        },
+        {
+          "verse": 10,
+          "text": "Flee wickedness and purify your hands; cleanse your heart of every sin."
+        },
+        {
+          "verse": 11,
+          "text": "Offer your sweet-smelling oblation and memorial, a generous offering according to your means."
+        },
+        {
+          "verse": 12,
+          "text": "Then give the doctor his place lest he leave; you need him too,"
+        },
+        {
+          "verse": 13,
+          "text": "For there are times when recovery is in his hands."
+        },
+        {
+          "verse": 14,
+          "text": "He too prays to God That his diagnosis may be correct and his treatment bring about a cure."
+        },
+        {
+          "verse": 15,
+          "text": "Whoever is a sinner before his Maker will be defiant toward the doctor."
+        },
+        {
+          "verse": 16,
+          "text": "My son, shed tears for one who is dead with wailing and bitter lament; As is only proper, prepare the body, and do not absent yourself from the burial."
+        },
+        {
+          "verse": 17,
+          "text": "Weeping bitterly, mourning fully, pay your tribute of sorrow, as deserved: A day or two, to prevent gossip; then compose yourself after your grief."
+        },
+        {
+          "verse": 18,
+          "text": "For grief can bring on death, and heartache can sap one’s strength."
+        },
+        {
+          "verse": 19,
+          "text": "When a person is carried away, sorrow is over; and the life of the poor one is grievous to the heart."
+        },
+        {
+          "verse": 20,
+          "text": "Do not turn your thoughts to him again; cease to recall him; think rather of the end."
+        },
+        {
+          "verse": 21,
+          "text": "Do not recall him, for there is no hope of his return; you do him no good, and you harm yourself."
+        },
+        {
+          "verse": 22,
+          "text": "Remember that his fate will also be yours; for him it was yesterday, for you today."
+        },
+        {
+          "verse": 23,
+          "text": "With the dead at rest, let memory cease; be consoled, once the spirit has gone."
+        },
+        {
+          "verse": 24,
+          "text": "Vocations of the Skilled Worker and the Scribe - The scribe’s wisdom increases wisdom; whoever is free from toil can become wise."
+        },
+        {
+          "verse": 25,
+          "text": "How can one become learned who guides the plow, and thrills in wielding the goad like a lance, Who guides the ox and urges on the bullock, and whose every concern is for cattle?"
+        },
+        {
+          "verse": 26,
+          "text": "His concern is to plow furrows, and he is careful to fatten the livestock."
+        },
+        {
+          "verse": 27,
+          "text": "So with every engraver and designer who, laboring night and day, Fashions carved seals, and whose concern is to vary the pattern. His determination is to produce a lifelike impression, and he is careful to finish the work."
+        },
+        {
+          "verse": 28,
+          "text": "So too the smith sitting by the anvil, intent on the iron he forges. The flame from the fire sears his flesh, yet he toils away in the furnace heat. The clang of the hammer deafens his ears; his eyes are on the object he is shaping. His determination is to finish the work, and he is careful to perfect it in detail."
+        },
+        {
+          "verse": 29,
+          "text": "So also the potter sitting at his labor, revolving the wheel with his feet. He is always concerned for his products, and turns them out in quantity."
+        },
+        {
+          "verse": 30,
+          "text": "With his hands he molds the clay, and with his feet softens it. His determination is to complete the glazing, and he is careful to fire the kiln."
+        },
+        {
+          "verse": 31,
+          "text": "All these are skilled with their hands, each one an expert at his own work;"
+        },
+        {
+          "verse": 32,
+          "text": "Without them no city could be lived in, and wherever they stay, they do not go hungry. But they are not sought out for the council of the people,"
+        },
+        {
+          "verse": 33,
+          "text": "nor are they prominent in the assembly. They do not sit on the judge’s bench, nor can they understand law and justice. They cannot expound discipline or judgment, nor are they found among the rulers."
+        },
+        {
+          "verse": 34,
+          "text": "Yet they maintain the fabric of the world, and their concern is for exercise of their skill."
+        }
+      ]
+    },
+    {
+      "chapter": 39,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Chapter 39 - How different the person who devotes himself to the study of the law of the Most High! He explores the wisdom of all the ancients and is occupied with the prophecies;"
+        },
+        {
+          "verse": 2,
+          "text": "He preserves the discourses of the famous, and goes to the heart of involved sayings;"
+        },
+        {
+          "verse": 3,
+          "text": "He seeks out the hidden meaning of proverbs, and is busied with the enigmas found in parables."
+        },
+        {
+          "verse": 4,
+          "text": "He is in attendance on the great, and appears before rulers. He travels among the peoples of foreign lands to test what is good and evil among people."
+        },
+        {
+          "verse": 5,
+          "text": "His care is to rise early to seek the Lord his Maker, to petition the Most High, To open his mouth in prayer, to ask pardon for his sins."
+        },
+        {
+          "verse": 6,
+          "text": "If it pleases the Lord Almighty, he will be filled with the spirit of understanding; He will pour forth his words of wisdom and in prayer give praise to the Lord."
+        },
+        {
+          "verse": 7,
+          "text": "He will direct his knowledge and his counsel, as he meditates upon God’s mysteries."
+        },
+        {
+          "verse": 8,
+          "text": "He will show the wisdom of what he has learned and glory in the Law of the Lord’s covenant."
+        },
+        {
+          "verse": 9,
+          "text": "Many will praise his understanding; his name can never be blotted out; Unfading will be his memory, through all generations his name will live;"
+        },
+        {
+          "verse": 10,
+          "text": "Peoples will speak of his wisdom, and the assembly will declare his praise."
+        },
+        {
+          "verse": 11,
+          "text": "While he lives he is one out of a thousand, and when he dies he leaves a good name."
+        },
+        {
+          "verse": 12,
+          "text": "Praise of God the Creator - Once more I will set forth my theme to shine like the moon in its fullness!"
+        },
+        {
+          "verse": 13,
+          "text": "Listen to me, my faithful children: open up your petals, like roses planted near running waters;"
+        },
+        {
+          "verse": 14,
+          "text": "Send up the sweet odor of incense, break forth in blossoms like the lily. Raise your voices in a chorus of praise; bless the Lord for all his works!"
+        },
+        {
+          "verse": 15,
+          "text": "Proclaim the greatness of his name, loudly sing his praises, With music on the harp and all stringed instruments; sing out with joy as you proclaim:"
+        },
+        {
+          "verse": 16,
+          "text": "The works of God are all of them good; he supplies for every need in its own time."
+        },
+        {
+          "verse": 17,
+          "text": "At his word the waters become still as in a flask; he had but to speak and the reservoirs were made."
+        },
+        {
+          "verse": 18,
+          "text": "He has but to command and his will is done; nothing can limit his saving action."
+        },
+        {
+          "verse": 19,
+          "text": "The works of all humankind are present to him; nothing is hidden from his eyes."
+        },
+        {
+          "verse": 20,
+          "text": "His gaze spans all the ages: is there any limit to his saving action? To him, nothing is small or insignificant, and nothing too wonderful or hard for him."
+        },
+        {
+          "verse": 21,
+          "text": "No cause then to say: “What is the purpose of this?” Everything is chosen to satisfy a need."
+        },
+        {
+          "verse": 22,
+          "text": "His blessing overflows like the Nile; like the Euphrates it enriches the surface of the earth."
+        },
+        {
+          "verse": 23,
+          "text": "Even so, his wrath dispossesses the nations and turns fertile land into a salt marsh."
+        },
+        {
+          "verse": 24,
+          "text": "For the virtuous his paths are level, to the haughty they are clogged with stones."
+        },
+        {
+          "verse": 25,
+          "text": "Good things for the good he provided from the beginning, but for the wicked good things and bad."
+        },
+        {
+          "verse": 26,
+          "text": "Chief of all needs for human life are water and fire, iron and salt, The heart of the wheat, milk and honey, the blood of the grape, and oil, and clothing."
+        },
+        {
+          "verse": 27,
+          "text": "For the good all these are good, but for the wicked they turn out evil."
+        },
+        {
+          "verse": 28,
+          "text": "There are stormwinds created to punish; in their fury they can dislodge mountains. In a time of destruction they hurl their force and calm the anger of their Maker."
+        },
+        {
+          "verse": 29,
+          "text": "Fire and hail, famine and disease: these too were created for punishment."
+        },
+        {
+          "verse": 30,
+          "text": "Ravenous beasts, scorpions, vipers, and the avenging sword to exterminate the wicked: All these were created to meet a need, and are kept in his storehouse for the proper time."
+        },
+        {
+          "verse": 31,
+          "text": "When he commands them, they rejoice, in their assigned tasks they do not disobey his command."
+        },
+        {
+          "verse": 32,
+          "text": "That is why from the first I took my stand, and wrote down as my theme:"
+        },
+        {
+          "verse": 33,
+          "text": "The works of God are all of them good; he supplies for every need in its own time."
+        },
+        {
+          "verse": 34,
+          "text": "There is no cause then to say: “This is not as good as that”; for each shows its worth at the proper time."
+        },
+        {
+          "verse": 35,
+          "text": "So now with full heart and voice proclaim and bless his name!"
+        }
+      ]
+    },
+    {
+      "chapter": 40,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Chapter 40 Joys and Miseries of Life - A great anxiety has God allotted, and a heavy yoke, to the children of Adam, From the day they leave their mother’s womb until the day they return to the mother of all the living."
+        },
+        {
+          "verse": 2,
+          "text": "Troubled thoughts and fear of heart are theirs and anxious foreboding until death."
+        },
+        {
+          "verse": 3,
+          "text": "Whether one sits on a lofty throne or grovels in dust and ashes,"
+        },
+        {
+          "verse": 4,
+          "text": "Whether one wears a splendid crown or is clothed in the coarsest of garments—"
+        },
+        {
+          "verse": 5,
+          "text": "There is wrath and envy, trouble and dread, terror of death, fury and strife. Even when one lies on his bed to rest, his cares disturb his sleep at night."
+        },
+        {
+          "verse": 6,
+          "text": "So short is his rest it seems like none, till in his dreams he struggles as he did by day, Troubled by the visions of his mind, like a fugitive fleeing from the pursuer."
+        },
+        {
+          "verse": 7,
+          "text": "As he reaches safety, he wakes up, astonished that there was nothing to fear."
+        },
+        {
+          "verse": 8,
+          "text": "To all flesh, human being and beast, but for sinners seven times more,"
+        },
+        {
+          "verse": 9,
+          "text": "Come plague and bloodshed, fiery heat and drought, plunder and ruin, famine and death."
+        },
+        {
+          "verse": 10,
+          "text": "For the wicked evil was created, and because of them destruction hastens."
+        },
+        {
+          "verse": 11,
+          "text": "All that is of earth returns to earth, and what is from above returns above."
+        },
+        {
+          "verse": 12,
+          "text": "All that comes from bribes or injustice will be wiped out, but loyalty remains forever."
+        },
+        {
+          "verse": 13,
+          "text": "Wealth from injustice is like a flooding wadi, like a mighty stream with lightning and thunder,"
+        },
+        {
+          "verse": 14,
+          "text": "Which, in its rising, rolls along the stones, but suddenly, once and for all, comes to an end."
+        },
+        {
+          "verse": 15,
+          "text": "The offshoot of violence will not flourish, for the root of the godless is on sheer rock."
+        },
+        {
+          "verse": 16,
+          "text": "They are like reeds on riverbanks, withered before all other plants;"
+        },
+        {
+          "verse": 17,
+          "text": "But goodness, like eternity, will never be cut off, and righteousness endures forever."
+        },
+        {
+          "verse": 18,
+          "text": "Wealth or wages can make life sweet, but better than either, finding a treasure."
+        },
+        {
+          "verse": 19,
+          "text": "A child or a city will preserve one’s name, but better than either, finding wisdom. Cattle and orchards make a person flourish; but better than either, a devoted wife."
+        },
+        {
+          "verse": 20,
+          "text": "Wine and strong drink delight the soul, but better than either, love of friends."
+        },
+        {
+          "verse": 21,
+          "text": "Flute and harp offer sweet melody, but better than either, a pure tongue."
+        },
+        {
+          "verse": 22,
+          "text": "Grace and beauty delight the eye, but better than either, the produce of the field."
+        },
+        {
+          "verse": 23,
+          "text": "A friend and a neighbor are timely guides, but better than either, a sensible wife."
+        },
+        {
+          "verse": 24,
+          "text": "Relatives and helpers for times of stress; but better than either, charity that rescues."
+        },
+        {
+          "verse": 25,
+          "text": "Gold and silver make one’s way secure, but better than either, sound judgment."
+        },
+        {
+          "verse": 26,
+          "text": "Wealth and vigor make the heart exult, but better than either, fear of God. In the fear of the Lord there is no want; whoever has it need seek no other support."
+        },
+        {
+          "verse": 27,
+          "text": "The fear of God is a paradise of blessings; its canopy is over all that is glorious."
+        },
+        {
+          "verse": 28,
+          "text": "My son, do not live the life of a beggar; better to die than to beg."
+        },
+        {
+          "verse": 29,
+          "text": "When one has to look to a stranger’s table, life is not worth living. The delicacies offered bring revulsion of spirit, and to the intelligent, inward torture."
+        },
+        {
+          "verse": 30,
+          "text": "In the mouth of the shameless begging is sweet, but within him it burns like fire."
+        }
+      ]
+    },
+    {
+      "chapter": 41,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Chapter 41 - O death! How bitter is the thought of you for the one at peace in his home, For the one who is serene and always successful, who can still enjoy life’s pleasures."
+        },
+        {
+          "verse": 2,
+          "text": "O death! How welcome is your sentence to the weak, failing in strength, Stumbling and tripping on everything, with sight gone and hope lost."
+        },
+        {
+          "verse": 3,
+          "text": "Do not fear death’s decree for you; remember, it embraces those before you and those to come."
+        },
+        {
+          "verse": 4,
+          "text": "This decree for all flesh is from God; why then should you reject a law of the Most High? Whether one has lived a thousand years, a hundred, or ten, in Sheol there are no arguments about life."
+        },
+        {
+          "verse": 5,
+          "text": "The children of sinners are a reprobate line, and witless offspring are in the homes of the wicked."
+        },
+        {
+          "verse": 6,
+          "text": "The inheritance of children of sinners will perish, and on their offspring will be perpetual disgrace."
+        },
+        {
+          "verse": 7,
+          "text": "Children curse their wicked father, for they suffer disgrace because of him."
+        },
+        {
+          "verse": 8,
+          "text": "Woe to you, O wicked people, who forsake the Law of the Most High."
+        },
+        {
+          "verse": 9,
+          "text": "If you have children, calamity will be theirs; and if you beget them, it will be only for groaning. When you stumble, there is lasting joy; and when you die, you become a curse."
+        },
+        {
+          "verse": 10,
+          "text": "All that is nought returns to nought, so too the godless—from void to void."
+        },
+        {
+          "verse": 11,
+          "text": "The human body is a fleeting thing, but a virtuous name will never be annihilated."
+        },
+        {
+          "verse": 12,
+          "text": "Have respect for your name, for it will stand by you more than thousands of precious treasures."
+        },
+        {
+          "verse": 13,
+          "text": "The good things of life last a number of days, but a good name, for days without number."
+        },
+        {
+          "verse": 14,
+          "text": "True and False Shame - Hidden wisdom and concealed treasure, of what value is either? Better is the person who hides his folly than the one who hides his wisdom. My children, listen to instruction about shame;"
+        },
+        {
+          "verse": 15,
+          "text": "True and False Shame - Hidden wisdom and concealed treasure, of what value is either? Better is the person who hides his folly than the one who hides his wisdom. My children, listen to instruction about shame;"
+        },
+        {
+          "verse": 16,
+          "text": "judge of disgrace according to my rules, Not every kind of shame is shameful, nor is every kind of disgrace to be recognized."
+        },
+        {
+          "verse": 17,
+          "text": "Before father and mother be ashamed of immorality, before prince and ruler, of falsehood;"
+        },
+        {
+          "verse": 18,
+          "text": "Before master and mistress, of deceit; before the public assembly, of crime; Before associate and friend, of disloyalty,"
+        },
+        {
+          "verse": 19,
+          "text": "and in the place where you settle, of theft. Be ashamed of breaking an oath or a covenant, and of stretching your elbow at dinner; Of refusing to give when asked,"
+        },
+        {
+          "verse": 20,
+          "text": "of rebuffing your own relatives; Of defrauding another of his appointed share, of failing to return a greeting; Of gazing at a man’s wife, of entertaining thoughts about another woman;"
+        },
+        {
+          "verse": 21,
+          "text": "of rebuffing your own relatives; Of defrauding another of his appointed share, of failing to return a greeting; Of gazing at a man’s wife, of entertaining thoughts about another woman;"
+        },
+        {
+          "verse": 22,
+          "text": "Of trifling with a servant girl you have, of violating her bed; Of using harsh words with friends, of following up your gifts with insults;"
+        }
+      ]
+    },
+    {
+      "chapter": 42,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Chapter 42 - Of repeating what you hear, of betraying any secret. Be ashamed of the right things, and you will find favor in the sight of all. But of these things do not be ashamed, lest you sin to save face:"
+        },
+        {
+          "verse": 2,
+          "text": "Of the Law of the Most High and his precepts, or of justice that acquits the ungodly;"
+        },
+        {
+          "verse": 3,
+          "text": "Of sharing the expenses of a business or a journey, of dividing an inheritance or property;"
+        },
+        {
+          "verse": 4,
+          "text": "Of accuracy of scales and balances, of tested measures and weights; Of acquiring much or little,"
+        },
+        {
+          "verse": 5,
+          "text": "of bargaining in dealing with a merchant; Of constant training of children, of beating the sides of a wicked servant;"
+        },
+        {
+          "verse": 6,
+          "text": "Of a seal to keep a foolish wife at home, of a key where there are many hands;"
+        },
+        {
+          "verse": 7,
+          "text": "Of numbering every deposit, of recording all that is taken in and given out;"
+        },
+        {
+          "verse": 8,
+          "text": "Of chastisement for the silly and the foolish, for the aged and infirm answering for wanton conduct. Thus you will be truly refined and recognized by all as discreet."
+        },
+        {
+          "verse": 9,
+          "text": "A Father’s Care for His Daughter - A daughter is a treasure that keeps her father wakeful, and worry over her drives away sleep: Lest in her youth she remain unmarried, or when she is married, lest she be childless;"
+        },
+        {
+          "verse": 10,
+          "text": "While unmarried, lest she be defiled, or in her husband’s house, lest she prove unfaithful; Lest she become pregnant in her father’s house, or be sterile in that of her husband."
+        },
+        {
+          "verse": 11,
+          "text": "My son, keep a close watch on your daughter, lest she make you a laughingstock for your enemies, A byword in the city and the assembly of the people, an object of derision in public gatherings. See that there is no lattice in her room, or spot that overlooks the approaches to the house."
+        },
+        {
+          "verse": 12,
+          "text": "Do not let her reveal her beauty to any male, or spend her time with married women;"
+        },
+        {
+          "verse": 13,
+          "text": "For just as moths come from garments, so a woman’s wickedness comes from a woman."
+        },
+        {
+          "verse": 14,
+          "text": "Better a man’s harshness than a woman’s indulgence, a frightened daughter than any disgrace."
+        },
+        {
+          "verse": 15,
+          "text": "The Works of God in Nature - Now will I recall God’s works; what I have seen, I will describe. By the LORD’s word his works were brought into being; he accepts the one who does his will."
+        },
+        {
+          "verse": 16,
+          "text": "As the shining sun is clear to all, so the glory of the LORD fills all his works;"
+        },
+        {
+          "verse": 17,
+          "text": "Yet even God’s holy ones must fail in recounting the wonders of the LORD, Though God has given his hosts the strength to stand firm before his glory."
+        },
+        {
+          "verse": 18,
+          "text": "He searches out the abyss and penetrates the heart; their secrets he understands. For the Most High possesses all knowledge, and sees from of old the things that are to come."
+        },
+        {
+          "verse": 19,
+          "text": "He makes known the past and the future, and reveals the deepest secrets."
+        },
+        {
+          "verse": 20,
+          "text": "He lacks no understanding; no single thing escapes him."
+        },
+        {
+          "verse": 21,
+          "text": "He regulates the mighty deeds of his wisdom; he is from all eternity one and the same, With nothing added, nothing taken away; no need of a counselor for him!"
+        },
+        {
+          "verse": 22,
+          "text": "How beautiful are all his works, delightful to gaze upon and a joy to behold!"
+        },
+        {
+          "verse": 23,
+          "text": "Everything lives and abides forever; and to meet each need all things are preserved."
+        },
+        {
+          "verse": 24,
+          "text": "All of them differ, one from another, yet none of them has he made in vain;"
+        },
+        {
+          "verse": 25,
+          "text": "For each in turn, as it comes, is good; can one ever see enough of their splendor?"
+        }
+      ]
+    },
+    {
+      "chapter": 43,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Chapter 43 - The beauty of the celestial height and the pure firmament, heaven itself manifests its glory."
+        },
+        {
+          "verse": 2,
+          "text": "The sun at its rising shines at its fullest, a wonderful instrument, the work of the Most High!"
+        },
+        {
+          "verse": 3,
+          "text": "At noon it scorches the earth, and who can bear its fiery heat?"
+        },
+        {
+          "verse": 4,
+          "text": "Like a blazing furnace of solid metal, the sun’s rays set the mountains aflame; Its fiery tongue consumes the world; the eyes are burned by its fire."
+        },
+        {
+          "verse": 5,
+          "text": "Great indeed is the LORD who made it, at whose orders it urges on its steeds."
+        },
+        {
+          "verse": 6,
+          "text": "It is the moon that marks the changing seasons, governing the times, their lasting sign."
+        },
+        {
+          "verse": 7,
+          "text": "By it we know the sacred seasons and pilgrimage feasts, a light which wanes in its course:"
+        },
+        {
+          "verse": 8,
+          "text": "The new moon like its name renews itself; how wondrous it is when it changes: A military signal for the waterskins on high, it paves the firmament with its brilliance,"
+        },
+        {
+          "verse": 9,
+          "text": "The beauty of the heavens and the glory of the stars, a shining ornament in the heights of God."
+        },
+        {
+          "verse": 10,
+          "text": "By the LORD’s command the moon keeps its appointed place, and does not fade as the stars keep watch."
+        },
+        {
+          "verse": 11,
+          "text": "Behold the rainbow! Then bless its Maker, for majestic indeed is its splendor;"
+        },
+        {
+          "verse": 12,
+          "text": "It spans the heavens with its glory, the hand of God has stretched it out in power."
+        },
+        {
+          "verse": 13,
+          "text": "His rebuke marks out the path for the hail, and makes the flashes of his judgment shine forth."
+        },
+        {
+          "verse": 14,
+          "text": "For his own purposes he opens the storehouse and makes the rain clouds fly like vultures."
+        },
+        {
+          "verse": 15,
+          "text": "His might gives the clouds their strength, and breaks off the hailstones."
+        },
+        {
+          "verse": 16,
+          "text": "The thunder of his voice makes the earth writhe; by his power he shakes the mountains."
+        },
+        {
+          "verse": 17,
+          "text": "A word from him drives on the south wind, whirlwind, hurricane, and stormwind. He makes the snow fly like birds; it settles down like swarms of locusts."
+        },
+        {
+          "verse": 18,
+          "text": "Its shining whiteness blinds the eyes, the mind marvels at its steady fall."
+        },
+        {
+          "verse": 19,
+          "text": "He scatters frost like salt; it shines like blossoms on the thornbush."
+        },
+        {
+          "verse": 20,
+          "text": "He sends cold northern blasts that harden the ponds like solid ground, Spreads a crust over every body of water, and clothes each pool with a coat of armor."
+        },
+        {
+          "verse": 21,
+          "text": "When mountain growth is scorched by heat, and flowering plains as by fire,"
+        },
+        {
+          "verse": 22,
+          "text": "The dripping clouds restore them all, and the scattered dew enriches the parched land."
+        },
+        {
+          "verse": 23,
+          "text": "His is the plan that calms the deep, and plants the islands in the sea."
+        },
+        {
+          "verse": 24,
+          "text": "Those who go down to the sea recount its extent, and when we hear them we are thunderstruck;"
+        },
+        {
+          "verse": 25,
+          "text": "In it are his creatures, stupendous, amazing, all kinds of life, and the monsters of the deep."
+        },
+        {
+          "verse": 26,
+          "text": "For him each messenger succeeds, and at his bidding accomplishes his will."
+        },
+        {
+          "verse": 27,
+          "text": "More than this we need not add; let the last word be, he is the all!"
+        },
+        {
+          "verse": 28,
+          "text": "Let us praise him the more, since we cannot fathom him, for greater is he than all his works;"
+        },
+        {
+          "verse": 29,
+          "text": "Awesome indeed is the LORD, and wonderful his power."
+        },
+        {
+          "verse": 30,
+          "text": "Lift up your voices to glorify the LORD as much as you can, for there is still more. Extol him with renewed strength, do not grow weary, for you cannot fathom him."
+        },
+        {
+          "verse": 31,
+          "text": "For who has seen him and can describe him? Who can praise him as he is?"
+        },
+        {
+          "verse": 32,
+          "text": "Beyond these, many things lie hidden; only a few of his works have I seen."
+        },
+        {
+          "verse": 33,
+          "text": "It is the LORD who has made all things; to those who fear him he gives wisdom."
+        }
+      ]
+    },
+    {
+      "chapter": 44,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Chapter 44 Praise of Israel’s Great Ancestors - I will now praise the godly, our ancestors, in their own time,"
+        },
+        {
+          "verse": 2,
+          "text": "The abounding glory of the Most High’s portion, his own part, since the days of old."
+        },
+        {
+          "verse": 3,
+          "text": "Subduers of the land in kingly fashion, renowned for their might, Counselors in their prudence, seers of all things in prophecy,"
+        },
+        {
+          "verse": 4,
+          "text": "Resolute princes of the flock, lawgivers and their rules, Sages skilled in composition, authors of sharp proverbs,"
+        },
+        {
+          "verse": 5,
+          "text": "Composers of melodious psalms, writers of lyric poems;"
+        },
+        {
+          "verse": 6,
+          "text": "Stalwart, solidly established, at peace in their own estates—"
+        },
+        {
+          "verse": 7,
+          "text": "All these were glorious in their time, illustrious in their day."
+        },
+        {
+          "verse": 8,
+          "text": "Some of them left behind a name so that people recount their praises."
+        },
+        {
+          "verse": 9,
+          "text": "Of others no memory remains, for when they perished, they perished, As if they had never lived, they and their children after them."
+        },
+        {
+          "verse": 10,
+          "text": "Yet these also were godly; their virtues have not been forgotten."
+        },
+        {
+          "verse": 11,
+          "text": "Their wealth remains in their families, their heritage with their descendants."
+        },
+        {
+          "verse": 12,
+          "text": "Through God’s covenant their family endures, and their offspring for their sake."
+        },
+        {
+          "verse": 13,
+          "text": "And for all time their progeny will endure, their glory will never be blotted out;"
+        },
+        {
+          "verse": 14,
+          "text": "Their bodies are buried in peace, but their name lives on and on."
+        },
+        {
+          "verse": 15,
+          "text": "At gatherings their wisdom is retold, and the assembly proclaims their praises."
+        },
+        {
+          "verse": 16,
+          "text": "The Early Ancestors - [ENOCH walked with the LORD and was taken, that succeeding generations might learn by his example.]"
+        },
+        {
+          "verse": 17,
+          "text": "NOAH, found just and perfect, renewed the race in the time of devastation. Because of his worth there were survivors, and with a sign to him the deluge ended."
+        },
+        {
+          "verse": 18,
+          "text": "A lasting covenant was made with him, that never again would all flesh be destroyed."
+        },
+        {
+          "verse": 19,
+          "text": "ABRAHAM, father of many peoples, kept his glory without stain:"
+        },
+        {
+          "verse": 20,
+          "text": "He observed the Most High’s command, and entered into a covenant with him; In his own flesh he incised the ordinance, and when tested was found loyal."
+        },
+        {
+          "verse": 21,
+          "text": "For this reason, God promised him with an oath to bless the nations through his descendants, To make him numerous as grains of dust, and to exalt his posterity like the stars, Giving them an inheritance from sea to sea, and from the River to the ends of the earth."
+        },
+        {
+          "verse": 22,
+          "text": "For ISAAC, too, he renewed the same promise because of Abraham, his father. The covenant with all his forebears was confirmed,"
+        },
+        {
+          "verse": 23,
+          "text": "and the blessing rested upon the head of ISRAEL. God acknowledged him as the firstborn, and gave him his inheritance. He fixed the boundaries for his tribes and their division into twelve."
+        }
+      ]
+    },
+    {
+      "chapter": 45,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Chapter 45 Praise of Moses, Aaron, and Phinehas - From him came the man who would win the favor of all the living: Dear to God and human beings, MOSES, whose memory is a blessing."
+        },
+        {
+          "verse": 2,
+          "text": "God made him like the angels in honor, and strengthened him with fearful powers."
+        },
+        {
+          "verse": 3,
+          "text": "At his words God performed signs and sustained him in the king’s presence. He gave him the commandments for his people, and revealed to him his glory."
+        },
+        {
+          "verse": 4,
+          "text": "Because of his trustworthiness and meekness God selected him from all flesh;"
+        },
+        {
+          "verse": 5,
+          "text": "He let him hear his voice, and led him into the cloud, Where he handed over the commandments, the law of life and understanding, That he might teach his precepts to Jacob, his judgments and decrees to Israel."
+        },
+        {
+          "verse": 6,
+          "text": "He also raised up, like Moses in holiness, his brother AARON, of the tribe of Levi."
+        },
+        {
+          "verse": 7,
+          "text": "He made his office perpetual and bestowed on him priesthood for his people; He established him in honor and crowned him with lofty majesty."
+        },
+        {
+          "verse": 8,
+          "text": "He clothed him in splendid garments, and adorned him with glorious vestments: Breeches, tunic, and robe"
+        },
+        {
+          "verse": 9,
+          "text": "with pomegranates at the hem And a rustle of bells round about, whose pleasing sound at each step Would make him heard within the sanctuary, a reminder for the people;"
+        },
+        {
+          "verse": 10,
+          "text": "The sacred vestments of gold, violet, and crimson, worked with embroidery; The breastpiece for decision, the ephod and cincture"
+        },
+        {
+          "verse": 11,
+          "text": "with scarlet yarn, the work of the weaver; Precious stones with seal engravings in golden settings, the work of the jeweler, To commemorate in incised letters each of the tribes of Israel;"
+        },
+        {
+          "verse": 12,
+          "text": "On his turban a diadem of gold, its plate engraved with the sacred inscription— Majestic, glorious, renowned for splendor, a delight to the eyes, supremely beautiful."
+        },
+        {
+          "verse": 13,
+          "text": "Before him, no one had been adorned with these, nor may they ever be worn by any other Except his sons and them alone, generation after generation, for all time."
+        },
+        {
+          "verse": 14,
+          "text": "His grain offering is wholly burnt as an established offering twice each day;"
+        },
+        {
+          "verse": 15,
+          "text": "For Moses ordained him and anointed him with the holy oil, In a lasting covenant with him and his family, as permanent as the heavens, That he should serve God in the priesthood and bless the people in his name."
+        },
+        {
+          "verse": 16,
+          "text": "He chose him from all the living to sacrifice burnt offerings and choice portions, To burn incense, sweet odor as a memorial, and to atone for the people of Israel."
+        },
+        {
+          "verse": 17,
+          "text": "He gave to him the laws, and authority to prescribe and to judge: To teach precepts to the people, and judgments to the Israelites."
+        },
+        {
+          "verse": 18,
+          "text": "Strangers rose in anger against him, grew jealous of him in the desert— The followers of Dathan and Abiram, and the band of Korah in their defiance."
+        },
+        {
+          "verse": 19,
+          "text": "When the LORD saw this he became angry, and destroyed them in his burning wrath. He brought against them a marvel, and consumed them in flaming fire."
+        },
+        {
+          "verse": 20,
+          "text": "Then he increased the glory of Aaron and bestowed upon him his inheritance: The sacred offerings he allotted to him, with the showbread as his portion;"
+        },
+        {
+          "verse": 21,
+          "text": "The oblations of the LORD are his food, a gift to him and his descendants."
+        },
+        {
+          "verse": 22,
+          "text": "But he holds no land among the people nor shares with them their heritage; For the LORD himself is his portion and inheritance among the Israelites."
+        },
+        {
+          "verse": 23,
+          "text": "PHINEHAS too, the son of Eleazar, was the courageous third of his line When, zealous for the God of all, he met the crisis of his people And, at the prompting of his noble heart, atoned for the children of Israel."
+        },
+        {
+          "verse": 24,
+          "text": "Therefore, on him also God conferred the right, in a covenant of friendship, to provide for the sanctuary, So that he and his descendants should possess the high priesthood forever."
+        },
+        {
+          "verse": 25,
+          "text": "For even his covenant with David, the son of Jesse of the tribe of Judah, Was an individual heritage through one son alone; but the heritage of Aaron is for all his descendants. So now bless the LORD who has crowned you with glory!"
+        },
+        {
+          "verse": 26,
+          "text": "May he grant you wisdom of heart to govern his people in justice, Lest the benefits you confer should be forgotten, or your authority, throughout all time."
+        }
+      ]
+    },
+    {
+      "chapter": 46,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Chapter 46 Joshua, Caleb, the Judges, and Samuel - Valiant warrior was JOSHUA, son of Nun, aide to Moses in the prophetic office, Formed to be, as his name implies, the great savior of God’s chosen ones, To punish the enemy and to give to Israel their heritage."
+        },
+        {
+          "verse": 2,
+          "text": "What glory was his when he raised his hand, to brandish his sword against the city!"
+        },
+        {
+          "verse": 3,
+          "text": "Who could withstand him when he fought the battles of the LORD?"
+        },
+        {
+          "verse": 4,
+          "text": "Was it not by that same hand the sun stopped, so that one day became two?"
+        },
+        {
+          "verse": 5,
+          "text": "He called upon the Most High God when his enemies beset him on all sides, And God Most High answered him with hailstones of tremendous power,"
+        },
+        {
+          "verse": 6,
+          "text": "That rained down upon the hostile army till on the slope he destroyed the foe; That all the doomed nations might know the LORD was watching over his people’s battles. He was indeed a devoted follower of God"
+        },
+        {
+          "verse": 7,
+          "text": "and showed himself loyal in Moses’ lifetime. He and CALEB, son of Jephunneh, when they opposed the rebel assembly, Averted God’s anger from the people and suppressed the wicked complaint."
+        },
+        {
+          "verse": 8,
+          "text": "Because of this, these two alone were spared from the six hundred thousand infantry, To lead the people into their heritage, the land flowing with milk and honey."
+        },
+        {
+          "verse": 9,
+          "text": "The strength God gave to Caleb remained with him even in old age Till he won his way onto the summits of the land; his family too received a heritage,"
+        },
+        {
+          "verse": 10,
+          "text": "That all the offspring of Jacob might know how good it is to be a devoted follower of the LORD."
+        },
+        {
+          "verse": 11,
+          "text": "The JUDGES, each one of them, whose hearts were not deceived, Who did not abandon God— may their memory be ever blessed!"
+        },
+        {
+          "verse": 12,
+          "text": "May their bones flourish with new life where they lie, and their names receive fresh luster in their children!"
+        },
+        {
+          "verse": 13,
+          "text": "Beloved of his people, dear to his Maker, pledged in a vow from his mother’s womb, As one consecrated to the LORD in the prophetic office, was SAMUEL, the judge who offered sacrifice. At God’s word he established the kingdom and anointed princes to rule the people."
+        },
+        {
+          "verse": 14,
+          "text": "By the law of the LORD he judged the congregation, and visited the encampments of Jacob."
+        },
+        {
+          "verse": 15,
+          "text": "As a trustworthy prophet he was sought out and his words proved him to be a true seer."
+        },
+        {
+          "verse": 16,
+          "text": "He, too, called upon the mighty Lord when his enemies pressed him on every side, and offered up a suckling lamb."
+        },
+        {
+          "verse": 17,
+          "text": "Then the LORD thundered from heaven, and the tremendous roar of his voice was heard."
+        },
+        {
+          "verse": 18,
+          "text": "He brought low the rulers of the enemy and destroyed all the lords of the Philistines."
+        },
+        {
+          "verse": 19,
+          "text": "When Samuel neared the end of life, he testified before the LORD and his anointed prince, “No bribe or secret gift have I taken from anyone!” and no one could accuse him."
+        },
+        {
+          "verse": 20,
+          "text": "Even after death his guidance was sought; he made known to the king his fate. From the grave he spoke in prophecy to put an end to wickedness."
+        }
+      ]
+    },
+    {
+      "chapter": 47,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Chapter 47 Nathan, David, and Solomon - After him came NATHAN who served in David’s presence."
+        },
+        {
+          "verse": 2,
+          "text": "Like the choice fat of sacred offerings, so was DAVID in Israel."
+        },
+        {
+          "verse": 3,
+          "text": "He played with lions as though they were young goats, and with bears, like lambs of the flock."
+        },
+        {
+          "verse": 4,
+          "text": "As a youth he struck down the giant and wiped out the people’s disgrace; His hand let fly the slingstone that shattered the pride of Goliath."
+        },
+        {
+          "verse": 5,
+          "text": "For he had called upon the Most High God, who gave strength to his right arm To defeat the skilled warrior and establish the might of his people."
+        },
+        {
+          "verse": 6,
+          "text": "Therefore the women sang his praises and honored him for “the tens of thousands.” When he received the royal crown, he battled"
+        },
+        {
+          "verse": 7,
+          "text": "and subdued the enemy on every side. He campaigned against the hostile Philistines and shattered their power till our own day."
+        },
+        {
+          "verse": 8,
+          "text": "With his every deed he offered thanks to God Most High, in words of praise. With his whole heart he loved his Maker"
+        },
+        {
+          "verse": 9,
+          "text": "and daily had his praises sung; He added beauty to the feasts and solemnized the seasons of each year With string music before the altar, providing sweet melody for the psalms So that when the Holy Name was praised, before daybreak the sanctuary would resound."
+        },
+        {
+          "verse": 10,
+          "text": "and daily had his praises sung; He added beauty to the feasts and solemnized the seasons of each year With string music before the altar, providing sweet melody for the psalms So that when the Holy Name was praised, before daybreak the sanctuary would resound."
+        },
+        {
+          "verse": 11,
+          "text": "The LORD forgave him his sins and exalted his strength forever; He conferred on him the rights of royalty and established his throne in Israel."
+        },
+        {
+          "verse": 12,
+          "text": "Because of his merits he had as successor a wise son, who lived in security:"
+        },
+        {
+          "verse": 13,
+          "text": "SOLOMON reigned during an era of peace, for God brought rest to all his borders. He built a house to the name of God, and established a lasting sanctuary."
+        },
+        {
+          "verse": 14,
+          "text": "How wise you were when you were young, overflowing with instruction, like the Nile in flood!"
+        },
+        {
+          "verse": 15,
+          "text": "Your understanding covered the whole earth, and, like a sea, filled it with knowledge."
+        },
+        {
+          "verse": 16,
+          "text": "Your fame reached distant coasts, and you were beloved for your peaceful reign."
+        },
+        {
+          "verse": 17,
+          "text": "With song and proverb and riddle, and with your answers, you astounded the nations."
+        },
+        {
+          "verse": 18,
+          "text": "You were called by that glorious name which was conferred upon Israel. Gold you gathered like so much iron; you heaped up silver as though it were lead."
+        },
+        {
+          "verse": 19,
+          "text": "But you abandoned yourself to women and gave them dominion over your body."
+        },
+        {
+          "verse": 20,
+          "text": "You brought a stain upon your glory, shame upon your marriage bed, Wrath upon your descendants, and groaning upon your deathbed."
+        },
+        {
+          "verse": 21,
+          "text": "Thus two governments came into being, when in Ephraim kingship was usurped."
+        },
+        {
+          "verse": 22,
+          "text": "But God does not withdraw his mercy, nor permit even one of his promises to fail. He does not uproot the posterity of the chosen, nor destroy the offspring of his friends. So he gave to Jacob a remnant, to David a root from his own family."
+        },
+        {
+          "verse": 23,
+          "text": "Rehoboam and Jeroboam - Solomon finally slept with his ancestors, and left behind him one of his sons, Broad in folly, narrow in sense, whose policy made the people rebel. Then arose the one who should not be remembered, the sinner who led Israel into sin, Who brought ruin to Ephraim"
+        },
+        {
+          "verse": 24,
+          "text": "and caused them to be exiled from their land."
+        },
+        {
+          "verse": 25,
+          "text": "Elijah and Elisha - Their sinfulness grew more and more, and they gave themselves to every evil"
+        }
+      ]
+    },
+    {
+      "chapter": 48,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Chapter 48 - Until like fire a prophet appeared, his words a flaming furnace."
+        },
+        {
+          "verse": 2,
+          "text": "The staff of life, their bread, he shattered, and in his zeal he made them few in number."
+        },
+        {
+          "verse": 3,
+          "text": "By God’s word he shut up the heavens and three times brought down fire."
+        },
+        {
+          "verse": 4,
+          "text": "How awesome are you, ELIJAH! Whose glory is equal to yours?"
+        },
+        {
+          "verse": 5,
+          "text": "You brought a dead body back to life from Sheol, by the will of the LORD."
+        },
+        {
+          "verse": 6,
+          "text": "You sent kings down to destruction, and nobles, from their beds of sickness."
+        },
+        {
+          "verse": 7,
+          "text": "You heard threats at Sinai, at Horeb avenging judgments."
+        },
+        {
+          "verse": 8,
+          "text": "You anointed the agent of these punishments, the prophet to succeed in your place."
+        },
+        {
+          "verse": 9,
+          "text": "You were taken aloft in a whirlwind, in a chariot with fiery horses."
+        },
+        {
+          "verse": 10,
+          "text": "You are destined, it is written, in time to come to put an end to wrath before the day of the LORD, To turn back the hearts of parents toward their children, and to re-establish the tribes of Israel."
+        },
+        {
+          "verse": 11,
+          "text": "Blessed is the one who shall have seen you before he dies!"
+        },
+        {
+          "verse": 12,
+          "text": "When Elijah was enveloped in the whirlwind, ELISHA was filled with his spirit; He worked twice as many marvels, and every utterance of his mouth was wonderful. During his lifetime he feared no one, nor was anyone able to intimidate his will."
+        },
+        {
+          "verse": 13,
+          "text": "Nothing was beyond his power; and from where he lay buried, his body prophesied."
+        },
+        {
+          "verse": 14,
+          "text": "In life he performed wonders, and after death, marvelous deeds."
+        },
+        {
+          "verse": 15,
+          "text": "Despite all this the people did not repent, nor did they give up their sins, Until they were uprooted from their land and scattered all over the earth. Judah - But Judah remained, a tiny people, with its ruler from the house of David."
+        },
+        {
+          "verse": 16,
+          "text": "Some of them did what was right, but others were extremely sinful."
+        },
+        {
+          "verse": 17,
+          "text": "Hezekiah and Isaiah - HEZEKIAH fortified his city and had water brought into it; With bronze tools he cut through the rocks and dammed up a mountain site for water."
+        },
+        {
+          "verse": 18,
+          "text": "During his reign Sennacherib led an invasion and sent his adjutant; He shook his fist at Zion and blasphemed God in his pride."
+        },
+        {
+          "verse": 19,
+          "text": "The people’s hearts melted within them, and they were in anguish like that of childbirth."
+        },
+        {
+          "verse": 20,
+          "text": "But they called upon the Most High God and lifted up their hands to him; He heard the prayer they uttered, and saved them through ISAIAH."
+        },
+        {
+          "verse": 21,
+          "text": "God struck the camp of the Assyrians and routed them with a plague."
+        },
+        {
+          "verse": 22,
+          "text": "For Hezekiah did what was right and held fast to the paths of David, As ordered by the illustrious prophet Isaiah, who saw truth in visions."
+        },
+        {
+          "verse": 23,
+          "text": "In his lifetime he turned back the sun and prolonged the life of the king."
+        },
+        {
+          "verse": 24,
+          "text": "By his powerful spirit he looked into the future and consoled the mourners of Zion;"
+        },
+        {
+          "verse": 25,
+          "text": "He foretold what would happen till the end of time, hidden things yet to be fulfilled."
+        }
+      ]
+    },
+    {
+      "chapter": 49,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Chapter 49 Josiah and the Prophets - The name JOSIAH is like blended incense, made lasting by a skilled perfumer. Precious is his memory, like honey to the taste, like music at a banquet."
+        },
+        {
+          "verse": 2,
+          "text": "For he grieved over our betrayals, and destroyed the abominable idols."
+        },
+        {
+          "verse": 3,
+          "text": "He kept his heart fixed on God, and in times of lawlessness practiced virtue."
+        },
+        {
+          "verse": 4,
+          "text": "Except for David, Hezekiah, and Josiah, they all were wicked; They abandoned the Law of the Most High, these kings of Judah, right to the very end."
+        },
+        {
+          "verse": 5,
+          "text": "So he gave over their power to others, their glory to a foreign nation"
+        },
+        {
+          "verse": 6,
+          "text": "Who burned the holy city and left its streets desolate,"
+        },
+        {
+          "verse": 7,
+          "text": "As foretold by JEREMIAH. They mistreated him who even in the womb had been made a prophet, To root out, pull down, and destroy, and then to build and to plant."
+        },
+        {
+          "verse": 8,
+          "text": "EZEKIEL beheld a vision and described the different creatures of the chariot;"
+        },
+        {
+          "verse": 9,
+          "text": "He also referred to JOB, who always persevered in the right path."
+        },
+        {
+          "verse": 10,
+          "text": "Then, too, the TWELVE PROPHETS— may their bones flourish with new life where they lie!— They gave new strength to Jacob and saved him with steadfast hope."
+        },
+        {
+          "verse": 11,
+          "text": "The Heroes After the Exile - How to extol ZERUBBABEL? He was like a signet ring on the right hand,"
+        },
+        {
+          "verse": 12,
+          "text": "And JESHUA, Jozadak’s son? In their time they rebuilt the altar And erected the holy temple, destined for everlasting glory."
+        },
+        {
+          "verse": 13,
+          "text": "Exalted be the memory of NEHEMIAH! He rebuilt our ruined walls, Restored our shattered defenses, and set up gates and bars."
+        },
+        {
+          "verse": 14,
+          "text": "The Earliest Patriarchs - Few on earth have been created like ENOCH; he also was taken up bodily."
+        },
+        {
+          "verse": 15,
+          "text": "Was ever a man born like JOSEPH? Even his dead body was provided for."
+        },
+        {
+          "verse": 16,
+          "text": "Glorious, too, were SHEM and SETH and ENOSH; but beyond that of any living being was the splendor of ADAM."
+        }
+      ]
+    },
+    {
+      "chapter": 50,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Chapter 50 Simeon, Son of Jochanan - Greatest of his family, the glory of his people, was SIMEON the priest, son of Jochanan, In whose time the house of God was renovated, in whose days the temple was reinforced."
+        },
+        {
+          "verse": 2,
+          "text": "In his time also the retaining wall was built with powerful turrets for the temple precincts."
+        },
+        {
+          "verse": 3,
+          "text": "In his time the reservoir was dug, a pool as vast as the sea."
+        },
+        {
+          "verse": 4,
+          "text": "He protected the people against brigands and strengthened the city against the enemy."
+        },
+        {
+          "verse": 5,
+          "text": "How splendid he was as he looked out from the tent, as he came from behind the veil!"
+        },
+        {
+          "verse": 6,
+          "text": "Like a star shining among the clouds, like the full moon at the festal season;"
+        },
+        {
+          "verse": 7,
+          "text": "Like sun shining upon the temple of the King, like a rainbow appearing in the cloudy sky;"
+        },
+        {
+          "verse": 8,
+          "text": "Like blossoms on the branches in springtime, like a lily by running waters; Like a green shoot on Lebanon in summer,"
+        },
+        {
+          "verse": 9,
+          "text": "like the fire of incense at sacrifice; Like a vessel of hammered gold, studded with all kinds of precious stones;"
+        },
+        {
+          "verse": 10,
+          "text": "Like a luxuriant olive tree heavy with fruit, a plant with branches abounding in oil;"
+        },
+        {
+          "verse": 11,
+          "text": "Wearing his glorious robes, and vested in sublime magnificence, As he ascended the glorious altar and lent majesty to the court of the sanctuary."
+        },
+        {
+          "verse": 12,
+          "text": "When he received the portions from the priests while he stood before the sacrificial wood, His sons stood round him like a garland, like young cedars on Lebanon; And like poplars by the brook they surrounded him,"
+        },
+        {
+          "verse": 13,
+          "text": "all the sons of Aaron in their glory, With the offerings to the LORD in their hands, in the presence of the whole assembly of Israel."
+        },
+        {
+          "verse": 14,
+          "text": "Once he had completed the service at the altar and arranged the sacrificial hearth for the Most High,"
+        },
+        {
+          "verse": 15,
+          "text": "And had stretched forth his hand for the cup, to offer blood of the grape, And poured it out at the foot of the altar, a sweet-smelling odor to God the Most High,"
+        },
+        {
+          "verse": 16,
+          "text": "Then the sons of Aaron would sound a blast, the priests, on their trumpets of beaten metal; A blast to resound mightily as a reminder before the Most High."
+        },
+        {
+          "verse": 17,
+          "text": "All the people with one accord would fall with face to the ground In adoration before the Most High, before the Holy One of Israel."
+        },
+        {
+          "verse": 18,
+          "text": "Then hymns would re-echo, and over the throng sweet strains of praise resound."
+        },
+        {
+          "verse": 19,
+          "text": "All the people of the land would shout for joy, praying to the Merciful One, As the high priest completed the service at the altar by presenting to God the fitting sacrifice."
+        },
+        {
+          "verse": 20,
+          "text": "Then coming down he would raise his hands over all the congregation of Israel; The blessing of the LORD would be upon his lips, the name of the LORD would be his glory."
+        },
+        {
+          "verse": 21,
+          "text": "The people would again fall down to receive the blessing of the Most High."
+        },
+        {
+          "verse": 22,
+          "text": "And now, bless the God of all, who has done wonders on earth; Who fosters growth from the womb, fashioning it according to his will!"
+        },
+        {
+          "verse": 23,
+          "text": "May he grant you a wise heart and abide with you in peace;"
+        },
+        {
+          "verse": 24,
+          "text": "May his goodness toward Simeon last forever; may he fulfill for him the covenant with Phinehas So that it may not be abrogated for him or his descendants while the heavens last."
+        },
+        {
+          "verse": 25,
+          "text": "Epilogue - My whole being loathes two nations, the third is not even a people:"
+        },
+        {
+          "verse": 26,
+          "text": "The inhabitants of Seir and Philistia, and the foolish people who dwell in Shechem."
+        },
+        {
+          "verse": 27,
+          "text": "Wise instruction, appropriate proverbs, I have written in this book— I, Yeshua Ben Eleazar Ben Sira— as they poured forth from my heart’s understanding."
+        },
+        {
+          "verse": 28,
+          "text": "Happy those who meditate upon these things; wise those who take them to heart!"
+        },
+        {
+          "verse": 29,
+          "text": "If they put them into practice, they can cope with anything, for the fear of the LORD is their lamp."
+        }
+      ]
+    },
+    {
+      "chapter": 51,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Chapter 51 A Prayer of Thanksgiving - I give you thanks, LORD and King, I praise you, God my savior! I declare your name, refuge of my life,"
+        },
+        {
+          "verse": 2,
+          "text": "because you have ransomed my life from death; You held back my body from the pit, and delivered my foot from the power of Sheol. You have preserved me from the scourge of the slanderous tongue, and from the lips of those who went over to falsehood. You were with me against those who rise up against me;"
+        },
+        {
+          "verse": 3,
+          "text": "You have rescued me according to your abundant mercy From the snare of those who look for my downfall, and from the power of those who seek my life. From many dangers you have saved me,"
+        },
+        {
+          "verse": 4,
+          "text": "from flames that beset me on every side, From the midst of fire till there was not a whiff of it,"
+        },
+        {
+          "verse": 5,
+          "text": "from the deep belly of Sheol, From deceiving lips and painters of lies,"
+        },
+        {
+          "verse": 6,
+          "text": "from the arrows of a treacherous tongue. I was at the point of death, my life was nearing the depths of Sheol;"
+        },
+        {
+          "verse": 7,
+          "text": "I turned every way, but there was no one to help; I looked for support but there was none."
+        },
+        {
+          "verse": 8,
+          "text": "Then I remembered the mercies of the LORD, his acts of kindness through ages past; For he saves those who take refuge in him, and rescues them from every evil."
+        },
+        {
+          "verse": 9,
+          "text": "So I raised my voice from the grave; from the gates of Sheol I cried for help."
+        },
+        {
+          "verse": 10,
+          "text": "I called out: LORD, you are my Father, my champion, my savior! Do not abandon me in time of trouble, in the midst of storms and dangers."
+        },
+        {
+          "verse": 11,
+          "text": "I will always praise your name and remember you in prayer! Then the LORD heard my voice, and listened to my appeal."
+        },
+        {
+          "verse": 12,
+          "text": "He saved me from every evil and preserved me in time of trouble. For this reason I thank and praise him; I bless the name of the LORD."
+        },
+        {
+          "verse": 13,
+          "text": "Ben Sira’s Pursuit of Wisdom - When I was young and innocent, I sought wisdom."
+        },
+        {
+          "verse": 14,
+          "text": "She came to me in her beauty, and until the end I will cultivate her."
+        },
+        {
+          "verse": 15,
+          "text": "As the blossoms yielded to ripening grapes, the heart’s joy, My feet kept to the level path because from earliest youth I was familiar with her."
+        },
+        {
+          "verse": 16,
+          "text": "In the short time I paid heed, I met with great instruction."
+        },
+        {
+          "verse": 17,
+          "text": "Since in this way I have profited, I will give my Teacher grateful praise."
+        },
+        {
+          "verse": 18,
+          "text": "I resolved to tread her paths; I have been jealous for the good and will not turn back."
+        },
+        {
+          "verse": 19,
+          "text": "I burned with desire for her, never relenting. I became preoccupied with her, never weary of extolling her. I spread out my hands to the heavens and I came to know her secrets."
+        },
+        {
+          "verse": 20,
+          "text": "For her I purified my hands; in cleanness I attained to her. At first acquaintance with her, I gained understanding such that I will never forsake her."
+        },
+        {
+          "verse": 21,
+          "text": "My whole being was stirred to seek her; therefore I have made her my prize possession."
+        },
+        {
+          "verse": 22,
+          "text": "The LORD has rewarded me with lips, with a tongue for praising him."
+        },
+        {
+          "verse": 23,
+          "text": "Come aside to me, you untutored, and take up lodging in the house of instruction;"
+        },
+        {
+          "verse": 24,
+          "text": "How long will you deprive yourself of wisdom’s food, how long endure such bitter thirst?"
+        },
+        {
+          "verse": 25,
+          "text": "I open my mouth and speak of her: gain wisdom for yourselves at no cost."
+        },
+        {
+          "verse": 26,
+          "text": "Take her yoke upon your neck; that your mind may receive her teaching. For she is close to those who seek her, and the one who is in earnest finds her."
+        },
+        {
+          "verse": 27,
+          "text": "See for yourselves! I have labored only a little, but have found much."
+        },
+        {
+          "verse": 28,
+          "text": "Acquire but a little instruction, and you will win silver and gold through her."
+        },
+        {
+          "verse": 29,
+          "text": "May your soul rejoice in God’s mercy; do not be ashamed to give him praise."
+        },
+        {
+          "verse": 30,
+          "text": "Work at your tasks in due season, and in his own time God will give you your reward."
+        }
+      ]
+    }
+  ]
+}

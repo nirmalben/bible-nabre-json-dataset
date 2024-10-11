@@ -1,0 +1,3922 @@
+{
+  "book": "1Chronicles",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "I. Genealogical Tables Chapter 1 - From Adam to Abraham. Adam, Seth, Enosh,"
+        },
+        {
+          "verse": 2,
+          "text": "Kenan, Mahalalel, Jared,"
+        },
+        {
+          "verse": 3,
+          "text": "Enoch, Methuselah, Lamech,"
+        },
+        {
+          "verse": 4,
+          "text": "Noah, Shem, Ham, and Japheth."
+        },
+        {
+          "verse": 5,
+          "text": "The sons of Japheth were Gomer, Magog, Madai, Javan, Tubal, Meshech, and Tiras."
+        },
+        {
+          "verse": 6,
+          "text": "The sons of Gomer were Ashkenaz, Riphath, and Togarmah."
+        },
+        {
+          "verse": 7,
+          "text": "The sons of Javan were Elishah, Tarshish, the Kittim, and the Rodanim."
+        },
+        {
+          "verse": 8,
+          "text": "The sons of Ham were Cush, Mizraim, Put, and Canaan."
+        },
+        {
+          "verse": 9,
+          "text": "The sons of Cush were Seba, Havilah, Sabta, Raama, and Sabteca. The sons of Raama were Sheba and Dedan."
+        },
+        {
+          "verse": 10,
+          "text": "Cush became the father of Nimrod, who was the first to be a warrior on the earth."
+        },
+        {
+          "verse": 11,
+          "text": "Mizraim became the father of the Ludim, Anamim, Lehabim, Naphtuhim,"
+        },
+        {
+          "verse": 12,
+          "text": "Pathrusim, Casluhim, and Caphtorim, from whom the Philistines sprang."
+        },
+        {
+          "verse": 13,
+          "text": "Canaan became the father of Sidon, his firstborn, and Heth,"
+        },
+        {
+          "verse": 14,
+          "text": "and the Jebusites, the Amorites, the Girgashites,"
+        },
+        {
+          "verse": 15,
+          "text": "the Hivites, the Arkites, the Sinites,"
+        },
+        {
+          "verse": 16,
+          "text": "the Arvadites, the Zemarites, and the Hamathites."
+        },
+        {
+          "verse": 17,
+          "text": "The sons of Shem were Elam, Asshur, Arpachshad, Lud, and Aram. The sons of Aram were Uz, Hul, Gether, and Mash."
+        },
+        {
+          "verse": 18,
+          "text": "Arpachshad became the father of Shelah, and Shelah became the father of Eber."
+        },
+        {
+          "verse": 19,
+          "text": "Two sons were born to Eber; the first was named Peleg (for in his time the world was divided), and his brother was named Joktan."
+        },
+        {
+          "verse": 20,
+          "text": "Joktan became the father of Almodad, Sheleph, Hazarmaveth, Jerah,"
+        },
+        {
+          "verse": 21,
+          "text": "Hadoram, Uzal, Diklah,"
+        },
+        {
+          "verse": 22,
+          "text": "Ebal, Abimael, Sheba,"
+        },
+        {
+          "verse": 23,
+          "text": "Ophir, Havilah, and Jobab; all these were the sons of Joktan."
+        },
+        {
+          "verse": 24,
+          "text": "Shem, Arpachshad, Shelah,"
+        },
+        {
+          "verse": 25,
+          "text": "Eber, Peleg, Reu,"
+        },
+        {
+          "verse": 26,
+          "text": "Serug, Nahor, Terah,"
+        },
+        {
+          "verse": 27,
+          "text": "Abram, that is, Abraham."
+        },
+        {
+          "verse": 28,
+          "text": "From Abraham to Jacob. The sons of Abraham were Isaac and Ishmael."
+        },
+        {
+          "verse": 29,
+          "text": "These were their generations: Nebaioth, the firstborn of Ishmael, then Kedar, Adbeel, Mibsam,"
+        },
+        {
+          "verse": 30,
+          "text": "Mishma, Dumah, Massa, Hadad, Tema,"
+        },
+        {
+          "verse": 31,
+          "text": "Jetur, Naphish, and Kedemah. These were the sons of Ishmael."
+        },
+        {
+          "verse": 32,
+          "text": "The sons of Keturah, Abraham’s concubine: she bore Zimran, Jokshan, Medan, Midian, Ishbak, and Shuah. The sons of Jokshan were Sheba and Dedan."
+        },
+        {
+          "verse": 33,
+          "text": "The sons of Midian were Ephah, Epher, Hanoch, Abida, and Eldaah. All these were the sons of Keturah."
+        },
+        {
+          "verse": 34,
+          "text": "Abraham begot Isaac. The sons of Isaac were Esau and Israel."
+        },
+        {
+          "verse": 35,
+          "text": "The descendants of Esau were Eliphaz, Reuel, Jeush, Jalam, and Korah."
+        },
+        {
+          "verse": 36,
+          "text": "The descendants of Eliphaz were Teman, Omar, Zephi, Gatam, Kenaz, Timna, and Amalek."
+        },
+        {
+          "verse": 37,
+          "text": "The descendants of Reuel were Nahath, Zerah, Shammah, and Mizzah."
+        },
+        {
+          "verse": 38,
+          "text": "The sons of Seir were Lotan, Shobal, Zibeon, Anah, Dishon, Ezer, and Dishan."
+        },
+        {
+          "verse": 39,
+          "text": "The sons of Lotan were Hori and Homam; Timna was the sister of Lotan."
+        },
+        {
+          "verse": 40,
+          "text": "The sons of Shobal were Alian, Manahath, Ebal, Shephi, and Onam. The sons of Zibeon were Aiah and Anah."
+        },
+        {
+          "verse": 41,
+          "text": "The sons of Anah: Dishon. The sons of Dishon were Hemdan, Eshban, Ithran, and Cheran."
+        },
+        {
+          "verse": 42,
+          "text": "The sons of Ezer were Bilhan, Zaavan, and Jaakan. The sons of Dishan were Uz and Aran."
+        },
+        {
+          "verse": 43,
+          "text": "The kings who reigned in the land of Edom before the Israelites had kings were the following: Bela, son of Beor, the name of whose city was Dinhabah."
+        },
+        {
+          "verse": 44,
+          "text": "When Bela died, Jobab, son of Zerah, from Bozrah, succeeded him as king."
+        },
+        {
+          "verse": 45,
+          "text": "When Jobab died, Husham, from the land of the Temanites, succeeded him as king."
+        },
+        {
+          "verse": 46,
+          "text": "Husham died and Hadad, son of Bedad, succeeded him as king. He overthrew the Midianites on the Moabite plateau, and the name of his city was Avith."
+        },
+        {
+          "verse": 47,
+          "text": "Hadad died and Samlah of Masrekah succeeded him as king."
+        },
+        {
+          "verse": 48,
+          "text": "Samlah died and Shaul from Rehoboth on the Euphrates succeeded him as king."
+        },
+        {
+          "verse": 49,
+          "text": "When Shaul died, Baalhanan, son of Achbor, succeeded him as king."
+        },
+        {
+          "verse": 50,
+          "text": "Baalhanan died and Hadad succeeded him as king. The name of his city was Pai, and his wife’s name was Mehetabel. She was the daughter of Matred, who was the daughter of Mezahab."
+        },
+        {
+          "verse": 51,
+          "text": "After Hadad died, there were chiefs in Edom: the chiefs of Timna, Aliah, Jetheth,"
+        },
+        {
+          "verse": 52,
+          "text": "Oholibamah, Elah, Pinon,"
+        },
+        {
+          "verse": 53,
+          "text": "Kenaz, Teman, Mibzar,"
+        },
+        {
+          "verse": 54,
+          "text": "Magdiel, and Iram were the chiefs of Edom."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Chapter 2 - These were the sons of Israel: Reuben, Simeon, Levi, Judah, Issachar, Zebulun,"
+        },
+        {
+          "verse": 2,
+          "text": "Dan, Joseph, Benjamin, Naphtali, Gad, and Asher."
+        },
+        {
+          "verse": 3,
+          "text": "Judah. The sons of Judah were: Er, Onan, and Shelah; these three Bathshua, a Canaanite woman, bore to him. But Judah’s firstborn, Er, was wicked in the sight of the LORD, so he took his life."
+        },
+        {
+          "verse": 4,
+          "text": "Judah’s daughter-in-law Tamar bore him Perez and Zerah, so that he had five sons in all."
+        },
+        {
+          "verse": 5,
+          "text": "The sons of Perez were Hezron and Hamul."
+        },
+        {
+          "verse": 6,
+          "text": "The sons of Zerah were Zimri, Ethan, Heman, Calcol, and Darda—five in all."
+        },
+        {
+          "verse": 7,
+          "text": "The sons of Zimri: Carmi. The sons of Carmi: Achar, who brought trouble upon Israel by violating the ban."
+        },
+        {
+          "verse": 8,
+          "text": "The sons of Ethan: Azariah."
+        },
+        {
+          "verse": 9,
+          "text": "The sons born to Hezron were Jerahmeel, Ram, and Chelubai."
+        },
+        {
+          "verse": 10,
+          "text": "Ram became the father of Amminadab, and Amminadab became the father of Nahshon, a prince of the Judahites."
+        },
+        {
+          "verse": 11,
+          "text": "Nahshon became the father of Salmah. Salmah became the father of Boaz."
+        },
+        {
+          "verse": 12,
+          "text": "Boaz became the father of Obed. Obed became the father of Jesse."
+        },
+        {
+          "verse": 13,
+          "text": "Jesse became the father of Eliab, his firstborn, of Abinadab, the second son, Shimea, the third,"
+        },
+        {
+          "verse": 14,
+          "text": "Nethanel, the fourth, Raddai, the fifth,"
+        },
+        {
+          "verse": 15,
+          "text": "Ozem, the sixth, and David, the seventh."
+        },
+        {
+          "verse": 16,
+          "text": "Their sisters were Zeruiah and Abigail. Zeruiah had three sons: Abishai, Joab, and Asahel."
+        },
+        {
+          "verse": 17,
+          "text": "Abigail bore Amasa, whose father was Jether the Ishmaelite."
+        },
+        {
+          "verse": 18,
+          "text": "By his wife Azubah, Caleb, son of Hezron, became the father of a daughter, Jerioth. Her sons were Jesher, Shobab, and Ardon."
+        },
+        {
+          "verse": 19,
+          "text": "When Azubah died, Caleb married Ephrath, who bore him Hur."
+        },
+        {
+          "verse": 20,
+          "text": "Hur became the father of Uri, and Uri became the father of Bezalel."
+        },
+        {
+          "verse": 21,
+          "text": "Then Hezron had relations with the daughter of Machir, the father of Gilead, whom he married when he was sixty years old. She bore him Segub."
+        },
+        {
+          "verse": 22,
+          "text": "Segub became the father of Jair, who possessed twenty-three cities in the land of Gilead."
+        },
+        {
+          "verse": 23,
+          "text": "Geshur and Aram took from them the villages of Jair, that is, Kenath and its towns, sixty cities in all, which had belonged to the sons of Machir, the father of Gilead."
+        },
+        {
+          "verse": 24,
+          "text": "After the death of Hezron, Caleb had relations with Ephrathah, the widow of his father Hezron, and she bore him Ashhur, the father of Tekoa."
+        },
+        {
+          "verse": 25,
+          "text": "The sons of Jerahmeel, the firstborn of Hezron, were Ram, the firstborn, then Bunah, Oren, and Ozem, his brothers."
+        },
+        {
+          "verse": 26,
+          "text": "Jerahmeel also had another wife, named Atarah, who was the mother of Onam."
+        },
+        {
+          "verse": 27,
+          "text": "The sons of Ram, the firstborn of Jerahmeel, were Maaz, Jamin, and Eker."
+        },
+        {
+          "verse": 28,
+          "text": "The sons of Onam were Shammai and Jada. The sons of Shammai were Nadab and Abishur."
+        },
+        {
+          "verse": 29,
+          "text": "Abishur’s wife, who was named Abihail, bore him Ahban and Molid."
+        },
+        {
+          "verse": 30,
+          "text": "The sons of Nadab were Seled and Appaim. Seled died childless."
+        },
+        {
+          "verse": 31,
+          "text": "The sons of Appaim: Ishi. The sons of Ishi: Sheshan. The sons of Sheshan: Ahlai."
+        },
+        {
+          "verse": 32,
+          "text": "The sons of Jada, the brother of Shammai, were Jether and Jonathan. Jether died childless."
+        },
+        {
+          "verse": 33,
+          "text": "The sons of Jonathan were Peleth and Zaza. These were the sons of Jerahmeel."
+        },
+        {
+          "verse": 34,
+          "text": "Sheshan had no sons, only daughters; he had an Egyptian slave named Jarha."
+        },
+        {
+          "verse": 35,
+          "text": "Sheshan gave his daughter in marriage to his slave Jarha, and she bore him Attai."
+        },
+        {
+          "verse": 36,
+          "text": "Attai became the father of Nathan. Nathan became the father of Zabad."
+        },
+        {
+          "verse": 37,
+          "text": "Zabad became the father of Ephlal. Ephlal became the father of Obed."
+        },
+        {
+          "verse": 38,
+          "text": "Obed became the father of Jehu. Jehu became the father of Azariah."
+        },
+        {
+          "verse": 39,
+          "text": "Azariah became the father of Helez. Helez became the father of Eleasah."
+        },
+        {
+          "verse": 40,
+          "text": "Eleasah became the father of Sismai. Sismai became the father of Shallum."
+        },
+        {
+          "verse": 41,
+          "text": "Shallum became the father of Jekamiah. Jekamiah became the father of Elishama."
+        },
+        {
+          "verse": 42,
+          "text": "The sons of Caleb, the brother of Jerahmeel: Mesha his firstborn, who was the father of Ziph. Then the sons of Mareshah, who was the father of Hebron."
+        },
+        {
+          "verse": 43,
+          "text": "The sons of Hebron were Korah, Tappuah, Rekem, and Shema."
+        },
+        {
+          "verse": 44,
+          "text": "Shema became the father of Raham, who was the father of Jorkeam. Rekem became the father of Shammai."
+        },
+        {
+          "verse": 45,
+          "text": "The son of Shammai: Maon, who was the father of Beth-zur."
+        },
+        {
+          "verse": 46,
+          "text": "Ephah, Caleb’s concubine, bore Haran, Moza, and Gazez. Haran became the father of Gazez."
+        },
+        {
+          "verse": 47,
+          "text": "The sons of Jahdai were Regem, Jotham, Geshan, Pelet, Ephah, and Shaaph."
+        },
+        {
+          "verse": 48,
+          "text": "Maacah, Caleb’s concubine, bore Sheber and Tirhanah."
+        },
+        {
+          "verse": 49,
+          "text": "She also bore Shaaph, the father of Madmannah, Sheva, the father of Machbenah, and the father of Gibea. Achsah was Caleb’s daughter."
+        },
+        {
+          "verse": 50,
+          "text": "These were sons of Caleb, sons of Hur, the firstborn of Ephrathah: Shobal, the father of Kiriath-jearim,"
+        },
+        {
+          "verse": 51,
+          "text": "Salma, the father of Bethlehem, and Hareph, the father of Bethgader."
+        },
+        {
+          "verse": 52,
+          "text": "The sons of Shobal, the father of Kiriath-jearim, were Reaiah, half of the Manahathites,"
+        },
+        {
+          "verse": 53,
+          "text": "and the clans of Kiriath-jearim: the Ithrites, the Puthites, the Shumathites, and the Mishraites. From these the Zorahites and the Eshtaolites derived."
+        },
+        {
+          "verse": 54,
+          "text": "The sons of Salma were Bethlehem, the Netophathites, Atroth-beth-Joab, half of the Manahathites, and the Zorites."
+        },
+        {
+          "verse": 55,
+          "text": "The clans of the Sopherim dwelling in Jabez were the Tirathites, the Shimeathites, and the Sucathites. They were the Kenites, who descended from Hammath, the ancestor of the Rechabites."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Chapter 3 - These were the sons of David born to him in Hebron: the firstborn, Amnon, by Ahinoam of Jezreel; the second, Daniel, by Abigail of Carmel;"
+        },
+        {
+          "verse": 2,
+          "text": "the third, Absalom, son of Maacah, who was the daughter of Talmai, king of Geshur; the fourth, Adonijah, son of Haggith;"
+        },
+        {
+          "verse": 3,
+          "text": "the fifth, Shephatiah, by Abital; the sixth, Ithream, by his wife Eglah."
+        },
+        {
+          "verse": 4,
+          "text": "Six in all were born to him in Hebron, where he reigned seven years and six months. Then he reigned thirty-three years in Jerusalem."
+        },
+        {
+          "verse": 5,
+          "text": "In Jerusalem the following were born to him: Shimea, Shobab, Nathan, Solomon—four by Bathsheba, the daughter of Ammiel;"
+        },
+        {
+          "verse": 6,
+          "text": "Ibhar, Elishua, Eliphelet,"
+        },
+        {
+          "verse": 7,
+          "text": "Nogah, Nepheg, Japhia,"
+        },
+        {
+          "verse": 8,
+          "text": "Elishama, Eliada, and Eliphelet—nine."
+        },
+        {
+          "verse": 9,
+          "text": "All these were sons of David, in addition to other sons by concubines; and Tamar was their sister."
+        },
+        {
+          "verse": 10,
+          "text": "The son of Solomon was Rehoboam, whose son was Abijah, whose son was Asa, whose son was Jehoshaphat,"
+        },
+        {
+          "verse": 11,
+          "text": "whose son was Joram, whose son was Ahaziah, whose son was Joash,"
+        },
+        {
+          "verse": 12,
+          "text": "whose son was Amaziah, whose son was Azariah, whose son was Jotham,"
+        },
+        {
+          "verse": 13,
+          "text": "whose son was Ahaz, whose son was Hezekiah, whose son was Manasseh,"
+        },
+        {
+          "verse": 14,
+          "text": "whose son was Amon, whose son was Josiah."
+        },
+        {
+          "verse": 15,
+          "text": "The sons of Josiah were: the firstborn Johanan; the second, Jehoiakim; the third, Zedekiah; the fourth, Shallum."
+        },
+        {
+          "verse": 16,
+          "text": "The sons of Jehoiakim were: Jeconiah, his son; Zedekiah, his son."
+        },
+        {
+          "verse": 17,
+          "text": "The sons of Jeconiah the captive were: Shealtiel,"
+        },
+        {
+          "verse": 18,
+          "text": "Malchiram, Pedaiah, Shenazzar, Jekamiah, Hoshama, and Nedabiah."
+        },
+        {
+          "verse": 19,
+          "text": "The sons of Pedaiah were Zerubbabel and Shimei. The sons of Zerubbabel were Meshullam and Hananiah; Shelomith was their sister."
+        },
+        {
+          "verse": 20,
+          "text": "The sons of Meshullam were Hashubah, Ohel, Berechiah, Hasadiah, Jushabhesed—five."
+        },
+        {
+          "verse": 21,
+          "text": "The sons of Hananiah were Pelatiah, Jeshaiah, Rephaiah, Arnan, Obadiah, and Shecaniah."
+        },
+        {
+          "verse": 22,
+          "text": "The sons of Shecaniah were Shemaiah, Hattush, Igal, Bariah, Neariah, Shaphat—six."
+        },
+        {
+          "verse": 23,
+          "text": "The sons of Neariah were Elioenai, Hizkiah, and Azrikam—three."
+        },
+        {
+          "verse": 24,
+          "text": "The sons of Elioenai were Hodaviah, Eliashib, Pelaiah, Akkub, Johanan, Delaiah, and Anani—seven."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Chapter 4 - The sons of Judah were: Perez, Hezron, Carmi, Hur, and Shobal."
+        },
+        {
+          "verse": 2,
+          "text": "Reaiah, the son of Shobal, became the father of Jahath, and Jahath became the father of Ahumai and Lahad. These were the clans of the Zorathites."
+        },
+        {
+          "verse": 3,
+          "text": "These were the sons of Hareph, the father of Etam: Jezreel, Ishma, and Idbash; their sister was named Hazzelelponi."
+        },
+        {
+          "verse": 4,
+          "text": "Penuel was the father of Gedor, and Ezer the father of Hushah. These were the sons of Hur, the firstborn of Ephrathah, the father of Bethlehem."
+        },
+        {
+          "verse": 5,
+          "text": "Ashhur, the father of Tekoa, had two wives, Helah and Naarah."
+        },
+        {
+          "verse": 6,
+          "text": "Naarah bore him Ahuzzam, Hepher, the Temenites, and the Ahashtarites. These were the sons of Naarah."
+        },
+        {
+          "verse": 7,
+          "text": "The sons of Helah were Zereth, Izhar, Ethnan, and Koz."
+        },
+        {
+          "verse": 8,
+          "text": "Koz became the father of Anub and Zobebah, as well as of the clans of Aharhel, son of Harum."
+        },
+        {
+          "verse": 9,
+          "text": "Jabez was the most distinguished of his brothers. His mother had named him Jabez, saying, “I bore him with pain.”"
+        },
+        {
+          "verse": 10,
+          "text": "Jabez prayed to the God of Israel: “Oh, that you may truly bless me and extend my boundaries! May your hand be with me and make me free of misfortune, without pain!” And God granted his prayer."
+        },
+        {
+          "verse": 11,
+          "text": "Chelub, the brother of Shuhah, became the father of Mehir, who was the father of Eshton."
+        },
+        {
+          "verse": 12,
+          "text": "Eshton became the father of Bethrapha, Paseah, and Tehinnah, the father of the city of Nahash. These were the men of Recah."
+        },
+        {
+          "verse": 13,
+          "text": "The sons of Kenaz were Othniel and Seraiah. The sons of Othniel were Hathath and Meonothai;"
+        },
+        {
+          "verse": 14,
+          "text": "Meonothai became the father of Ophrah. Seraiah became the father of Joab, the father of Geharashim, so called because they were artisans."
+        },
+        {
+          "verse": 15,
+          "text": "The sons of Caleb, son of Jephunneh, were Ir, Elah, and Naam. The sons of Elah: Kenaz."
+        },
+        {
+          "verse": 16,
+          "text": "The sons of Jehallelel were Ziph, Ziphah, Tiria, and Asarel."
+        },
+        {
+          "verse": 17,
+          "text": "The sons of Ezrah were Jether, Mered, Epher, and Jalon. Jether became the father of Miriam, Shammai, and Ishbah, the father of Eshtemoa."
+        },
+        {
+          "verse": 18,
+          "text": "Mered’s Egyptian wife bore Jered, the father of Gedor, Heber, the father of Soco, and Jekuthiel, the father of Zanoah. These were the sons of Bithiah, the daughter of Pharaoh, whom Mered married."
+        },
+        {
+          "verse": 19,
+          "text": "The sons of his Jewish wife, the sister of Naham, the father of Keilah, were Shimon the Garmite and Ishi the Maacathite."
+        },
+        {
+          "verse": 20,
+          "text": "The sons of Shimon were Amnon, Rinnah, Benhanan, and Tilon. The son of Ishi was Zoheth and the son of Zoheth…."
+        },
+        {
+          "verse": 21,
+          "text": "The sons of Shelah, son of Judah, were: Er, the father of Lecah; Laadah, the father of Mareshah; the clans of the linen weavers’ guild in Bethashbea;"
+        },
+        {
+          "verse": 22,
+          "text": "Jokim; the people of Cozeba; and Joash and Saraph, who held property in Moab, but returned to Bethlehem. (These are events of old.)"
+        },
+        {
+          "verse": 23,
+          "text": "They were potters and inhabitants of Netaim and Gederah, where they lived in the king’s service."
+        },
+        {
+          "verse": 24,
+          "text": "Simeon. The sons of Simeon were Nemuel, Jamin, Jachin, Zerah, and Shaul,"
+        },
+        {
+          "verse": 25,
+          "text": "whose son was Shallum, whose son was Mibsam, whose son was Mishma."
+        },
+        {
+          "verse": 26,
+          "text": "The sons of Mishma were his son Hammuel, whose son was Zaccur, whose son was Shimei."
+        },
+        {
+          "verse": 27,
+          "text": "Shimei had sixteen sons and six daughters. His brothers, however, did not have many sons, and as a result all their clans did not equal the number of the Judahites."
+        },
+        {
+          "verse": 28,
+          "text": "They dwelt in Beer-sheba, Moladah, Hazar-shual,"
+        },
+        {
+          "verse": 29,
+          "text": "Bilhah, Ezem, Tolad,"
+        },
+        {
+          "verse": 30,
+          "text": "Bethuel, Hormah, Ziklag,"
+        },
+        {
+          "verse": 31,
+          "text": "Beth-marcaboth, Hazar-susim, Bethbiri, and Shaaraim. Until the reign of David, these were their cities"
+        },
+        {
+          "verse": 32,
+          "text": "and their villages. Etam, also, and Ain, Rimmon, Tochen, and Ashan—five cities,"
+        },
+        {
+          "verse": 33,
+          "text": "together with all their outlying villages as far as Baal. Here is where they dwelt, and so it was inscribed of them in their family records."
+        },
+        {
+          "verse": 34,
+          "text": "Meshobab, Jamlech, Joshah, son of Amaziah,"
+        },
+        {
+          "verse": 35,
+          "text": "Joel, Jehu, son of Joshibiah, son of Seraiah, son of Asiel,"
+        },
+        {
+          "verse": 36,
+          "text": "Elioenai, Jaakobah, Jeshohaiah, Asaiah, Adiel, Jesimiel, Benaiah,"
+        },
+        {
+          "verse": 37,
+          "text": "Ziza, son of Shiphi, son of Allon, son of Jedaiah, son of Shimri, son of Shemaiah—"
+        },
+        {
+          "verse": 38,
+          "text": "these just named were princes in their clans, and their ancestral houses spread out to such an extent"
+        },
+        {
+          "verse": 39,
+          "text": "that they went to the approaches of Gedor, east of the valley, seeking pasture for their flocks."
+        },
+        {
+          "verse": 40,
+          "text": "They found abundant and good pastures, and the land was spacious, quiet, and peaceful—for the Hamites dwelt there formerly."
+        },
+        {
+          "verse": 41,
+          "text": "They who have just been listed by name set out during the reign of Hezekiah, king of Judah, and attacked their tents and also the Meunites who were there. They put them under the ban that is still in force to this day and dwelt in their place because they found pasture there for their flocks."
+        },
+        {
+          "verse": 42,
+          "text": "Five hundred of them (the Simeonites) went to Mount Seir, with Pelatiah, Neariah, Rephaiah, and Uzziel, sons of Ishi, at their head."
+        },
+        {
+          "verse": 43,
+          "text": "They attacked the surviving Amalekites who had escaped, and have lived there to the present day."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Chapter 5 - Reuben. The sons of Reuben, the firstborn of Israel. (He was indeed the firstborn, but because he defiled the couch of his father his birthright was given to the sons of Joseph, son of Israel, so that he is not listed in the family records according to his birthright."
+        },
+        {
+          "verse": 2,
+          "text": "Judah, in fact, became powerful among his brothers, so that the ruler came from him, though the birthright had been Joseph’s.)"
+        },
+        {
+          "verse": 3,
+          "text": "The sons of Reuben, the firstborn of Israel, were Hanoch, Pallu, Hezron, and Carmi."
+        },
+        {
+          "verse": 4,
+          "text": "His son was Joel, whose son was Shemaiah, whose son was Gog, whose son was Shimei,"
+        },
+        {
+          "verse": 5,
+          "text": "whose son was Micah, whose son was Reaiah, whose son was Baal,"
+        },
+        {
+          "verse": 6,
+          "text": "whose son was Beerah, whom Tilgath-pileser, the king of Assyria, took into exile; he was a prince of the Reubenites."
+        },
+        {
+          "verse": 7,
+          "text": "His brothers who belonged to his clans, when they were listed in the family records according to their descendants, were: Jeiel, the chief, and Zechariah,"
+        },
+        {
+          "verse": 8,
+          "text": "and Bela, son of Azaz, son of Shema, son of Joel. The Reubenites lived in Aroer and as far as Nebo and Baal-meon;"
+        },
+        {
+          "verse": 9,
+          "text": "toward the east they dwelt as far as the wilderness which extends from the Euphrates River, for they had much livestock in the land of Gilead."
+        },
+        {
+          "verse": 10,
+          "text": "In Saul’s time they waged war with the Hagrites, and when they had defeated them they dwelt in their tents throughout the region east of Gilead."
+        },
+        {
+          "verse": 11,
+          "text": "Gad. The Gadites lived alongside them in the land of Bashan as far as Salecah."
+        },
+        {
+          "verse": 12,
+          "text": "Joel was chief, Shapham was second in command, and Janai was judge in Bashan."
+        },
+        {
+          "verse": 13,
+          "text": "Their brothers, according to their ancestral houses, were: Michael, Meshullam, Sheba, Jorai, Jacan, Zia, and Eber—seven."
+        },
+        {
+          "verse": 14,
+          "text": "These were the sons of Abihail, son of Huri, son of Jaroah, son of Gilead, son of Michael, son of Jeshishai, son of Jahdo, son of Buz."
+        },
+        {
+          "verse": 15,
+          "text": "Ahi, son of Abdiel, son of Guni, was the head of their ancestral houses."
+        },
+        {
+          "verse": 16,
+          "text": "They dwelt in Gilead, in Bashan and its towns, and in all the pasture lands of Sirion to the borders."
+        },
+        {
+          "verse": 17,
+          "text": "All were listed in the family records in the time of Jotham, king of Judah, and of Jeroboam, king of Israel."
+        },
+        {
+          "verse": 18,
+          "text": "The Reubenites, Gadites, and the half-tribe of Manasseh were warriors, men who bore shield and sword and who drew the bow, trained in warfare—forty-four thousand seven hundred and sixty men fit for military service."
+        },
+        {
+          "verse": 19,
+          "text": "When they waged war against the Hagrites and against Jetur, Naphish, and Nodab,"
+        },
+        {
+          "verse": 20,
+          "text": "they received help so that the Hagrites and all who were with them were delivered into their power. For during the battle they cried out to God, and he heard them because they had put their trust in him."
+        },
+        {
+          "verse": 21,
+          "text": "Along with one hundred thousand persons they also captured their livestock: fifty thousand camels, two hundred fifty thousand sheep, and two thousand donkeys."
+        },
+        {
+          "verse": 22,
+          "text": "Many were slain and fell; for “From God the victory.” They dwelt in their place until the time of the exile."
+        },
+        {
+          "verse": 23,
+          "text": "The Half-tribe of Manasseh. The half-tribe of Manasseh lived in the land of Bashan as far as Baal-hermon, Senir, and Mount Hermon; they were numerous."
+        },
+        {
+          "verse": 24,
+          "text": "The following were the heads of their ancestral houses: Epher, Ishi, Eliel, Azriel, Jeremiah, Hodaviah, and Jahdiel—men who were warriors, famous men, and heads over their ancestral houses."
+        },
+        {
+          "verse": 25,
+          "text": "However, they acted treacherously toward the God of their ancestors by prostituting themselves to follow the gods of the peoples of the land, whom God had destroyed before them."
+        },
+        {
+          "verse": 26,
+          "text": "Therefore the God of Israel stirred up against them the anger of Pul, king of Assyria, and the anger of Tilgath-pilneser [sic], king of Assyria, who deported the Reubenites, the Gadites, and the half-tribe of Manasseh and brought them to Halah, Habor, and Hara, and to the river Gozan, where they have remained to this day. Levi."
+        },
+        {
+          "verse": 27,
+          "text": "The sons of Levi were Gershon, Kohath, and Merari."
+        },
+        {
+          "verse": 28,
+          "text": "The sons of Kohath were Amram, Izhar, Hebron, and Uzziel."
+        },
+        {
+          "verse": 29,
+          "text": "The children of Amram were Aaron, Moses, and Miriam. The sons of Aaron were Nadab, Abihu, Eleazar, and Ithamar."
+        },
+        {
+          "verse": 30,
+          "text": "Eleazar became the father of Phinehas. Phinehas became the father of Abishua."
+        },
+        {
+          "verse": 31,
+          "text": "Abishua became the father of Bukki. Bukki became the father of Uzzi."
+        },
+        {
+          "verse": 32,
+          "text": "Uzzi became the father of Zerahiah. Zerahiah became the father of Meraioth."
+        },
+        {
+          "verse": 33,
+          "text": "Meraioth became the father of Amariah. Amariah became the father of Ahitub."
+        },
+        {
+          "verse": 34,
+          "text": "Ahitub became the father of Zadok. Zadok became the father of Ahimaaz."
+        },
+        {
+          "verse": 35,
+          "text": "Ahimaaz became the father of Azariah. Azariah became the father of Johanan."
+        },
+        {
+          "verse": 36,
+          "text": "Johanan became the father of Azariah, who served as priest in the temple Solomon built in Jerusalem."
+        },
+        {
+          "verse": 37,
+          "text": "Azariah became the father of Amariah. Amariah became the father of Ahitub."
+        },
+        {
+          "verse": 38,
+          "text": "Ahitub became the father of Zadok. Zadok became the father of Shallum."
+        },
+        {
+          "verse": 39,
+          "text": "Shallum became the father of Hilkiah. Hilkiah became the father of Azariah."
+        },
+        {
+          "verse": 40,
+          "text": "Azariah became the father of Seraiah. Seraiah became the father of Jehozadak."
+        },
+        {
+          "verse": 41,
+          "text": "Jehozadak was one of those who went into the exile which the LORD inflicted on Judah and Jerusalem through Nebuchadnezzar."
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Chapter 6 - The sons of Levi were Gershon, Kohath, and Merari."
+        },
+        {
+          "verse": 2,
+          "text": "The sons of Gershon were named Libni and Shimei."
+        },
+        {
+          "verse": 3,
+          "text": "The sons of Kohath were Amram, Izhar, Hebron, and Uzziel."
+        },
+        {
+          "verse": 4,
+          "text": "The sons of Merari were Mahli and Mushi. These were the clans of Levi, according to their ancestors."
+        },
+        {
+          "verse": 5,
+          "text": "Of Gershon: his son Libni, whose son was Jahath, whose son was Zimmah,"
+        },
+        {
+          "verse": 6,
+          "text": "whose son was Joah, whose son was Iddo, whose son was Zerah, whose son was Jetherai."
+        },
+        {
+          "verse": 7,
+          "text": "The sons of Kohath: his son Amminadab, whose son was Korah, whose son was Assir,"
+        },
+        {
+          "verse": 8,
+          "text": "whose son was Elkanah, whose son was Ebiasaph, whose son was Assir,"
+        },
+        {
+          "verse": 9,
+          "text": "whose son was Tahath, whose son was Uriel, whose son was Uzziah, whose son was Shaul."
+        },
+        {
+          "verse": 10,
+          "text": "The sons of Elkanah were Amasai and Ahimoth,"
+        },
+        {
+          "verse": 11,
+          "text": "whose son was Elkanah, whose son was Zophai, whose son was Nahath,"
+        },
+        {
+          "verse": 12,
+          "text": "whose son was Eliab, whose son was Jeroham, whose son was Elkanah, whose son was Samuel."
+        },
+        {
+          "verse": 13,
+          "text": "The sons of Samuel were Joel, the firstborn, and Abijah, the second."
+        },
+        {
+          "verse": 14,
+          "text": "The sons of Merari: Mahli, whose son was Libni, whose son was Shimei, whose son was Uzzah,"
+        },
+        {
+          "verse": 15,
+          "text": "whose son was Shimea, whose son was Haggiah, whose son was Asaiah."
+        },
+        {
+          "verse": 16,
+          "text": "The following were established by David for the service of song in the LORD’s house at the time when the ark had a resting place."
+        },
+        {
+          "verse": 17,
+          "text": "They served as singers before the tabernacle of the tent of meeting until Solomon built the house of the LORD in Jerusalem, and they performed their services according to the order prescribed for them."
+        },
+        {
+          "verse": 18,
+          "text": "Those who so performed are the following, together with their sons. Among the Kohathites: Heman, the chanter, son of Joel, son of Samuel,"
+        },
+        {
+          "verse": 19,
+          "text": "son of Elkanah, son of Jeroham, son of Eliel, son of Toah,"
+        },
+        {
+          "verse": 20,
+          "text": "son of Zuph, son of Elkanah, son of Mahath, son of Amasi,"
+        },
+        {
+          "verse": 21,
+          "text": "son of Elkanah, son of Joel, son of Azariah, son of Zephaniah,"
+        },
+        {
+          "verse": 22,
+          "text": "son of Tahath, son of Assir, son of Ebiasaph, son of Korah,"
+        },
+        {
+          "verse": 23,
+          "text": "son of Izhar, son of Kohath, son of Levi, son of Israel."
+        },
+        {
+          "verse": 24,
+          "text": "His brother Asaph stood at his right hand. Asaph was the son of Berechiah, son of Shimea,"
+        },
+        {
+          "verse": 25,
+          "text": "son of Michael, son of Baaseiah, son of Malchijah,"
+        },
+        {
+          "verse": 26,
+          "text": "son of Ethni, son of Zerah, son of Adaiah,"
+        },
+        {
+          "verse": 27,
+          "text": "son of Ethan, son of Zimmah, son of Shimei,"
+        },
+        {
+          "verse": 28,
+          "text": "son of Jahath, son of Gershon, son of Levi."
+        },
+        {
+          "verse": 29,
+          "text": "Their brothers, the Merarites, stood at the left: Ethan, son of Kishi, son of Abdi, son of Malluch,"
+        },
+        {
+          "verse": 30,
+          "text": "son of Hashabiah, son of Amaziah, son of Hilkiah,"
+        },
+        {
+          "verse": 31,
+          "text": "son of Amzi, son of Bani, son of Shemer,"
+        },
+        {
+          "verse": 32,
+          "text": "son of Mahli, son of Mushi, son of Merari, son of Levi."
+        },
+        {
+          "verse": 33,
+          "text": "Their brother Levites were appointed to all the other services of the tabernacle of the house of God."
+        },
+        {
+          "verse": 34,
+          "text": "However, it was Aaron and his sons who made the sacrifice on the altar for burnt offerings and on the altar of incense; they alone had charge of the holy of holies and of making atonement for Israel, as Moses, the servant of God, had commanded."
+        },
+        {
+          "verse": 35,
+          "text": "These were the sons of Aaron: his son Eleazar, whose son was Phinehas, whose son was Abishua,"
+        },
+        {
+          "verse": 36,
+          "text": "whose son was Bukki, whose son was Uzzi, whose son was Zerahiah,"
+        },
+        {
+          "verse": 37,
+          "text": "whose son was Meraioth, whose son was Amariah, whose son was Ahitub,"
+        },
+        {
+          "verse": 38,
+          "text": "whose son was Zadok, whose son was Ahimaaz."
+        },
+        {
+          "verse": 39,
+          "text": "The following were their dwelling places, by encampments in their territories. To the sons of Aaron who belonged to the clan of the Kohathites, since the lot fell to them,"
+        },
+        {
+          "verse": 40,
+          "text": "was assigned Hebron in the land of Judah, with its adjacent pasture lands."
+        },
+        {
+          "verse": 41,
+          "text": "However, the open country and the villages belonging to the city had been given to Caleb, the son of Jephunneh."
+        },
+        {
+          "verse": 42,
+          "text": "There were assigned to the sons of Aaron: Hebron a city of refuge, Libnah with its pasture lands, Jattir with its pasture lands, Eshtemoa with its pasture lands,"
+        },
+        {
+          "verse": 43,
+          "text": "Holon with its pasture lands, Debir with its pasture lands,"
+        },
+        {
+          "verse": 44,
+          "text": "Ashan with its pasture lands, Jetta with its pasture lands, and Beth-shemesh with its pasture lands."
+        },
+        {
+          "verse": 45,
+          "text": "Also from the tribe of Benjamin: Gibeon with its pasture lands, Geba with its pasture lands, Almon with its pasture lands, Anathoth with its pasture lands. In all, they had thirteen cities with their pasture lands."
+        },
+        {
+          "verse": 46,
+          "text": "The other Kohathites obtained ten cities by lot for their clans from the tribe of Ephraim, from the tribe of Dan, and from the half-tribe of Manasseh."
+        },
+        {
+          "verse": 47,
+          "text": "The clans of the Gershonites obtained thirteen cities from the tribes of Issachar, Asher, and Naphtali, and from the half-tribe of Manasseh in Bashan."
+        },
+        {
+          "verse": 48,
+          "text": "The clans of the Merarites obtained twelve cities by lot from the tribes of Reuben, Gad, and Zebulun."
+        },
+        {
+          "verse": 49,
+          "text": "The Israelites assigned these cities with their pasture lands to the Levites,"
+        },
+        {
+          "verse": 50,
+          "text": "designating them by name and assigning them by lot from the tribes of the Judahites, Simeonites, and Benjaminites."
+        },
+        {
+          "verse": 51,
+          "text": "The clans of the Kohathites obtained cities by lot from the tribe of Ephraim."
+        },
+        {
+          "verse": 52,
+          "text": "They were assigned cities of refuge: Shechem in the mountain region of Ephraim, with its pasture lands, Gezer with its pasture lands,"
+        },
+        {
+          "verse": 53,
+          "text": "Kibzaim with its pasture lands, and Beth-horon with its pasture lands."
+        },
+        {
+          "verse": 54,
+          "text": "From the tribe of Dan: Elteke with its pasture lands, Gibbethon with its pasture lands, Aijalon with its pasture lands, and Gath-rimmon with its pasture lands."
+        },
+        {
+          "verse": 55,
+          "text": "From the half-tribe of Manasseh: Taanach with its pasture lands and Ibleam with its pasture lands. These belonged to the rest of the Kohathite clan."
+        },
+        {
+          "verse": 56,
+          "text": "The clans of the Gershonites received from the half-tribe of Manasseh: Golan in Bashan with its pasture lands and Ashtaroth with its pasture lands."
+        },
+        {
+          "verse": 57,
+          "text": "From the tribe of Issachar: Kedesh with its pasture lands, Daberath with its pasture lands,"
+        },
+        {
+          "verse": 58,
+          "text": "Ramoth with its pasture lands, and Engannim with its pasture lands."
+        },
+        {
+          "verse": 59,
+          "text": "From the tribe of Asher: Mashal with its pasture lands, Abdon with its pasture lands,"
+        },
+        {
+          "verse": 60,
+          "text": "Hilkath with its pasture lands, and Rehob with its pasture lands."
+        },
+        {
+          "verse": 61,
+          "text": "From the tribe of Naphtali: Kedesh in Galilee with its pasture lands, Hammon with its pasture lands, and Kiriathaim with its pasture lands."
+        },
+        {
+          "verse": 62,
+          "text": "The rest of the Merarites received from the tribe of Zebulun: Jokneam with its pasture lands, Kartah with its pasture lands, Rimmon with its pasture lands, and Tabor with its pasture lands."
+        },
+        {
+          "verse": 63,
+          "text": "Across the Jordan at Jericho (that is, east of the Jordan) they received from the tribe of Reuben: Bezer in the desert with its pasture lands, Jahzah with its pasture lands,"
+        },
+        {
+          "verse": 64,
+          "text": "Kedemoth with its pasture lands, and Mephaath with its pasture lands."
+        },
+        {
+          "verse": 65,
+          "text": "From the tribe of Gad: Ramoth in Gilead with its pasture lands, Mahanaim with its pasture lands,"
+        },
+        {
+          "verse": 66,
+          "text": "Heshbon with its pasture lands, and Jazer with its pasture lands."
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Chapter 7 - Issachar. The sons of Issachar were Tola, Puah, Jashub, and Shimron: four."
+        },
+        {
+          "verse": 2,
+          "text": "The sons of Tola were Uzzi, Rephaiah, Jeriel, Jahmai, Ibsam, and Shemuel, heads of the ancestral houses of Tola, mighty warriors in their generations. In the time of David they numbered twenty-two thousand six hundred."
+        },
+        {
+          "verse": 3,
+          "text": "The sons of Uzzi: Izarahiah. The sons of Izarahiah were Michael, Obadiah, Joel, and Isshiah. All five of these were chiefs."
+        },
+        {
+          "verse": 4,
+          "text": "Along with them, in their generations, according to ancestral houses, were thirty-six thousand men in organized military troops, since they had more wives and children"
+        },
+        {
+          "verse": 5,
+          "text": "than their fellow tribesmen. In all the clans of Issachar there was a total of eighty-seven thousand warriors listed in their family records."
+        },
+        {
+          "verse": 6,
+          "text": "Benjamin. The sons of Benjamin were Bela, Becher, and Jediael—three."
+        },
+        {
+          "verse": 7,
+          "text": "The sons of Bela were Ezbon, Uzzi, Uzziel, Jerimoth, and Iri—five. They were heads of their ancestral houses and warriors. Their family records listed twenty-two thousand and thirty-four."
+        },
+        {
+          "verse": 8,
+          "text": "The sons of Becher were Zemirah, Joash, Eliezer, Elioenai, Omri, Jeremoth, Abijah, Anathoth, and Alemeth—all these were sons of Becher."
+        },
+        {
+          "verse": 9,
+          "text": "Their family records listed twenty thousand two hundred of their kindred who were heads of their ancestral houses and warriors."
+        },
+        {
+          "verse": 10,
+          "text": "The sons of Jediael: Bilhan. The sons of Bilhan were Jeush, Benjamin, Ehud, Chenaanah, Zethan, Tarshish, and Ahishahar."
+        },
+        {
+          "verse": 11,
+          "text": "All these were sons of Jediael, heads of ancestral houses and warriors. They numbered seventeen thousand two hundred men fit for military service…"
+        },
+        {
+          "verse": 12,
+          "text": "Shupham and Hupham. Dan, Naphtali and Manasseh. The sons of Dan: Hushim."
+        },
+        {
+          "verse": 13,
+          "text": "The sons of Naphtali were Jahziel, Guni, Jezer, and Shallum. These were sons of Bilhah."
+        },
+        {
+          "verse": 14,
+          "text": "The sons of Manasseh, whom his Aramean concubine bore: she bore Machir, the father of Gilead."
+        },
+        {
+          "verse": 15,
+          "text": "Machir took a wife whose name was Maacah; his sister’s name was Molecheth. Manasseh’s second son was named Zelophehad, who had only daughters."
+        },
+        {
+          "verse": 16,
+          "text": "Maacah, Machir’s wife, bore a son whom she named Peresh. He had a brother named Sheresh, whose sons were Ulam and Rakem."
+        },
+        {
+          "verse": 17,
+          "text": "The sons of Ulam: Bedan. These were the sons of Gilead, the son of Machir, the son of Manasseh."
+        },
+        {
+          "verse": 18,
+          "text": "His sister Molecheth bore Ishhod, Abiezer, and Mahlah."
+        },
+        {
+          "verse": 19,
+          "text": "The sons of Shemida were Ahian, Shechem, Likhi, and Aniam."
+        },
+        {
+          "verse": 20,
+          "text": "Ephraim. The sons of Ephraim: Shuthelah, whose son was Bered, whose son was Tahath, whose son was Eleadah, whose son was Tahath,"
+        },
+        {
+          "verse": 21,
+          "text": "whose son was Zabad. Ephraim’s son Shuthelah, and Ezer and Elead, who were born in the land, were killed by the inhabitants of Gath because they had gone down to take away their livestock."
+        },
+        {
+          "verse": 22,
+          "text": "Their father Ephraim mourned a long time, but after his relatives had come and comforted him,"
+        },
+        {
+          "verse": 23,
+          "text": "he had relations with his wife, who conceived and bore a son whom he named Beriah, since evil had befallen his house."
+        },
+        {
+          "verse": 24,
+          "text": "He had a daughter, Sheerah, who built Lower and Upper Beth-horon and Uzzen-sheerah."
+        },
+        {
+          "verse": 25,
+          "text": "Zabad’s son was Rephah, whose son was Resheph, whose son was Telah, whose son was Tahan,"
+        },
+        {
+          "verse": 26,
+          "text": "whose son was Ladan, whose son was Ammihud, whose son was Elishama,"
+        },
+        {
+          "verse": 27,
+          "text": "whose son was Nun, whose son was Joshua."
+        },
+        {
+          "verse": 28,
+          "text": "Their property and their dwellings were in Bethel and its towns, Naaran to the east, Gezer and its towns to the west, and also Shechem and its towns as far as Ayyah and its towns."
+        },
+        {
+          "verse": 29,
+          "text": "Manasseh, however, had possession of Beth-shean and its towns, Taanach and its towns, Megiddo and its towns, and Dor and its towns. In these dwelt the sons of Joseph, the son of Israel."
+        },
+        {
+          "verse": 30,
+          "text": "Asher. The sons of Asher were Imnah, Ishvah, Ishvi, and Beriah; their sister was Serah."
+        },
+        {
+          "verse": 31,
+          "text": "Beriah’s sons were Heber and Malchiel, who was the father of Birzaith."
+        },
+        {
+          "verse": 32,
+          "text": "Heber became the father of Japhlet, Shomer, Hotham, and their sister Shua."
+        },
+        {
+          "verse": 33,
+          "text": "The sons of Japhlet were Pasach, Bimhal, and Ashvath; these were the sons of Japhlet."
+        },
+        {
+          "verse": 34,
+          "text": "The sons of Shomer were Ahi, Rohgah, Jehubbah, and Aram."
+        },
+        {
+          "verse": 35,
+          "text": "The sons of his brother Hotham were Zophah, Imna, Shelesh, and Amal."
+        },
+        {
+          "verse": 36,
+          "text": "The sons of Zophah were Suah, Harnepher, Shual, Beri, Imrah,"
+        },
+        {
+          "verse": 37,
+          "text": "Bezer, Hod, Shamma, Shilshah, Ithran, and Beera."
+        },
+        {
+          "verse": 38,
+          "text": "The sons of Jether were Jephunneh, Pispa, and Ara."
+        },
+        {
+          "verse": 39,
+          "text": "The sons of Ulla were Arah, Hanniel, and Rizia."
+        },
+        {
+          "verse": 40,
+          "text": "All these were sons of Asher, heads of ancestral houses, distinguished men, warriors, and chiefs among the princes. Their family records numbered twenty-six thousand men fit for military service."
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Chapter 8 - Benjamin. Benjamin became the father of Bela, his firstborn, Ashbel, the second son, Aharah, the third,"
+        },
+        {
+          "verse": 2,
+          "text": "Nohah, the fourth, and Rapha, the fifth."
+        },
+        {
+          "verse": 3,
+          "text": "The sons of Bela were Addar and Gera, the father of Ehud."
+        },
+        {
+          "verse": 4,
+          "text": "The sons of Ehud were Abishua, Naaman, Ahoah,"
+        },
+        {
+          "verse": 5,
+          "text": "Gera, Shephuphan, and Huram."
+        },
+        {
+          "verse": 6,
+          "text": "These were the sons of Ehud, family heads over those who dwelt in Geba and were deported to Manahath."
+        },
+        {
+          "verse": 7,
+          "text": "Also Naaman, Ahijah, and Gera. The last, who led them into exile, became the father of Uzza and Ahihud."
+        },
+        {
+          "verse": 8,
+          "text": "Shaharaim became a father on the Moabite plateau after he had put away his wives Hushim and Baara."
+        },
+        {
+          "verse": 9,
+          "text": "By his wife Hodesh he begot Jobab, Zibia, Mesha, Malcam,"
+        },
+        {
+          "verse": 10,
+          "text": "Jeuz, Sachia, and Mirmah. These were his sons, family heads."
+        },
+        {
+          "verse": 11,
+          "text": "By Hushim he begot Abitub and Elpaal."
+        },
+        {
+          "verse": 12,
+          "text": "The sons of Elpaal were Eber, Misham, Shemed (who built Ono and Lod with its nearby towns),"
+        },
+        {
+          "verse": 13,
+          "text": "and Beriah, and Shema. They were family heads of those who dwelt in Aijalon, and they put the inhabitants of Gath to flight."
+        },
+        {
+          "verse": 14,
+          "text": "Their relatives were Elpaal, Shashak, and Jeremoth."
+        },
+        {
+          "verse": 15,
+          "text": "Zebadiah, Arad, Eder,"
+        },
+        {
+          "verse": 16,
+          "text": "Michael, Ishpah, and Joha were the sons of Beriah."
+        },
+        {
+          "verse": 17,
+          "text": "Zebadiah, Meshullam, Hizki, Heber,"
+        },
+        {
+          "verse": 18,
+          "text": "Ishmerai, Izliah, and Jobab were the sons of Elpaal."
+        },
+        {
+          "verse": 19,
+          "text": "Jakim, Zichri, Zabdi,"
+        },
+        {
+          "verse": 20,
+          "text": "Elienai, Zillethai, Eliel,"
+        },
+        {
+          "verse": 21,
+          "text": "Adaiah, Beraiah, and Shimrath were the sons of Shimei."
+        },
+        {
+          "verse": 22,
+          "text": "Ishpan, Eber, Eliel,"
+        },
+        {
+          "verse": 23,
+          "text": "Abdon, Zichri, Hanan,"
+        },
+        {
+          "verse": 24,
+          "text": "Hananiah, Elam, Anthothijah,"
+        },
+        {
+          "verse": 25,
+          "text": "Iphdeiah, and Penuel were the sons of Shashak."
+        },
+        {
+          "verse": 26,
+          "text": "Shamsherai, Shehariah, Athaliah,"
+        },
+        {
+          "verse": 27,
+          "text": "Jaareshiah, Elijah, and Zichri were the sons of Jeroham."
+        },
+        {
+          "verse": 28,
+          "text": "These were family heads in their generations, chiefs who dwelt in Jerusalem."
+        },
+        {
+          "verse": 29,
+          "text": "In Gibeon dwelt Jeiel, the founder of Gibeon, whose wife’s name was Maacah;"
+        },
+        {
+          "verse": 30,
+          "text": "also his firstborn son, Abdon, and Zur, Kish, Baal, Ner, Nadab,"
+        },
+        {
+          "verse": 31,
+          "text": "Gedor, Ahio, Zecher, and Mikloth."
+        },
+        {
+          "verse": 32,
+          "text": "Mikloth became the father of Shimeah. These, too, dwelt with their relatives in Jerusalem, opposite their fellow tribesmen."
+        },
+        {
+          "verse": 33,
+          "text": "Ner became the father of Kish, and Kish became the father of Saul. Saul became the father of Jonathan, Malchishua, Abinadab, and Eshbaal."
+        },
+        {
+          "verse": 34,
+          "text": "The son of Jonathan was Meribbaal, and Meribbaal became the father of Micah."
+        },
+        {
+          "verse": 35,
+          "text": "The sons of Micah were Pithon, Melech, Tarea, and Ahaz."
+        },
+        {
+          "verse": 36,
+          "text": "Ahaz became the father of Jehoaddah, and Jehoaddah became the father of Alemeth, Azmaveth, and Zimri. Zimri became the father of Moza."
+        },
+        {
+          "verse": 37,
+          "text": "Moza became the father of Binea, whose son was Raphah, whose son was Eleasah, whose son was Azel."
+        },
+        {
+          "verse": 38,
+          "text": "Azel had six sons, whose names were Azrikam, his firstborn, Ishmael, Sheariah, Azariah, Obadiah, and Hanan; all these were the sons of Azel."
+        },
+        {
+          "verse": 39,
+          "text": "The sons of Eshek, his brother, were Ulam, his firstborn, Jeush, the second son, and Eliphelet, the third."
+        },
+        {
+          "verse": 40,
+          "text": "The sons of Ulam were warriors, skilled with the bow, and they had many sons and grandsons: one hundred and fifty. All these were the sons of Benjamin."
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Chapter 9 - Thus all Israel was listed in family lists, and these are recorded in the book of the kings of Israel. Now Judah had been exiled to Babylon because of its treachery."
+        },
+        {
+          "verse": 2,
+          "text": "The first to settle again in their cities and dwell there were certain Israelites, the priests, the Levites, and the temple servants."
+        },
+        {
+          "verse": 3,
+          "text": "Jerusalemites. In Jerusalem lived Judahites and Benjaminites; also Ephraimites and Manassites."
+        },
+        {
+          "verse": 4,
+          "text": "Among the Judahites was Uthai, son of Ammihud, son of Omri, son of Imri, son of Bani, one of the sons of Perez, son of Judah."
+        },
+        {
+          "verse": 5,
+          "text": "Among the Shelanites were Asaiah, the firstborn, and his sons."
+        },
+        {
+          "verse": 6,
+          "text": "Among the Zerahites were Jeuel and six hundred and ninety of their relatives."
+        },
+        {
+          "verse": 7,
+          "text": "Among the Benjaminites were Sallu, son of Meshullam, son of Hodaviah, son of Hassenuah,"
+        },
+        {
+          "verse": 8,
+          "text": "as well as Ibneiah, son of Jeroham; Elah, son of Uzzi, son of Michri; Meshullam, son of Shephatiah, son of Reuel, son of Ibnijah."
+        },
+        {
+          "verse": 9,
+          "text": "Their kindred of various families were nine hundred and fifty-six. All those named were heads of their ancestral houses."
+        },
+        {
+          "verse": 10,
+          "text": "Among the priests were Jedaiah; Jehoiarib; Jachin;"
+        },
+        {
+          "verse": 11,
+          "text": "Azariah, son of Hilkiah, son of Meshullam, son of Zadok, son of Meraioth, son of Ahitub, the ruler of the house of God;"
+        },
+        {
+          "verse": 12,
+          "text": "Adaiah, son of Jeroham, son of Pashhur, son of Malchijah; Maasai, son of Adiel, son of Jahzerah, son of Meshullam, son of Meshillemith, son of Immer."
+        },
+        {
+          "verse": 13,
+          "text": "Their brothers, heads of their ancestral houses, were one thousand seven hundred and sixty, valiant in the work of the service of the house of God."
+        },
+        {
+          "verse": 14,
+          "text": "Among the Levites were Shemaiah, son of Hasshub, son of Azrikam, son of Hashabiah, one of the sons of Merari;"
+        },
+        {
+          "verse": 15,
+          "text": "Bakbakkar; Heresh; Galal; Mattaniah, son of Mica, son of Zichri, a descendant of Asaph;"
+        },
+        {
+          "verse": 16,
+          "text": "Obadiah, son of Shemaiah, son of Galal, a descendant of Jeduthun; and Berechiah, son of Asa, son of Elkanah, whose family lived in the villages of the Netophathites."
+        },
+        {
+          "verse": 17,
+          "text": "The gatekeepers were Shallum, Akkub, Talmon, Ahiman, and their brothers; Shallum was the chief."
+        },
+        {
+          "verse": 18,
+          "text": "Previously they had stood guard at the king’s gate on the east side; now they became gatekeepers for the encampments of the Levites."
+        },
+        {
+          "verse": 19,
+          "text": "Shallum, son of Kore, son of Ebiasaph, a descendant of Korah, and his brothers of the same ancestral house of the Korahites had as their assigned task the guarding of the threshold of the tent, just as their fathers had guarded the entrance to the encampment of the LORD."
+        },
+        {
+          "verse": 20,
+          "text": "Phinehas, son of Eleazar, had been their chief in times past; the LORD was with him."
+        },
+        {
+          "verse": 21,
+          "text": "Zechariah, son of Meshelemiah, guarded the gate of the tent of meeting."
+        },
+        {
+          "verse": 22,
+          "text": "In all, those who were chosen for gatekeepers at the threshold were two hundred and twelve. They were inscribed in the family records of their villages. David and Samuel the seer had established them in their position of trust."
+        },
+        {
+          "verse": 23,
+          "text": "Thus they and their sons kept guard over the gates of the house of the LORD, the house which was then a tent."
+        },
+        {
+          "verse": 24,
+          "text": "The gatekeepers were stationed at the four sides, to the east, the west, the north, and the south."
+        },
+        {
+          "verse": 25,
+          "text": "Their brothers who lived in their own villages took turns in assisting them for seven-day periods,"
+        },
+        {
+          "verse": 26,
+          "text": "while the four chief gatekeepers were on permanent duty. These were the Levites who also had charge of the chambers and treasures of the house of God."
+        },
+        {
+          "verse": 27,
+          "text": "They would spend the night near the house of God, for it was in their charge and they had the duty of opening it each morning."
+        },
+        {
+          "verse": 28,
+          "text": "Some of them had charge of the vessels used there, tallying them as they were brought in and taken out."
+        },
+        {
+          "verse": 29,
+          "text": "Others were appointed to take care of the utensils and all the sacred vessels, as well as the fine flour, the wine, the oil, the frankincense, and the spices."
+        },
+        {
+          "verse": 30,
+          "text": "It was the sons of priests, however, who mixed the spiced ointments."
+        },
+        {
+          "verse": 31,
+          "text": "Mattithiah, one of the Levites, the firstborn of Shallum the Korahite, was entrusted with preparing the cakes."
+        },
+        {
+          "verse": 32,
+          "text": "Benaiah the Kohathite, one of their brothers, was in charge of setting out the showbread each sabbath."
+        },
+        {
+          "verse": 33,
+          "text": "These were the singers and the gatekeepers, family heads over the Levites. They stayed in the chambers when free of duty, for day and night they had to be ready for service."
+        },
+        {
+          "verse": 34,
+          "text": "These were the levitical family heads by their generations, chiefs who dwelt in Jerusalem."
+        },
+        {
+          "verse": 35,
+          "text": "II. The History of David - Genealogy of Saul. Jeiel, the founder of Gibeon, dwelt in Gibeon; his wife’s name was Maacah."
+        },
+        {
+          "verse": 36,
+          "text": "His firstborn son was Abdon; then came Zur, Kish, Baal, Ner, Nadab,"
+        },
+        {
+          "verse": 37,
+          "text": "Gedor, Ahio, Zechariah, and Mikloth."
+        },
+        {
+          "verse": 38,
+          "text": "Mikloth became the father of Shimeam. These, too, with their relatives, dwelt opposite their relatives in Jerusalem."
+        },
+        {
+          "verse": 39,
+          "text": "Ner became the father of Kish, and Kish became the father of Saul. Saul became the father of Jonathan, Malchishua, Abinadab, and Eshbaal."
+        },
+        {
+          "verse": 40,
+          "text": "The son of Jonathan was Meribbaal, and Meribbaal became the father of Micah."
+        },
+        {
+          "verse": 41,
+          "text": "The sons of Micah were Pithon, Melech, Tahrea, and Ahaz."
+        },
+        {
+          "verse": 42,
+          "text": "Ahaz became the father of Jehoaddah, and Jehoaddah became the father of Alemeth, Azmaveth, and Zimri. Zimri became the father of Moza."
+        },
+        {
+          "verse": 43,
+          "text": "Moza became the father of Binea, whose son was Rephaiah, whose son was Eleasah, whose son was Azel."
+        },
+        {
+          "verse": 44,
+          "text": "Azel had six sons, whose names were Azrikam, his firstborn, Ishmael, Sheariah, Azariah, Obadiah, and Hanan; these were the sons of Azel."
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Chapter 10 - Death of Saul and His Sons. Now the Philistines went to war against Israel, and Israel fled before them, and they fell, slain on Mount Gilboa."
+        },
+        {
+          "verse": 2,
+          "text": "The Philistines pressed hard after Saul and his sons. When the Philistines had struck down Jonathan, Abinadab, and Malchishua, sons of Saul,"
+        },
+        {
+          "verse": 3,
+          "text": "the fury of the battle converged on Saul. Then the archers hit him, and he was severely wounded."
+        },
+        {
+          "verse": 4,
+          "text": "Saul said to his armor-bearer, “Draw your sword and run me through; otherwise these uncircumcised will come and abuse me.” But the armor-bearer, badly frightened, refused, so Saul took his own sword and fell upon it."
+        },
+        {
+          "verse": 5,
+          "text": "When the armor-bearer saw that Saul was dead, he too fell upon his sword and died."
+        },
+        {
+          "verse": 6,
+          "text": "Thus Saul, and his three sons, his whole house, died together."
+        },
+        {
+          "verse": 7,
+          "text": "When all the Israelites in the valley saw that Saul and his sons had fled and that they had died, they abandoned their cities and fled. Then the Philistines came and lived in those cities."
+        },
+        {
+          "verse": 8,
+          "text": "On the following day, when the Philistines came to strip the slain, they found Saul and his sons fallen on Mount Gilboa."
+        },
+        {
+          "verse": 9,
+          "text": "They stripped him, and took his head and his armor; these they sent throughout the land of the Philistines to bring the good news to their idols and to the people."
+        },
+        {
+          "verse": 10,
+          "text": "They put his armor in the temple of their gods, but his skull they impaled at the temple of Dagon."
+        },
+        {
+          "verse": 11,
+          "text": "Burial of Saul. When all the inhabitants of Jabesh-gilead heard all that the Philistines had done to Saul,"
+        },
+        {
+          "verse": 12,
+          "text": "all their warriors set out, recovered the corpses of Saul and his sons, and brought them to Jabesh. They buried their bones under the oak of Jabesh, and fasted for seven days."
+        },
+        {
+          "verse": 13,
+          "text": "Thus Saul died because of his treason against the LORD in disobeying his word, and also because he had sought counsel from a ghost,"
+        },
+        {
+          "verse": 14,
+          "text": "rather than from the LORD. Therefore the LORD took his life, and turned his kingdom over to David, the son of Jesse."
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Chapter 11 - David Is Made King. Then all Israel gathered around David in Hebron, and they said: “Look! We are your bone and your flesh."
+        },
+        {
+          "verse": 2,
+          "text": "In days past, when Saul was still the king, it was you who led Israel in all its battles. And now the LORD, your God, has said to you: You shall shepherd my people Israel; you shall be ruler over my people Israel.”"
+        },
+        {
+          "verse": 3,
+          "text": "Then all the elders of Israel came to the king at Hebron, and at Hebron David made a covenant with them in the presence of the LORD; and they anointed David king over Israel, in accordance with the word of the LORD given through Samuel."
+        },
+        {
+          "verse": 4,
+          "text": "Jerusalem Captured. Then David and all Israel went to Jerusalem, that is, Jebus, where the inhabitants of the land were called Jebusites."
+        },
+        {
+          "verse": 5,
+          "text": "The inhabitants of Jebus said to David, “You shall not enter here.” David nevertheless captured the fortress of Zion, which is the City of David."
+        },
+        {
+          "verse": 6,
+          "text": "David said, “Whoever strikes the Jebusites first shall be made chief and captain.” Joab, the son of Zeruiah, was the first to attack; and so he became chief."
+        },
+        {
+          "verse": 7,
+          "text": "David took up residence in the fortress, which therefore was called the City of David."
+        },
+        {
+          "verse": 8,
+          "text": "He built up the city on all sides, from the Millo all the way around, while Joab restored the rest of the city."
+        },
+        {
+          "verse": 9,
+          "text": "David became ever more powerful, for the LORD of hosts was with him."
+        },
+        {
+          "verse": 10,
+          "text": "David’s Warriors. These were David’s chief warriors who, together with all Israel, supported him in his reign in order to make him king, according to the LORD’s word concerning Israel."
+        },
+        {
+          "verse": 11,
+          "text": "Here is the list of David’s warriors: Ishbaal, the son of Hachamoni, chief of the Three. He brandished his spear over three hundred, whom he had slain in a single encounter."
+        },
+        {
+          "verse": 12,
+          "text": "Next to him was Eleazar, the son of Dodo the Ahohite, one of the Three warriors."
+        },
+        {
+          "verse": 13,
+          "text": "He was with David at Pas-dammim, where the Philistines had massed for battle. There was a plot of land full of barley. The people were fleeing before the Philistines,"
+        },
+        {
+          "verse": 14,
+          "text": "but he took his stand in the middle of the plot, kept it safe, and cut down the Philistines. Thus the LORD brought about a great victory."
+        },
+        {
+          "verse": 15,
+          "text": "Three of the Thirty chiefs went down to the rock, to David, who was in the cave of Adullam while the Philistines were encamped in the valley of Rephaim."
+        },
+        {
+          "verse": 16,
+          "text": "David was then in the stronghold, and a Philistine garrison was at Bethlehem."
+        },
+        {
+          "verse": 17,
+          "text": "David had a strong craving, and said, “If only someone would give me a drink of water from the cistern by the gate of Bethlehem!”"
+        },
+        {
+          "verse": 18,
+          "text": "Thereupon the Three broke through the encampment of the Philistines, drew water from the cistern by the gate of Bethlehem, and carried it back to David. But David refused to drink it. Instead, he poured it out to the LORD,"
+        },
+        {
+          "verse": 19,
+          "text": "saying, “God forbid that I should do such a thing! Could I drink the blood of these men who risked their lives? For at the risk of their lives they brought it.” So he refused to drink it. Such deeds as these the Three warriors performed."
+        },
+        {
+          "verse": 20,
+          "text": "Abishai, the brother of Joab, was the chief of the Thirty; he brandished his spear over three hundred, whom he had slain. He made a name beside the Three,"
+        },
+        {
+          "verse": 21,
+          "text": "but was twice as famous as any of the Thirty, becoming their leader. However, he did not attain to the Three."
+        },
+        {
+          "verse": 22,
+          "text": "Benaiah, son of Jehoiada, a valiant man of mighty deeds, from Kabzeel, killed the two sons of Ariel of Moab. Also, he went down and killed the lion in the cistern on a snowy day."
+        },
+        {
+          "verse": 23,
+          "text": "He likewise slew the Egyptian, a huge man five cubits tall. The Egyptian carried a spear that was like a weaver’s beam, but Benaiah came against him with a staff; he wrested the spear from the Egyptian’s hand, and killed him with that spear."
+        },
+        {
+          "verse": 24,
+          "text": "Such deeds as these Benaiah, the son of Jehoiada, performed, and he made a name beside the Three warriors,"
+        },
+        {
+          "verse": 25,
+          "text": "but was more famous than any of the Thirty. However, he did not attain to the Three. David put him in charge of his bodyguard."
+        },
+        {
+          "verse": 26,
+          "text": "Also these warriors: Asahel, the brother of Joab; Elhanan, son of Dodo, from Bethlehem;"
+        },
+        {
+          "verse": 27,
+          "text": "Shammoth, from En-harod; Helez, from Beth-pelet;"
+        },
+        {
+          "verse": 28,
+          "text": "Ira, son of Ikkesh, from Tekoa; Abiezer, from Anathoth;"
+        },
+        {
+          "verse": 29,
+          "text": "Sibbecai, from Husha; Ilai, from Ahoh;"
+        },
+        {
+          "verse": 30,
+          "text": "Maharai, from Netophah; Heled, son of Baanah, from Netophah;"
+        },
+        {
+          "verse": 31,
+          "text": "Ithai, son of Ribai, from Gibeah of Benjamin; Benaiah, from Pirathon;"
+        },
+        {
+          "verse": 32,
+          "text": "Hurai, from Nahale-gaash; Abiel, from Beth-arabah;"
+        },
+        {
+          "verse": 33,
+          "text": "Azmaveth, from Bahurim; Eliahba, from Shaalbon;"
+        },
+        {
+          "verse": 34,
+          "text": "Jashen the Gunite; Jonathan, son of Shagee the Hararite;"
+        },
+        {
+          "verse": 35,
+          "text": "Ahiam, son of Sachar the Hararite; Elipheleth, son of"
+        },
+        {
+          "verse": 36,
+          "text": "Ahasbai, from Beth-maacah; Ahijah, from Gilo;"
+        },
+        {
+          "verse": 37,
+          "text": "Hezro, from Carmel; Naarai, the son of Ezbai;"
+        },
+        {
+          "verse": 38,
+          "text": "Joel, brother of Nathan, from Rehob, the Gadite;"
+        },
+        {
+          "verse": 39,
+          "text": "Zelek the Ammonite; Naharai, from Beeroth, the armor-bearer of Joab, son of Zeruiah;"
+        },
+        {
+          "verse": 40,
+          "text": "Ira, from Jattir; Gareb, from Jattir;"
+        },
+        {
+          "verse": 41,
+          "text": "Uriah the Hittite; Zabad, son of Ahlai,"
+        },
+        {
+          "verse": 42,
+          "text": "and, in addition to the Thirty, Adina, son of Shiza, the Reubenite, chief of the tribe of Reuben;"
+        },
+        {
+          "verse": 43,
+          "text": "Hanan, son of Maacah; Joshaphat the Mithnite;"
+        },
+        {
+          "verse": 44,
+          "text": "Uzzia, the Ashterathite; Shama and Jeiel, sons of Hotham, from Aroer;"
+        },
+        {
+          "verse": 45,
+          "text": "Jediael, son of Shimri, and Joha, his brother, the Tizite;"
+        },
+        {
+          "verse": 46,
+          "text": "Eliel the Mahavite; Jeribai and Joshaviah, sons of Elnaam; Ithmah, from Moab;"
+        },
+        {
+          "verse": 47,
+          "text": "Eliel, Obed, and Jaasiel the Mezobian."
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Chapter 12 - David’s Early Followers. The following men came to David in Ziklag while he was still under banishment from Saul, son of Kish; they, too, were among the warriors who helped him in his battles."
+        },
+        {
+          "verse": 2,
+          "text": "They were archers who could use either the right or the left hand, both in slinging stones and in shooting arrows with the bow. They were some of Saul’s kinsmen, from Benjamin."
+        },
+        {
+          "verse": 3,
+          "text": "Ahiezer was their chief, along with Joash, both sons of Shemaah of Gibeah; also Jeziel and Pelet, sons of Azmaveth; Beracah; Jehu, from Anathoth;"
+        },
+        {
+          "verse": 4,
+          "text": "Ishmaiah the Gibeonite, a warrior among the Thirty, and over the Thirty;"
+        },
+        {
+          "verse": 5,
+          "text": "Jeremiah; Jahaziel; Johanan; Jozabad from Gederah;"
+        },
+        {
+          "verse": 6,
+          "text": "Eluzai; Jerimoth; Bealiah; Shemariah; Shephatiah the Haruphite;"
+        },
+        {
+          "verse": 7,
+          "text": "Elkanah, Isshiah, Azarel, Joezer, and Jashobeam, who were Korahites;"
+        },
+        {
+          "verse": 8,
+          "text": "Joelah and Zebadiah, sons of Jeroham, from Gedor."
+        },
+        {
+          "verse": 9,
+          "text": "Some of the Gadites also went over to David when he was at the stronghold in the wilderness. They were valiant warriors, experienced soldiers equipped with shield and spear, fearsome as lions, swift as gazelles on the mountains."
+        },
+        {
+          "verse": 10,
+          "text": "Ezer was their chief, Obadiah was second, Eliab third,"
+        },
+        {
+          "verse": 11,
+          "text": "Mishmannah fourth, Jeremiah fifth,"
+        },
+        {
+          "verse": 12,
+          "text": "Attai sixth, Eliel seventh,"
+        },
+        {
+          "verse": 13,
+          "text": "Johanan eighth, Elzabad ninth,"
+        },
+        {
+          "verse": 14,
+          "text": "Jeremiah tenth, and Machbannai eleventh."
+        },
+        {
+          "verse": 15,
+          "text": "These Gadites were army commanders, the lesser over hundreds and the greater over thousands."
+        },
+        {
+          "verse": 16,
+          "text": "It was they who crossed over the Jordan in the first month, when it was overflowing both its banks, and chased away all who were in the valleys to the east and to the west."
+        },
+        {
+          "verse": 17,
+          "text": "Some Benjaminites and Judahites also came to David at the stronghold."
+        },
+        {
+          "verse": 18,
+          "text": "David went out to meet them and addressed them in these words: “If you come peacefully, to help me, I am of a mind to have you join me. But if you have come to betray me to my enemies though my hands have done no wrong, may the God of our ancestors see and punish you.”"
+        },
+        {
+          "verse": 19,
+          "text": "Then a spirit clothed Amasai, the chief of the Thirty, and he answered David: “We are yours, O David, we are with you, son of Jesse. Peace, peace to you, and peace to him who helps you; may your God be your helper!” So David received them and placed them among the leaders of his troops."
+        },
+        {
+          "verse": 20,
+          "text": "Men from Manasseh also deserted to David when he came with the Philistines to battle against Saul. However, he did not help the Philistines, for their lords took counsel and sent him home, saying, “At the cost of our heads he will desert to his master Saul.”"
+        },
+        {
+          "verse": 21,
+          "text": "As he was returning to Ziklag, therefore, these deserted to him from Manasseh: Adnah, Jozabad, Jediael, Michael, Jozabad, Elihu, and Zillethai, chiefs of thousands of Manasseh."
+        },
+        {
+          "verse": 22,
+          "text": "They helped David by taking charge of his troops, for they were all warriors and became commanders of his army."
+        },
+        {
+          "verse": 23,
+          "text": "And from day to day men kept coming to David’s help until there was a vast encampment, like God’s own encampment."
+        },
+        {
+          "verse": 24,
+          "text": "The Assembly at Hebron. This is the muster of the detachments of armed troops that came to David at Hebron to bring Saul’s kingdom over to him, as the LORD had ordained."
+        },
+        {
+          "verse": 25,
+          "text": "Judahites bearing shields and spears: six thousand eight hundred armed troops."
+        },
+        {
+          "verse": 26,
+          "text": "Of the Simeonites, warriors fit for battle: seven thousand one hundred."
+        },
+        {
+          "verse": 27,
+          "text": "Of the Levites: four thousand six hundred,"
+        },
+        {
+          "verse": 28,
+          "text": "along with Jehoiada, leader of the line of Aaron, with another three thousand seven hundred,"
+        },
+        {
+          "verse": 29,
+          "text": "and Zadok, a young warrior, with twenty-two princes of his father’s house."
+        },
+        {
+          "verse": 30,
+          "text": "Of the Benjaminites, the kinsmen of Saul: three thousand—until this time, most of them had kept their allegiance to the house of Saul."
+        },
+        {
+          "verse": 31,
+          "text": "Of the Ephraimites: twenty thousand eight hundred warriors, men renowned in their ancestral houses."
+        },
+        {
+          "verse": 32,
+          "text": "Of the half-tribe of Manasseh: eighteen thousand, designated by name to come and make David king."
+        },
+        {
+          "verse": 33,
+          "text": "Of the Issacharites, their chiefs who were endowed with an understanding of the times and who knew what Israel had to do: two hundred chiefs, together with all their kinsmen under their command."
+        },
+        {
+          "verse": 34,
+          "text": "From Zebulun, men fit for military service, set in battle array with every kind of weapon for war: fifty thousand men rallying with a single purpose."
+        },
+        {
+          "verse": 35,
+          "text": "From Naphtali: one thousand captains, and with them, armed with shield and lance, thirty-seven thousand men."
+        },
+        {
+          "verse": 36,
+          "text": "Of the Danites, set in battle array: twenty-eight thousand six hundred."
+        },
+        {
+          "verse": 37,
+          "text": "From Asher, fit for military service and set in battle array: forty thousand."
+        },
+        {
+          "verse": 38,
+          "text": "From the other side of the Jordan, of the Reubenites, Gadites, and the half-tribe of Manasseh, men equipped with every kind of weapon of war: one hundred and twenty thousand."
+        },
+        {
+          "verse": 39,
+          "text": "All these soldiers, drawn up in battle order, came to Hebron with the resolute intention of making David king over all Israel. The rest of Israel was likewise of one mind to make David king."
+        },
+        {
+          "verse": 40,
+          "text": "They remained with David for three days, eating and drinking, for their relatives had prepared for them."
+        },
+        {
+          "verse": 41,
+          "text": "Moreover, their neighbors from as far as Issachar, Zebulun, and Naphtali came bringing food on donkeys, camels, mules, and oxen—provisions in great quantity of meal, pressed figs, raisins, wine, oil, oxen, and sheep. For there was rejoicing in Israel."
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Chapter 13 - Transfer of the Ark. After David had taken counsel with his commanders of thousands and of hundreds, that is, with every leader,"
+        },
+        {
+          "verse": 2,
+          "text": "he said to the whole assembly of Israel: “If it seems good to you, and is so decreed by the LORD our God, let us send to the rest of our kindred from all the districts of Israel, and also the priests and the Levites from their cities with pasture lands, that they may join us;"
+        },
+        {
+          "verse": 3,
+          "text": "and let us bring the ark of our God here among us, for in the days of Saul we did not consult it.”"
+        },
+        {
+          "verse": 4,
+          "text": "And the whole assembly agreed to do it, for it seemed right in the eyes of all the people."
+        },
+        {
+          "verse": 5,
+          "text": "Then David assembled all Israel, from Shihor of Egypt to Lebo-hamath, to bring the ark of God from Kiriath-jearim."
+        },
+        {
+          "verse": 6,
+          "text": "David and all Israel went up to Baalah, that is, to Kiriath-jearim, of Judah, to bring up from there the ark of God, which was known by the name “LORD enthroned upon the cherubim.”"
+        },
+        {
+          "verse": 7,
+          "text": "They transported the ark of God on a new cart from the house of Abinadab; Uzzah and Ahio were guiding the cart,"
+        },
+        {
+          "verse": 8,
+          "text": "while David and all Israel danced before God with all their might, with singing, and with lyres, harps, tambourines, cymbals, and trumpets."
+        },
+        {
+          "verse": 9,
+          "text": "As they reached the threshing floor of Chidon, Uzzah stretched out his hand to steady the ark, for the oxen were tipping it."
+        },
+        {
+          "verse": 10,
+          "text": "Then the LORD became angry with Uzzah and struck him, because he had laid his hand on the ark; he died there in God’s presence."
+        },
+        {
+          "verse": 11,
+          "text": "David was angry because the LORD’s anger had broken out against Uzzah. Therefore that place has been called Perez-uzzah even to this day."
+        },
+        {
+          "verse": 12,
+          "text": "David was afraid of God that day, and he said, “How can I bring in the ark of God to me?”"
+        },
+        {
+          "verse": 13,
+          "text": "Therefore he did not take the ark with him into the City of David, but deposited it instead at the house of Obed-edom the Gittite."
+        },
+        {
+          "verse": 14,
+          "text": "The ark of God remained in the house of Obed-edom with his family for three months, and the LORD blessed Obed-edom’s household and all that he possessed."
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Chapter 14 - David in Jerusalem. Hiram, king of Tyre, sent envoys to David along with cedar wood, and masons and carpenters to build him a house."
+        },
+        {
+          "verse": 2,
+          "text": "David now knew that the LORD had truly established him as king over Israel, for his kingdom was greatly exalted for the sake of his people Israel."
+        },
+        {
+          "verse": 3,
+          "text": "David took other wives in Jerusalem and became the father of more sons and daughters."
+        },
+        {
+          "verse": 4,
+          "text": "These are the names of those who were born to him in Jerusalem: Shammua, Shobab, Nathan, Solomon,"
+        },
+        {
+          "verse": 5,
+          "text": "Ibhar, Elishua, Elpelet,"
+        },
+        {
+          "verse": 6,
+          "text": "Nogah, Nepheg, Japhia,"
+        },
+        {
+          "verse": 7,
+          "text": "Elishama, Beeliada, and Eliphelet."
+        },
+        {
+          "verse": 8,
+          "text": "The Philistine Wars. When the Philistines had heard that David was anointed king over all Israel, they marched out in force looking for him. But when David heard of this, he went out against them."
+        },
+        {
+          "verse": 9,
+          "text": "Meanwhile the Philistines had come and raided the valley of Rephaim."
+        },
+        {
+          "verse": 10,
+          "text": "David inquired of God, “Shall I attack the Philistines, and will you deliver them into my power?” The LORD answered him, “Attack, for I have delivered them into your power.”"
+        },
+        {
+          "verse": 11,
+          "text": "So they attacked, at Baal-perazim, and David defeated them there. Then David said, “By my hand God has broken through my enemies just as water breaks through a dam.” Therefore that place was called Baal-perazim."
+        },
+        {
+          "verse": 12,
+          "text": "The Philistines abandoned their gods there, and David ordered them to be burnt."
+        },
+        {
+          "verse": 13,
+          "text": "Once again the Philistines raided the valley,"
+        },
+        {
+          "verse": 14,
+          "text": "and again David inquired of God. But God answered him: Do not try to pursue them, but go around them and come against them near the balsam trees."
+        },
+        {
+          "verse": 15,
+          "text": "When you hear the sound of marching in the tops of the balsam trees, then go forth to battle, for God has already gone before you to strike the army of the Philistines."
+        },
+        {
+          "verse": 16,
+          "text": "David did as God commanded him, and they routed the Philistine army from Gibeon to Gezer."
+        },
+        {
+          "verse": 17,
+          "text": "Thus David’s fame was spread abroad through every land, and the LORD put the fear of him on all the nations."
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Chapter 15 - Preparations for Moving the Ark. David built houses for himself in the City of David and prepared a place for the ark of God, pitching a tent for it there."
+        },
+        {
+          "verse": 2,
+          "text": "At that time he said, “No one may carry the ark of God except the Levites, for the LORD chose them to carry the ark of the LORD and to minister to him forever.”"
+        },
+        {
+          "verse": 3,
+          "text": "Then David assembled all Israel to Jerusalem to bring up the ark of the LORD to its place, which he had prepared for it."
+        },
+        {
+          "verse": 4,
+          "text": "David also convened the sons of Aaron and the Levites:"
+        },
+        {
+          "verse": 5,
+          "text": "of the sons of Kohath, Uriel, their chief, and one hundred and twenty of his brothers;"
+        },
+        {
+          "verse": 6,
+          "text": "of the sons of Merari, Asaiah, their chief, and two hundred and twenty of his brothers;"
+        },
+        {
+          "verse": 7,
+          "text": "of the sons of Gershon, Joel, their chief, and one hundred and thirty of his brothers;"
+        },
+        {
+          "verse": 8,
+          "text": "of the sons of Elizaphan, Shemaiah, their chief, and two hundred of his brothers;"
+        },
+        {
+          "verse": 9,
+          "text": "of the sons of Hebron, Eliel, their chief, and eighty of his brothers;"
+        },
+        {
+          "verse": 10,
+          "text": "of the sons of Uzziel, Amminadab, their chief, and one hundred and twelve of his brothers."
+        },
+        {
+          "verse": 11,
+          "text": "David summoned the priests Zadok and Abiathar, and the Levites Uriel, Asaiah, Joel, Shemaiah, Eliel, and Amminadab,"
+        },
+        {
+          "verse": 12,
+          "text": "and said to them: “You heads of the levitical houses, sanctify yourselves along with your brothers to bring up the ark of the LORD, the God of Israel, to the place which I have prepared for it."
+        },
+        {
+          "verse": 13,
+          "text": "Because you were not with us the first time, the LORD our God broke out against us, for we did not seek him aright.”"
+        },
+        {
+          "verse": 14,
+          "text": "Accordingly, the priests and the Levites sanctified themselves to bring up the ark of the LORD, the God of Israel."
+        },
+        {
+          "verse": 15,
+          "text": "The Levites carried the ark of God on their shoulders with poles, as Moses had commanded according to the word of the LORD."
+        },
+        {
+          "verse": 16,
+          "text": "David commanded the commanders of the Levites to appoint their brothers as singers and to play on musical instruments, harps, lyres, and cymbals, to make a loud sound of rejoicing."
+        },
+        {
+          "verse": 17,
+          "text": "Therefore the Levites appointed Heman, son of Joel, and, among his brothers, Asaph, son of Berechiah; and among the sons of Merari, their brothers, Ethan, son of Kushaiah;"
+        },
+        {
+          "verse": 18,
+          "text": "and, together with these, their brothers of the second rank: the gatekeepers Zechariah, Uzziel, Shemiramoth, Jehiel, Unni, Eliab, Benaiah, Maaseiah, Mattithiah, Eliphelehu, Mikneiah, Obed-edom, and Jeiel."
+        },
+        {
+          "verse": 19,
+          "text": "The singers, Heman, Asaph, and Ethan, sounded brass cymbals."
+        },
+        {
+          "verse": 20,
+          "text": "Zechariah, Uzziel, Shemiramoth, Jehiel, Unni, Eliab, Maaseiah, and Benaiah played on harps set to “Alamoth.”"
+        },
+        {
+          "verse": 21,
+          "text": "But Mattithiah, Eliphelehu, Mikneiah, Obed-edom, and Jeiel led the song on lyres set to “sheminith.”"
+        },
+        {
+          "verse": 22,
+          "text": "Chenaniah was the chief of the Levites in the singing; he directed the singing, for he was skillful."
+        },
+        {
+          "verse": 23,
+          "text": "Berechiah and Elkanah were gatekeepers before the ark."
+        },
+        {
+          "verse": 24,
+          "text": "The priests, Shebaniah, Joshaphat, Nethanel, Amasai, Zechariah, Benaiah, and Eliezer, sounded the trumpets before the ark of God. Obed-edom and Jeiel were also gatekeepers before the ark."
+        },
+        {
+          "verse": 25,
+          "text": "The Ark Comes to Jerusalem. Thus David, the elders of Israel, and the commanders of thousands went to bring up the ark of the covenant of the LORD with joy from the house of Obed-edom."
+        },
+        {
+          "verse": 26,
+          "text": "While God helped the Levites to carry the ark of the covenant of the LORD, they sacrificed seven bulls and seven rams."
+        },
+        {
+          "verse": 27,
+          "text": "David was vested in a robe of fine linen, as were all the Levites who carried the ark, the singers, and Chenaniah, the leader of song; David was also wearing a linen ephod."
+        },
+        {
+          "verse": 28,
+          "text": "Thus all Israel brought up the ark of the covenant of the LORD with joyful shouting, to the sound of horns, trumpets, and cymbals, and the music of harps and lyres."
+        },
+        {
+          "verse": 29,
+          "text": "But as the ark of the covenant of the LORD was entering the City of David, Michal, daughter of Saul, looked down from her window, and when she saw King David leaping and dancing, she despised him in her heart."
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Chapter 16 - They brought in the ark of God and set it within the tent which David had pitched for it. Then they sacrificed burnt offerings and communion offerings to God."
+        },
+        {
+          "verse": 2,
+          "text": "When David had finished sacrificing the burnt offerings and communion offerings, he blessed the people in the name of the LORD,"
+        },
+        {
+          "verse": 3,
+          "text": "and distributed to every Israelite, to every man and every woman, a loaf of bread, a piece of meat, and a raisin cake."
+        },
+        {
+          "verse": 4,
+          "text": "David’s Directives for the Levites. He then appointed certain Levites to minister before the ark of the LORD, to celebrate, thank, and praise the LORD, the God of Israel."
+        },
+        {
+          "verse": 5,
+          "text": "Asaph was their chief, and second to him were Zechariah, Uzziel, Shemiramoth, Jehiel, Mattithiah, Eliab, Benaiah, Obed-edom, and Jeiel. These were to play on harps and lyres, while Asaph was to sound the cymbals,"
+        },
+        {
+          "verse": 6,
+          "text": "and the priests Benaiah and Jahaziel were to be the regular trumpeters before the ark of the covenant of God."
+        },
+        {
+          "verse": 7,
+          "text": "On that same day, David appointed Asaph and his brothers to sing for the first time these praises of the LORD:"
+        },
+        {
+          "verse": 8,
+          "text": "Give thanks to the LORD, invoke his name; make known among the peoples his deeds."
+        },
+        {
+          "verse": 9,
+          "text": "Sing praise, play music; proclaim all his wondrous deeds."
+        },
+        {
+          "verse": 10,
+          "text": "Glory in his holy name; rejoice, O hearts that seek the LORD!"
+        },
+        {
+          "verse": 11,
+          "text": "Rely on the mighty LORD; constantly seek his face."
+        },
+        {
+          "verse": 12,
+          "text": "Recall the wondrous deeds he has done, his signs, and his words of judgment,"
+        },
+        {
+          "verse": 13,
+          "text": "You sons of Israel, his servants, offspring of Jacob, the chosen ones!"
+        },
+        {
+          "verse": 14,
+          "text": "The LORD is our God; who rules the whole earth."
+        },
+        {
+          "verse": 15,
+          "text": "He remembers forever his covenant the pact imposed for a thousand generations—"
+        },
+        {
+          "verse": 16,
+          "text": "Which was made with Abraham, confirmed by oath to Isaac,"
+        },
+        {
+          "verse": 17,
+          "text": "And ratified as binding for Jacob, an everlasting covenant for Israel:"
+        },
+        {
+          "verse": 18,
+          "text": "“To you will I give the land of Canaan, your own allotted heritage.”"
+        },
+        {
+          "verse": 19,
+          "text": "When they were few in number, a handful, and strangers there,"
+        },
+        {
+          "verse": 20,
+          "text": "Wandering from nation to nation, from one kingdom to another,"
+        },
+        {
+          "verse": 21,
+          "text": "He let no one oppress them; for their sake he rebuked kings:"
+        },
+        {
+          "verse": 22,
+          "text": "“Do not touch my anointed, to my prophets do no harm.”"
+        },
+        {
+          "verse": 23,
+          "text": "Sing to the LORD, all the earth, announce his salvation, day after day."
+        },
+        {
+          "verse": 24,
+          "text": "Tell his glory among the nations; among all peoples, his wondrous deeds."
+        },
+        {
+          "verse": 25,
+          "text": "For great is the LORD and highly to be praised; to be feared above all gods."
+        },
+        {
+          "verse": 26,
+          "text": "For the gods of the nations all do nothing, but the LORD made the heavens."
+        },
+        {
+          "verse": 27,
+          "text": "Splendor and majesty go before him; power and rejoicing are in his holy place."
+        },
+        {
+          "verse": 28,
+          "text": "Give to the LORD, you families of nations, give to the LORD glory and might;"
+        },
+        {
+          "verse": 29,
+          "text": "Give to the LORD the glory due his name! Bring gifts, and come before him; bow down to the LORD, splendid in holiness."
+        },
+        {
+          "verse": 30,
+          "text": "Tremble before him, all the earth; the world will surely stand fast, never to be moved."
+        },
+        {
+          "verse": 31,
+          "text": "Let the heavens be glad and the earth rejoice; let them say among the nations: The LORD is king."
+        },
+        {
+          "verse": 32,
+          "text": "Let the sea and what fills it resound; let the plains be joyful and all that is in them!"
+        },
+        {
+          "verse": 33,
+          "text": "Then let all the trees of the forest exult before the LORD, who comes, who comes to rule the earth."
+        },
+        {
+          "verse": 34,
+          "text": "Give thanks to the LORD, who is good, whose love endures forever;"
+        },
+        {
+          "verse": 35,
+          "text": "And say, “Save us, O God, our savior, gather us and deliver us from among the nations, That we may give thanks to your holy name and glory in praising you.”"
+        },
+        {
+          "verse": 36,
+          "text": "Blessed be the LORD, the God of Israel, from everlasting to everlasting! Let all the people say, Amen! Hallelujah."
+        },
+        {
+          "verse": 37,
+          "text": "Then David left Asaph and his brothers there before the ark of the covenant of the LORD to minister before the ark regularly according to the daily ritual;"
+        },
+        {
+          "verse": 38,
+          "text": "he also left there Obed-edom and sixty-eight of his brothers, including Obed-edom, son of Jeduthun, and Hosah, to be gatekeepers."
+        },
+        {
+          "verse": 39,
+          "text": "But the priest Zadok and his priestly brothers he left before the tabernacle of the LORD on the high place at Gibeon,"
+        },
+        {
+          "verse": 40,
+          "text": "to make burnt offerings to the LORD on the altar for burnt offerings regularly, morning and evening, and to do all that is written in the law of the LORD which he commanded Israel."
+        },
+        {
+          "verse": 41,
+          "text": "With them were Heman and Jeduthun and the others who were chosen and designated by name to give thanks to the LORD, “whose love endures forever,”"
+        },
+        {
+          "verse": 42,
+          "text": "with trumpets and cymbals for accompaniment, and instruments for sacred song. The sons of Jeduthun kept the gate."
+        },
+        {
+          "verse": 43,
+          "text": "Then all the people departed, each to their own homes, and David returned to bless his household."
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Chapter 17 - The Oracle of Nathan. After David had taken up residence in his house, he said to Nathan the prophet, “See, I am living in a house of cedar, but the ark of the covenant of the LORD is under tentcloth.”"
+        },
+        {
+          "verse": 2,
+          "text": "Nathan replied to David, “Whatever is in your heart, go and do, for God is with you.”"
+        },
+        {
+          "verse": 3,
+          "text": "But that same night the word of God came to Nathan:"
+        },
+        {
+          "verse": 4,
+          "text": "Go and tell David my servant, Thus says the LORD: It is not you who are to build the house for me to dwell in."
+        },
+        {
+          "verse": 5,
+          "text": "For I have never dwelt in a house, from the day I brought Israel up, even to this day, but I have been lodging in tent or tabernacle."
+        },
+        {
+          "verse": 6,
+          "text": "As long as I have wandered about with all Israel, did I ever say a word to any of the judges of Israel whom I commanded to shepherd my people, Why have you not built me a house of cedar?"
+        },
+        {
+          "verse": 7,
+          "text": "Now then, speak thus to my servant David, Thus says the LORD of hosts: I took you from the pasture, from following the flock, to become ruler over my people Israel."
+        },
+        {
+          "verse": 8,
+          "text": "I was with you wherever you went, and I cut down all your enemies before you. I will make your name like that of the greatest on the earth."
+        },
+        {
+          "verse": 9,
+          "text": "I will assign a place for my people Israel and I will plant them in it to dwell there; they will never again be disturbed, nor shall the wicked ever again oppress them, as they did at the beginning,"
+        },
+        {
+          "verse": 10,
+          "text": "and during all the time when I appointed judges over my people Israel. And I will subdue all your enemies. Moreover, I declare to you that the LORD will build you a house:"
+        },
+        {
+          "verse": 11,
+          "text": "when your days have been completed and you must join your ancestors, I will raise up your offspring after you who will be one of your own sons, and I will establish his kingdom."
+        },
+        {
+          "verse": 12,
+          "text": "He it is who shall build me a house, and I will establish his throne forever."
+        },
+        {
+          "verse": 13,
+          "text": "I will be a father to him, and he shall be a son to me, and I will not withdraw my favor from him as I withdrew it from the one who was before you;"
+        },
+        {
+          "verse": 14,
+          "text": "but I will maintain him in my house and in my kingdom forever, and his throne shall be firmly established forever."
+        },
+        {
+          "verse": 15,
+          "text": "In accordance with all these words and this whole vision Nathan spoke to David."
+        },
+        {
+          "verse": 16,
+          "text": "David’s Thanksgiving. Then King David came in and sat in the LORD’s presence, and said: “Who am I, LORD God, and what is my house, that you should have brought me so far?"
+        },
+        {
+          "verse": 17,
+          "text": "And yet, even this is too little in your sight, O God! For you have made a promise regarding your servant’s house reaching into the future, and you have looked on me as henceforth the most notable of men, LORD God."
+        },
+        {
+          "verse": 18,
+          "text": "What more can David say to you? You have known your servant."
+        },
+        {
+          "verse": 19,
+          "text": "LORD, for your servant’s sake and in keeping with your purpose, you have done this great thing."
+        },
+        {
+          "verse": 20,
+          "text": "LORD, there is no one like you, no God but you, just as we have always heard."
+        },
+        {
+          "verse": 21,
+          "text": "“Is there, like your people Israel, whom you redeemed from Egypt, another nation on earth whom a god went to redeem as his people? You won for yourself a name for great and awesome deeds by driving out the nations before your people."
+        },
+        {
+          "verse": 22,
+          "text": "You made your people Israel your own forever, and you, LORD, became their God."
+        },
+        {
+          "verse": 23,
+          "text": "Now, LORD, may the promise that you have spoken concerning your servant and his house remain firm forever. Bring about what you have promised,"
+        },
+        {
+          "verse": 24,
+          "text": "that your name, LORD of hosts, God of Israel, may be great and abide forever, while the house of your servant is established in your presence."
+        },
+        {
+          "verse": 25,
+          "text": "“Because you, my God, have revealed to your servant that you will build him a house, your servant dares to pray before you."
+        },
+        {
+          "verse": 26,
+          "text": "Since you, LORD, are truly God and have made this generous promise to your servant,"
+        },
+        {
+          "verse": 27,
+          "text": "do, then, bless the house of your servant, that it may be in your presence forever—since it is you, LORD, who blessed it, it is blessed forever.”"
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Chapter 18 - David’s Victories. After this, David defeated the Philistines and subdued them; and he took Gath and its towns away from the Philistines."
+        },
+        {
+          "verse": 2,
+          "text": "He also defeated Moab, and the Moabites became David’s subjects, paying tribute."
+        },
+        {
+          "verse": 3,
+          "text": "David then defeated Hadadezer, king of Zobah, toward Hamath, who was on his way to set up his victory stele at the river Euphrates."
+        },
+        {
+          "verse": 4,
+          "text": "David captured from him one thousand chariots, seven thousand horsemen, and twenty thousand foot soldiers. David hamstrung all the chariot horses, but left one hundred for his chariots."
+        },
+        {
+          "verse": 5,
+          "text": "The Arameans of Damascus came to help Hadadezer, king of Zobah, but David also defeated twenty-two thousand of their men in Aram."
+        },
+        {
+          "verse": 6,
+          "text": "Then David set up garrisons in the Damascus region of Aram, and the Arameans became David’s subjects, paying tribute. Thus the LORD made David victorious in all his campaigns."
+        },
+        {
+          "verse": 7,
+          "text": "David took the golden shields that were carried by Hadadezer’s attendants and brought them to Jerusalem."
+        },
+        {
+          "verse": 8,
+          "text": "David likewise took away from Tibhath and Cun, cities of Hadadezer, large quantities of bronze; Solomon later used it to make the bronze sea and the pillars and the vessels of bronze."
+        },
+        {
+          "verse": 9,
+          "text": "When Tou, king of Hamath, heard that David had defeated the entire army of Hadadezer, king of Zobah,"
+        },
+        {
+          "verse": 10,
+          "text": "he sent his son Hadoram to wish King David well and to congratulate him on having waged a victorious war against Hadadezer; for Hadadezer had been at war with Tou. He also brought gold, silver and bronze articles of every sort."
+        },
+        {
+          "verse": 11,
+          "text": "These also King David consecrated to the LORD along with all the silver and gold that he had taken from the nations: from Edom, Moab, the Ammonites, the Philistines, and Amalek."
+        },
+        {
+          "verse": 12,
+          "text": "Abishai, the son of Zeruiah, also defeated eighteen thousand Edomites in the Valley of Salt."
+        },
+        {
+          "verse": 13,
+          "text": "He set up garrisons in Edom, and all the Edomites became David’s subjects. Thus the LORD brought David victory in all his undertakings."
+        },
+        {
+          "verse": 14,
+          "text": "David’s Officials. David was king over all Israel; he dispensed justice and right to all his people."
+        },
+        {
+          "verse": 15,
+          "text": "Joab, son of Zeruiah, was in command of the army; Jehoshaphat, son of Ahilud, was chancellor;"
+        },
+        {
+          "verse": 16,
+          "text": "Zadok, son of Ahitub, and Ahimelech, son of Abiathar, were priests; Shavsha was scribe;"
+        },
+        {
+          "verse": 17,
+          "text": "Benaiah, son of Jehoiada, was in command of the Cherethites and the Pelethites; and David’s sons were the chief assistants to the king."
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Chapter 19 - Campaigns Against Ammon. Afterward Nahash, king of the Ammonites, died and his son succeeded him as king."
+        },
+        {
+          "verse": 2,
+          "text": "David said, “I will show kindness to Hanun, the son of Nahash, for his father showed kindness to me.” Therefore he sent envoys to console him over his father. But when David’s servants had entered the land of the Ammonites to console Hanun,"
+        },
+        {
+          "verse": 3,
+          "text": "the Ammonite princes said to Hanun, “Do you think David is doing this—sending you these consolers—to honor your father? Have not his servants rather come to you to explore the land, spying it out for its overthrow?”"
+        },
+        {
+          "verse": 4,
+          "text": "So Hanun seized David’s servants and had them shaved and their garments cut off halfway at the hips. Then he sent them away."
+        },
+        {
+          "verse": 5,
+          "text": "David was told about the men, and he sent word for them to be intercepted, for the men had been greatly disgraced. “Remain at Jericho,” the king told them, “until your beards have grown again; then come back here.”"
+        },
+        {
+          "verse": 6,
+          "text": "When the Ammonites realized that they had put themselves in bad odor with David, Hanun and the Ammonites sent a thousand talents of silver to hire chariots and horsemen from Aram Naharaim, from Aram-maacah, and from Zobah."
+        },
+        {
+          "verse": 7,
+          "text": "They hired thirty-two thousand chariots along with the king of Maacah and his army, who came and encamped before Medeba. The Ammonites also assembled from their cities and came out for war."
+        },
+        {
+          "verse": 8,
+          "text": "When David heard of this, he sent Joab and his whole army of warriors against them."
+        },
+        {
+          "verse": 9,
+          "text": "The Ammonites marched out and lined up for battle at the entrance of the city, while the kings who had come to their help remained apart in the open field."
+        },
+        {
+          "verse": 10,
+          "text": "When Joab saw that there was a battle line both in front of and behind him, he chose some of the best fighters among the Israelites and lined them up against the Arameans;"
+        },
+        {
+          "verse": 11,
+          "text": "the rest of the army, which he placed under the command of his brother Abishai, then lined up to oppose the Ammonites."
+        },
+        {
+          "verse": 12,
+          "text": "And he said: “If the Arameans prove too strong for me, you must come and save me; and if the Ammonites prove too strong for you, I will save you."
+        },
+        {
+          "verse": 13,
+          "text": "Hold firm and let us show ourselves courageous for the sake of our people and the cities of our God; and may the LORD do what is good in his sight.”"
+        },
+        {
+          "verse": 14,
+          "text": "Joab therefore advanced with his men to engage the Arameans in battle; but they fled before him."
+        },
+        {
+          "verse": 15,
+          "text": "And when the Ammonites saw that the Arameans had fled, they too fled before his brother Abishai, and entered their city. Joab then came to Jerusalem."
+        },
+        {
+          "verse": 16,
+          "text": "Seeing themselves vanquished by Israel, the Arameans sent messengers to bring out the Arameans from beyond the Euphrates, with Shophach, the commander of Hadadezer’s army, at their head."
+        },
+        {
+          "verse": 17,
+          "text": "When this was reported to David, he gathered all Israel together, crossed the Jordan, and met them. With the army of David drawn up to fight the Arameans, they gave battle."
+        },
+        {
+          "verse": 18,
+          "text": "But the Arameans fled before Israel, and David killed seven thousand of their chariot fighters and forty thousand of their foot soldiers; he also put to death Shophach, the commander of the army."
+        },
+        {
+          "verse": 19,
+          "text": "When the vassals of Hadadezer saw themselves vanquished by Israel, they made peace with David and became his subjects. After this, the Arameans refused to come to the aid of the Ammonites."
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Chapter 20 - At the turn of the year, the time when kings go to war, Joab led the army out in force, laid waste the land of the Ammonites, and went on to besiege Rabbah; David himself remained in Jerusalem. When Joab had attacked Rabbah and destroyed it,"
+        },
+        {
+          "verse": 2,
+          "text": "David took the crown of Milcom from the idol’s head. It was found to weigh a talent of gold, with precious stones on it; this crown David wore on his own head. He also brought out a great amount of spoil from the city."
+        },
+        {
+          "verse": 3,
+          "text": "He deported the people of the city and set them to work with saws, iron picks, and axes. David dealt thus with all the cities of the Ammonites. Then David and his whole army returned to Jerusalem."
+        },
+        {
+          "verse": 4,
+          "text": "Victories over the Philistines. Afterward there was another battle with the Philistines, at Gezer. At that time, Sibbecai the Hushathite struck down Sippai, one of the descendants of the Rephaim, and the Philistines were subdued."
+        },
+        {
+          "verse": 5,
+          "text": "There was another battle with the Philistines, and Elhanan, the son of Jair, slew Lahmi, the brother of Goliath of Gath, whose spear shaft was like a weaver’s beam."
+        },
+        {
+          "verse": 6,
+          "text": "There was another battle, at Gath, and there was a giant, who had six fingers to each hand and six toes to each foot; twenty-four in all. He too was descended from the Rephaim."
+        },
+        {
+          "verse": 7,
+          "text": "He defied Israel, and Jonathan, the son of Shimea, David’s brother, slew him."
+        },
+        {
+          "verse": 8,
+          "text": "These were the descendants of the Rephaim of Gath who died at the hands of David and his servants."
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Chapter 21 - David’s Census; the Plague. A satan rose up against Israel, and he incited David to take a census of Israel."
+        },
+        {
+          "verse": 2,
+          "text": "David therefore said to Joab and to the other generals of the army, “Go, number the Israelites from Beer-sheba to Dan, and report back to me that I may know their number.”"
+        },
+        {
+          "verse": 3,
+          "text": "But Joab replied: “May the LORD increase his people a hundredfold! My lord king, are not all of them my lord’s subjects? Why does my lord seek to do this thing? Why should he bring guilt upon Israel?”"
+        },
+        {
+          "verse": 4,
+          "text": "However, the king’s command prevailed over Joab, who departed and traversed all of Israel, and then returned to Jerusalem."
+        },
+        {
+          "verse": 5,
+          "text": "Joab reported the census figures to David: of men capable of wielding a sword, there were in all Israel one million one hundred thousand, and in Judah four hundred and seventy thousand."
+        },
+        {
+          "verse": 6,
+          "text": "Levi and Benjamin, however, he did not include in the census, for the king’s command was repugnant to Joab."
+        },
+        {
+          "verse": 7,
+          "text": "This command was evil in the sight of God, and he struck Israel."
+        },
+        {
+          "verse": 8,
+          "text": "Then David said to God, “I have sinned greatly in doing this thing. Take away your servant’s guilt, for I have acted very foolishly.”"
+        },
+        {
+          "verse": 9,
+          "text": "Then the LORD spoke to Gad, David’s seer, in these words:"
+        },
+        {
+          "verse": 10,
+          "text": "Go, tell David: Thus says the LORD: I am laying out three options; choose one of them, and I will inflict it on you."
+        },
+        {
+          "verse": 11,
+          "text": "Accordingly, Gad went to David and said to him: “Thus says the LORD: Decide now—"
+        },
+        {
+          "verse": 12,
+          "text": "will it be three years of famine; or three months of fleeing your enemies, with the sword of your foes ever at your back; or three days of the LORD’s own sword, a plague in the land, with the LORD’s destroying angel in every part of Israel? Now consider: What answer am I to give him who sent me?”"
+        },
+        {
+          "verse": 13,
+          "text": "Then David said to Gad: “I am in serious trouble. But let me fall into the hand of the LORD, whose mercy is very great, rather than into hands of men.”"
+        },
+        {
+          "verse": 14,
+          "text": "Therefore the LORD sent a plague upon Israel, and seventy thousand Israelites died."
+        },
+        {
+          "verse": 15,
+          "text": "God also sent an angel to Jerusalem to destroy it; but as the angel was on the point of destroying it, the LORD saw and changed his mind about the calamity, and said to the destroying angel, “Enough now! Stay your hand!” Ornan’s Threshing Floor. The angel of the LORD was then standing by the threshing floor of Ornan the Jebusite."
+        },
+        {
+          "verse": 16,
+          "text": "When David raised his eyes, he saw the angel of the LORD standing between earth and heaven, drawn sword in hand stretched out against Jerusalem. David and the elders, clothed in sackcloth, fell face down,"
+        },
+        {
+          "verse": 17,
+          "text": "and David prayed to God: “Was it not I who ordered the census of the people? I am the one who sinned, I did this wicked thing. But these sheep, what have they done? O LORD, my God, strike me and my father’s family, but do not afflict your people with this plague!”"
+        },
+        {
+          "verse": 18,
+          "text": "Then the angel of the LORD commanded Gad to tell David to go up and set up an altar to the LORD on the threshing floor of Ornan the Jebusite."
+        },
+        {
+          "verse": 19,
+          "text": "David went up at the word of Gad, which he spoke in the name of the LORD."
+        },
+        {
+          "verse": 20,
+          "text": "Ornan turned around and saw the king; his four sons who were with him hid themselves, but Ornan kept on threshing wheat."
+        },
+        {
+          "verse": 21,
+          "text": "But as David came toward Ornan, he looked up and saw that it was David, and left the threshing floor and bowed down before David, his face to the ground."
+        },
+        {
+          "verse": 22,
+          "text": "David said to Ornan: “Sell me the site of this threshing floor, that I may build on it an altar to the LORD. Sell it to me at its full price, that the plague may be withdrawn from the people.”"
+        },
+        {
+          "verse": 23,
+          "text": "But Ornan said to David: “Take it as your own, and let my lord the king do what is good in his sight. See, I also give you the oxen for the burnt offerings, the threshing sledges for the wood, and the wheat for the grain offering. I give it all to you.”"
+        },
+        {
+          "verse": 24,
+          "text": "But King David replied to Ornan: “No! I will buy it from you properly, at its full price. I will not take what is yours for the LORD, nor bring burnt offerings that cost me nothing.”"
+        },
+        {
+          "verse": 25,
+          "text": "So David paid Ornan six hundred shekels of gold for the place."
+        },
+        {
+          "verse": 26,
+          "text": "Altar for Burnt Offerings. David then built an altar there to the LORD, and sacrificed burnt offerings and communion offerings. He called upon the LORD, who answered him by sending down fire from heaven upon the altar for burnt offerings."
+        },
+        {
+          "verse": 27,
+          "text": "Then the LORD gave orders to the angel to return his sword to its sheath."
+        },
+        {
+          "verse": 28,
+          "text": "Once David saw that the LORD had answered him at the threshing floor of Ornan the Jebusite, he continued to offer sacrifices there."
+        },
+        {
+          "verse": 29,
+          "text": "The tabernacle of the LORD, which Moses had made in the wilderness, and the altar for burnt offerings were at that time on the high place at Gibeon."
+        },
+        {
+          "verse": 30,
+          "text": "But David could not go into his presence to inquire of God, for he was fearful of the sword of the angel of the LORD."
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Chapter 22 - Thus David said, “This is the house of the LORD God, and this is the altar for burnt offerings for Israel.”"
+        },
+        {
+          "verse": 2,
+          "text": "David then ordered that the resident aliens in the land of Israel should be brought together, and he appointed them stonecutters to hew out stone blocks for building the house of God."
+        },
+        {
+          "verse": 3,
+          "text": "David also laid up large stores of iron to make nails for the doors of the gates, and clamps, together with so much bronze that it could not be weighed,"
+        },
+        {
+          "verse": 4,
+          "text": "and cedar trees without number. The Sidonians and Tyrians brought great stores of cedar logs to David."
+        },
+        {
+          "verse": 5,
+          "text": "David said: “My son Solomon is young and inexperienced; but the house that is to be built for the LORD must be made so magnificent that it will be renowned and glorious in all lands. Therefore I will make preparations for it.” Thus before his death David laid up materials in abundance."
+        },
+        {
+          "verse": 6,
+          "text": "Charge to Solomon. Then he summoned his son Solomon and commanded him to build a house for the LORD, the God of Israel."
+        },
+        {
+          "verse": 7,
+          "text": "David said to Solomon: “My son, it was my purpose to build a house myself for the name of the LORD, my God."
+        },
+        {
+          "verse": 8,
+          "text": "But this word of the LORD came to me: You have shed much blood, and you have waged great wars. You may not build a house for my name, because you have shed too much blood upon the earth in my sight."
+        },
+        {
+          "verse": 9,
+          "text": "However, a son will be born to you. He will be a peaceful man, and I will give him rest from all his enemies on every side. For Solomon shall be his name, and in his time I will bestow peace and tranquility on Israel."
+        },
+        {
+          "verse": 10,
+          "text": "It is he who shall build a house for my name; he shall be a son to me, and I will be a father to him, and I will establish the throne of his kingship over Israel forever."
+        },
+        {
+          "verse": 11,
+          "text": "“Now, my son, the LORD be with you, and may you succeed in building the house of the LORD your God, as he has said you shall."
+        },
+        {
+          "verse": 12,
+          "text": "But may the LORD give you prudence and discernment when he gives you command over Israel, so that you keep the law of the LORD, your God."
+        },
+        {
+          "verse": 13,
+          "text": "Only then shall you succeed, if you are careful to observe the statutes and ordinances which the LORD commanded Moses for Israel. Be strong and steadfast; do not fear or be dismayed."
+        },
+        {
+          "verse": 14,
+          "text": "See, with great effort I have laid up for the house of the LORD a hundred thousand talents of gold, a million talents of silver, and bronze and iron in such great quantities that they cannot be weighed. I have also laid up wood and stones, to which you must add."
+        },
+        {
+          "verse": 15,
+          "text": "Moreover, you have available workers, stonecutters, masons, carpenters, and experts in every craft,"
+        },
+        {
+          "verse": 16,
+          "text": "without number, skilled with gold, silver, bronze, and iron. Set to work, therefore, and the LORD be with you!”"
+        },
+        {
+          "verse": 17,
+          "text": "Charge to the Officials. David also commanded all of the officials of Israel to help his son Solomon:"
+        },
+        {
+          "verse": 18,
+          "text": "“Is not the LORD your God with you? Has he not given you rest on every side? Indeed, he has delivered the inhabitants of the land into my power, and the land is subdued before the LORD and his people."
+        },
+        {
+          "verse": 19,
+          "text": "Therefore, devote your hearts and souls to seeking the LORD your God. Proceed to build the sanctuary of the LORD God, that the ark of the covenant of the LORD and God’s sacred vessels may be brought into the house built for the name of the LORD.”"
+        }
+      ]
+    },
+    {
+      "chapter": 23,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Chapter 23 - The Levitical Divisions. When David had grown old and was near the end of his days, he made his son Solomon king over Israel."
+        },
+        {
+          "verse": 2,
+          "text": "He then gathered together all the officials of Israel, along with the priests and the Levites."
+        },
+        {
+          "verse": 3,
+          "text": "The Levites thirty years old and above were counted, and their total number was found to be thirty-eight thousand."
+        },
+        {
+          "verse": 4,
+          "text": "Of these, twenty-four thousand were to direct the service of the house of the LORD, six thousand were to be officials and judges,"
+        },
+        {
+          "verse": 5,
+          "text": "four thousand were to be gatekeepers, and four thousand were to praise the LORD with the instruments which [David] had devised for praise."
+        },
+        {
+          "verse": 6,
+          "text": "David apportioned them into divisions according to the sons of Levi: Gershon, Kohath, and Merari."
+        },
+        {
+          "verse": 7,
+          "text": "To the Gershonites belonged Ladan and Shimei."
+        },
+        {
+          "verse": 8,
+          "text": "The sons of Ladan: Jehiel the chief, then Zetham and Joel; three in all."
+        },
+        {
+          "verse": 9,
+          "text": "The sons of Shimei were Shelomoth, Haziel, and Haran; three. These were the heads of the families of Ladan."
+        },
+        {
+          "verse": 10,
+          "text": "The sons of Shimei were Jahath, Zizah, Jeush, and Beriah; these were the sons of Shimei, four in all."
+        },
+        {
+          "verse": 11,
+          "text": "Jahath was the chief and Zizah was second to him; but Jeush and Beriah had few sons, and therefore they were classed as a single family, exercising a single office."
+        },
+        {
+          "verse": 12,
+          "text": "The sons of Kohath: Amram, Izhar, Hebron, and Uzziel; four in all."
+        },
+        {
+          "verse": 13,
+          "text": "The sons of Amram were Aaron and Moses. Aaron was set apart to be consecrated as most holy, he and his sons forever, to offer sacrifice before the LORD, to minister to him, and to bless in his name forever."
+        },
+        {
+          "verse": 14,
+          "text": "As for Moses, however, the man of God, his sons were counted as part of the tribe of Levi."
+        },
+        {
+          "verse": 15,
+          "text": "The sons of Moses were Gershom and Eliezer."
+        },
+        {
+          "verse": 16,
+          "text": "The sons of Gershom: Shubael the chief."
+        },
+        {
+          "verse": 17,
+          "text": "The sons of Eliezer were Rehabiah the chief—Eliezer had no other sons, but the sons of Rehabiah were very numerous."
+        },
+        {
+          "verse": 18,
+          "text": "The sons of Izhar: Shelomith the chief."
+        },
+        {
+          "verse": 19,
+          "text": "The sons of Hebron: Jeriah, the chief, Amariah, the second, Jahaziel, the third, and Jekameam, the fourth."
+        },
+        {
+          "verse": 20,
+          "text": "The sons of Uzziel: Micah, the chief, and Isshiah, the second."
+        },
+        {
+          "verse": 21,
+          "text": "The sons of Merari: Mahli and Mushi. The sons of Mahli: Eleazar and Kish."
+        },
+        {
+          "verse": 22,
+          "text": "Eleazar died leaving no sons, only daughters; the sons of Kish, their kinsmen, married them."
+        },
+        {
+          "verse": 23,
+          "text": "The sons of Mushi: Mahli, Eder, and Jeremoth; three in all."
+        },
+        {
+          "verse": 24,
+          "text": "These were the sons of Levi according to their ancestral houses, the family heads as they were enrolled one by one according to their names. They performed the work of the service of the house of the LORD beginning at twenty years of age."
+        },
+        {
+          "verse": 25,
+          "text": "David said: “The LORD, the God of Israel, has given rest to his people, and has taken up his dwelling in Jerusalem forever."
+        },
+        {
+          "verse": 26,
+          "text": "Henceforth the Levites need not carry the tabernacle or any of the equipment for its service.”"
+        },
+        {
+          "verse": 27,
+          "text": "For by David’s last words the Levites were enlisted from the time they were twenty years old."
+        },
+        {
+          "verse": 28,
+          "text": "Their duty is to assist the sons of Aaron in the service of the house of the LORD, having charge of the courts, the chambers, and the preservation of everything holy: they take part in the service of the house of God."
+        },
+        {
+          "verse": 29,
+          "text": "They also have charge of the showbread, of the fine flour for the grain offering, of the wafers of unleavened bread, and of the baking and mixing, and of all measures of quantity and size."
+        },
+        {
+          "verse": 30,
+          "text": "They are to be present every morning to offer thanks and to praise the LORD, and likewise in the evening;"
+        },
+        {
+          "verse": 31,
+          "text": "and at every sacrifice of burnt offerings to the LORD on sabbaths, new moons, and feast days, in such numbers as are prescribed, they must always be present before the LORD"
+        },
+        {
+          "verse": 32,
+          "text": "and observe what is prescribed for them concerning the tent of meeting, the sanctuary, and the sons of Aaron, their kinsmen, in the service of the house of the LORD."
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Chapter 24 - The Priestly Divisions. There were also divisions for the sons of Aaron. The sons of Aaron were Nadab, Abihu, Eleazar, and Ithamar."
+        },
+        {
+          "verse": 2,
+          "text": "Nadab and Abihu died before their father, leaving no sons; therefore only Eleazar and Ithamar served as priests."
+        },
+        {
+          "verse": 3,
+          "text": "David, with Zadok, a descendant of Eleazar, and Ahimelech, a descendant of Ithamar, apportioned them their offices in the priestly service."
+        },
+        {
+          "verse": 4,
+          "text": "But since the sons of Eleazar were found to be more numerous by male heads than those of Ithamar, the former were divided into sixteen groups, and the latter into eight groups, each under its family heads."
+        },
+        {
+          "verse": 5,
+          "text": "Their functions were assigned impartially by lot, for there were officers of the holy place, and officers of God, descended both from Eleazar and from Ithamar."
+        },
+        {
+          "verse": 6,
+          "text": "The scribe Shemaiah, son of Nethanel, a Levite, recorded them in the presence of the king, and of the officials, of Zadok the priest, and of Ahimelech, son of Abiathar, and of the heads of the ancestral houses of the priests and of the Levites, listing two successive family groups from Eleazar before each one from Ithamar."
+        },
+        {
+          "verse": 7,
+          "text": "The first lot fell to Jehoiarib, the second to Jedaiah,"
+        },
+        {
+          "verse": 8,
+          "text": "the third to Harim, the fourth to Seorim,"
+        },
+        {
+          "verse": 9,
+          "text": "the fifth to Malchijah, the sixth to Mijamin,"
+        },
+        {
+          "verse": 10,
+          "text": "the seventh to Hakkoz, the eighth to Abijah,"
+        },
+        {
+          "verse": 11,
+          "text": "the ninth to Jeshua, the tenth to Shecaniah,"
+        },
+        {
+          "verse": 12,
+          "text": "the eleventh to Eliashib, the twelfth to Jakim,"
+        },
+        {
+          "verse": 13,
+          "text": "the thirteenth to Huppah, the fourteenth to Ishbaal,"
+        },
+        {
+          "verse": 14,
+          "text": "the fifteenth to Bilgah, the sixteenth to Immer,"
+        },
+        {
+          "verse": 15,
+          "text": "the seventeenth to Hezir, the eighteenth to Happizzez,"
+        },
+        {
+          "verse": 16,
+          "text": "the nineteenth to Pethahiah, the twentieth to Jehezkel,"
+        },
+        {
+          "verse": 17,
+          "text": "the twenty-first to Jachin, the twenty-second to Gamul,"
+        },
+        {
+          "verse": 18,
+          "text": "the twenty-third to Delaiah, the twenty-fourth to Maaziah."
+        },
+        {
+          "verse": 19,
+          "text": "This was the appointed order of their service when they functioned in the house of the LORD according to the precepts given them by Aaron, their father, as the LORD, the God of Israel, had commanded him."
+        },
+        {
+          "verse": 20,
+          "text": "Other Levites. Of the remaining Levites, there were Shubael, of the sons of Amram, and Jehdeiah, of the sons of Shubael;"
+        },
+        {
+          "verse": 21,
+          "text": "Isshiah, the chief, of the sons of Rehabiah;"
+        },
+        {
+          "verse": 22,
+          "text": "Shelomith of the Izharites, and Jahath of the sons of Shelomith."
+        },
+        {
+          "verse": 23,
+          "text": "The sons of Hebron were Jeriah, the chief, Amariah, the second, Jahaziel, the third, Jekameam, the fourth."
+        },
+        {
+          "verse": 24,
+          "text": "The sons of Uzziel were Micah; Shamir, of the sons of Micah;"
+        },
+        {
+          "verse": 25,
+          "text": "Isshiah, the brother of Micah; and Zechariah, a descendant of Isshiah."
+        },
+        {
+          "verse": 26,
+          "text": "The sons of Merari were Mahli, Mushi, and the sons of his son Uzziah."
+        },
+        {
+          "verse": 27,
+          "text": "The sons of Merari through his son Uzziah: Shoham, Zaccur, and Ibri."
+        },
+        {
+          "verse": 28,
+          "text": "The sons of Mahli were Eleazar, who had no sons,"
+        },
+        {
+          "verse": 29,
+          "text": "and Jerahmeel, of the sons of Kish."
+        },
+        {
+          "verse": 30,
+          "text": "The sons of Mushi were Mahli, Eder, and Jerimoth. These were the sons of the Levites according to their ancestral houses."
+        },
+        {
+          "verse": 31,
+          "text": "They too, in the same manner as their kinsmen, the sons of Aaron, cast lots in the presence of King David, Zadok, Ahimelech, and the heads of the priestly and levitical families; the more important family did so in the same way as the less important one."
+        }
+      ]
+    },
+    {
+      "chapter": 25,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Chapter 25 - The Singers. David and the leaders of the liturgy set apart for the service the sons of Asaph, Heman, and Jeduthun, who prophesied to the accompaniment of lyres and harps and cymbals. This is the list of those who performed this service:"
+        },
+        {
+          "verse": 2,
+          "text": "Of the sons of Asaph: Zaccur, Joseph, Nethaniah, and Asharelah, sons of Asaph, under the direction of Asaph, who prophesied under the guidance of the king."
+        },
+        {
+          "verse": 3,
+          "text": "Of Jeduthun, these sons of Jeduthun: Gedaliah, Zeri, Jeshaiah, Shimei, Hashabiah, and Mattithiah; six, under the direction of their father Jeduthun, who prophesied to the accompaniment of a lyre, to give thanks and praise to the LORD."
+        },
+        {
+          "verse": 4,
+          "text": "Of Heman, these sons of Heman: Bukkiah, Mattaniah, Uzziel, Shubael, and Jerimoth; Hananiah, Hanani, Eliathah, Giddalti, Romamti-ezer, Joshbekashah, Mallothi, Hothir, and Mahazioth."
+        },
+        {
+          "verse": 5,
+          "text": "All these were the sons of Heman, the king’s seer for divine matters; to exalt him God gave Heman fourteen sons and three daughters."
+        },
+        {
+          "verse": 6,
+          "text": "All these, whether of Asaph, Jeduthun, or Heman, were under their fathers’ direction in the singing in the house of the LORD to the accompaniment of cymbals, harps and lyres, serving in the house of God, under the guidance of the king."
+        },
+        {
+          "verse": 7,
+          "text": "Their number, together with that of their kinsmen who were trained in singing to the LORD, all of them skilled men, was two hundred and eighty-eight."
+        },
+        {
+          "verse": 8,
+          "text": "They cast lots for their functions equally, young and old, master and pupil alike."
+        },
+        {
+          "verse": 9,
+          "text": "The first lot fell to Asaph, to the family of Joseph; he and his sons and his kinsmen were twelve. Gedaliah was the second; he and his kinsmen and his sons were twelve."
+        },
+        {
+          "verse": 10,
+          "text": "The third was Zaccur, his sons, and his kinsmen: twelve."
+        },
+        {
+          "verse": 11,
+          "text": "The fourth fell to Izri, his sons, and his kinsmen: twelve."
+        },
+        {
+          "verse": 12,
+          "text": "The fifth was Nethaniah, his sons, and his kinsmen: twelve."
+        },
+        {
+          "verse": 13,
+          "text": "The sixth was Bukkiah, his sons, and his kinsmen: twelve."
+        },
+        {
+          "verse": 14,
+          "text": "The seventh was Jesarelah, his sons, and his kinsmen: twelve."
+        },
+        {
+          "verse": 15,
+          "text": "The eighth was Jeshaiah, his sons, and his kinsmen: twelve."
+        },
+        {
+          "verse": 16,
+          "text": "The ninth was Mattaniah, his sons, and his kinsmen: twelve."
+        },
+        {
+          "verse": 17,
+          "text": "The tenth was Shimei, his sons, and his kinsmen: twelve."
+        },
+        {
+          "verse": 18,
+          "text": "The eleventh was Uzziel, his sons, and his kinsmen: twelve."
+        },
+        {
+          "verse": 19,
+          "text": "The twelfth fell to Hashabiah, his sons, and his kinsmen: twelve."
+        },
+        {
+          "verse": 20,
+          "text": "The thirteenth was Shubael, his sons, and his kinsmen: twelve."
+        },
+        {
+          "verse": 21,
+          "text": "The fourteenth was Mattithiah, his sons, and his kinsmen: twelve."
+        },
+        {
+          "verse": 22,
+          "text": "The fifteenth fell to Jeremoth, his sons, and his kinsmen: twelve."
+        },
+        {
+          "verse": 23,
+          "text": "The sixteenth fell to Hananiah, his sons, and his kinsmen: twelve."
+        },
+        {
+          "verse": 24,
+          "text": "The seventeenth fell to Joshbekashah, his sons, and his kinsmen: twelve."
+        },
+        {
+          "verse": 25,
+          "text": "The eighteenth fell to Hanani, his sons, and his kinsmen: twelve."
+        },
+        {
+          "verse": 26,
+          "text": "The nineteenth fell to Mallothi, his sons, and his kinsmen: twelve."
+        },
+        {
+          "verse": 27,
+          "text": "The twentieth fell to Eliathah, his sons, and his kinsmen: twelve."
+        },
+        {
+          "verse": 28,
+          "text": "The twenty-first fell to Hothir, his sons, and his kinsmen: twelve."
+        },
+        {
+          "verse": 29,
+          "text": "The twenty-second fell to Giddalti, his sons, and his kinsmen: twelve."
+        },
+        {
+          "verse": 30,
+          "text": "The twenty-third fell to Mahazioth, his sons, and his kinsmen: twelve."
+        },
+        {
+          "verse": 31,
+          "text": "The twenty-fourth fell to Romamti-ezer, his sons, and his kinsmen: twelve."
+        }
+      ]
+    },
+    {
+      "chapter": 26,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Chapter 26 - Divisions of Gatekeepers. As for the divisions of gatekeepers: Of the Korahites was Meshelemiah, the son of Kore, one of the sons of Abiasaph."
+        },
+        {
+          "verse": 2,
+          "text": "Meshelemiah’s sons: Zechariah, the firstborn, Jediael, the second son, Zebadiah, the third, Jathniel, the fourth,"
+        },
+        {
+          "verse": 3,
+          "text": "Elam, the fifth, Jehohanan, the sixth, Eliehoenai, the seventh."
+        },
+        {
+          "verse": 4,
+          "text": "Obed-edom’s sons: Shemaiah, the firstborn, Jehozabad, a second son, Joah, the third, Sachar, the fourth, Nethanel, the fifth,"
+        },
+        {
+          "verse": 5,
+          "text": "Ammiel, the sixth, Issachar, the seventh, Peullethai, the eighth, for God blessed him."
+        },
+        {
+          "verse": 6,
+          "text": "To his son Shemaiah were born sons who ruled over their family, for they were warriors."
+        },
+        {
+          "verse": 7,
+          "text": "The sons of Shemaiah were Othni, Rephael, Obed, and Elzabad; also his kinsmen who were men of substance, Elihu and Semachiah."
+        },
+        {
+          "verse": 8,
+          "text": "All these were the sons of Obed-edom, who, together with their sons and their kinsmen, were men of substance, fit for the service. Of Obed-edom, sixty-two."
+        },
+        {
+          "verse": 9,
+          "text": "Of Meshelemiah, eighteen sons and kinsmen, men of substance."
+        },
+        {
+          "verse": 10,
+          "text": "Hosah, a descendant of Merari, had these sons: Shimri, the chief (for though he was not the firstborn, his father made him chief),"
+        },
+        {
+          "verse": 11,
+          "text": "Hilkiah, the second son, Tebaliah, the third, Zechariah, the fourth. All the sons and kinsmen of Hosah were thirteen."
+        },
+        {
+          "verse": 12,
+          "text": "To these divisions of the gatekeepers, by their chief men, were assigned watches for them to minister in the house of the LORD, for each group in the same way."
+        },
+        {
+          "verse": 13,
+          "text": "They cast lots for each gate, small and large families alike."
+        },
+        {
+          "verse": 14,
+          "text": "When the lot was cast for the east side, it fell to Meshelemiah. Then they cast lots for his son Zechariah, a prudent counselor, and the north side fell to his lot."
+        },
+        {
+          "verse": 15,
+          "text": "To Obed-edom fell the south side, and to his sons the storehouse."
+        },
+        {
+          "verse": 16,
+          "text": "To Hosah fell the west side with the Shallecheth gate at the ascending highway. For each family, watches were established."
+        },
+        {
+          "verse": 17,
+          "text": "On the east, six watched each day, on the north, four each day, on the south, four each day, and at the storehouse they were two and two;"
+        },
+        {
+          "verse": 18,
+          "text": "as for the large building on the west, there were four at the highway and two at the large building."
+        },
+        {
+          "verse": 19,
+          "text": "These were the classes of the gatekeepers, sons of Korah and Merari."
+        },
+        {
+          "verse": 20,
+          "text": "Treasurers. Their brother Levites had oversight of the treasuries of the house of God and the treasuries of votive offerings."
+        },
+        {
+          "verse": 21,
+          "text": "Among the sons of Ladan the Gershonite, the family heads were sons of Jehiel:"
+        },
+        {
+          "verse": 22,
+          "text": "the sons of Jehiel, Zetham and his brother Joel, who oversaw the treasures of the house of the LORD."
+        },
+        {
+          "verse": 23,
+          "text": "Of the Amramites, Izharites, Hebronites, and Uzzielites,"
+        },
+        {
+          "verse": 24,
+          "text": "Shubael, son of Gershom, son of Moses, was principal overseer of the treasures."
+        },
+        {
+          "verse": 25,
+          "text": "His associate was of the line of Eliezer, whose son was Rehabiah, whose son was Jeshaiah, whose son was Joram, whose son was Zichri, whose son was Shelomith."
+        },
+        {
+          "verse": 26,
+          "text": "This Shelomith and his kinsmen oversaw all the treasures of the votive offerings dedicated by King David, the heads of the families, the commanders of thousands and of hundreds, and the commanders of the army;"
+        },
+        {
+          "verse": 27,
+          "text": "what came from wars and from spoils, they dedicated for the support of the house of the LORD."
+        },
+        {
+          "verse": 28,
+          "text": "Also, whatever Samuel the seer, Saul, son of Kish, Abner, son of Ner, Joab, son of Zeruiah, and all others had consecrated, was under the charge of Shelomith and his kinsmen."
+        },
+        {
+          "verse": 29,
+          "text": "Magistrates. Among the Izharites, Chenaniah and his sons were in charge of Israel’s civil affairs as officials and judges."
+        },
+        {
+          "verse": 30,
+          "text": "Among the Hebronites, Hashabiah and his kinsmen, one thousand seven hundred men of substance, had the administration of Israel on the western side of the Jordan for all the work of the LORD and the service of the king."
+        },
+        {
+          "verse": 31,
+          "text": "Among the Hebronites, Jerijah was their chief according to their family records. In the fortieth year of David’s reign search was made, and there were found among them warriors at Jazer of Gilead."
+        },
+        {
+          "verse": 32,
+          "text": "His kinsmen were also men of substance, two thousand seven hundred heads of families. King David appointed them to the administration of the Reubenites, the Gadites, and the half-tribe of Manasseh for everything pertaining to God and to the king."
+        }
+      ]
+    },
+    {
+      "chapter": 27,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Chapter 27 - Army Commanders. This is the list of the Israelite family heads, commanders of thousands and of hundreds, and other officers who served the king in all that pertained to the divisions, of twenty-four thousand men each, that came and went month by month throughout the year."
+        },
+        {
+          "verse": 2,
+          "text": "Over the first division for the first month was Ishbaal, son of Zabdiel, and in his division were twenty-four thousand men;"
+        },
+        {
+          "verse": 3,
+          "text": "a descendant of Perez, he was chief over all the commanders of the army for the first month."
+        },
+        {
+          "verse": 4,
+          "text": "Over the division of the second month was Eleazar, son of Dodo, from Ahoh, and in his division were twenty-four thousand men."
+        },
+        {
+          "verse": 5,
+          "text": "The third army commander, for the third month, was Benaiah, son of Jehoiada the chief priest, and in his division were twenty-four thousand men."
+        },
+        {
+          "verse": 6,
+          "text": "This Benaiah was a warrior among the Thirty and over the Thirty. His son Ammizabad was over his division."
+        },
+        {
+          "verse": 7,
+          "text": "Fourth, for the fourth month, was Asahel, brother of Joab, and after him his son Zebadiah, and in his division were twenty-four thousand men."
+        },
+        {
+          "verse": 8,
+          "text": "Fifth, for the fifth month, was the commander Shamhuth, a descendant of Zerah, and in his division were twenty-four thousand men."
+        },
+        {
+          "verse": 9,
+          "text": "Sixth, for the sixth month, was Ira, son of Ikkesh, from Tekoa, and in his division were twenty-four thousand men."
+        },
+        {
+          "verse": 10,
+          "text": "Seventh, for the seventh month, was Hellez, from Beth-pelet, of the Ephraimites, and in his division were twenty-four thousand men."
+        },
+        {
+          "verse": 11,
+          "text": "Eighth, for the eighth month, was Sibbecai the Hushathite, a descendant of Zerah, and in his division were twenty-four thousand men."
+        },
+        {
+          "verse": 12,
+          "text": "Ninth, for the ninth month, was Abiezer from Anathoth, of Benjamin, and in his division were twenty-four thousand men."
+        },
+        {
+          "verse": 13,
+          "text": "Tenth, for the tenth month, was Maharai from Netophah, a descendant of Zerah, and in his division were twenty-four thousand men."
+        },
+        {
+          "verse": 14,
+          "text": "Eleventh, for the eleventh month, was Benaiah the Pirathonite, of the Ephraimites, and in his division were twenty-four thousand men."
+        },
+        {
+          "verse": 15,
+          "text": "Twelfth, for the twelfth month, was Heldai the Netophathite, of the family of Othniel, and in his division were twenty-four thousand men."
+        },
+        {
+          "verse": 16,
+          "text": "Tribal Leaders. Over the tribes of Israel, for the Reubenites the leader was Eliezer, son of Zichri; for the Simeonites, Shephatiah, son of Maacah;"
+        },
+        {
+          "verse": 17,
+          "text": "for Levi, Hashabiah, son of Kemuel; for Aaron, Zadok;"
+        },
+        {
+          "verse": 18,
+          "text": "for Judah, Eliab, one of David’s brothers; for Issachar, Omri, son of Michael;"
+        },
+        {
+          "verse": 19,
+          "text": "for Zebulun, Ishmaiah, son of Obadiah; for Naphtali, Jeremoth, son of Azriel;"
+        },
+        {
+          "verse": 20,
+          "text": "for the Ephraimites, Hoshea, son of Azaziah; for the half-tribe of Manasseh, Joel, son of Pedaiah;"
+        },
+        {
+          "verse": 21,
+          "text": "for the half-tribe of Manasseh in Gilead, Iddo, son of Zechariah; for Benjamin, Jaasiel, son of Abner;"
+        },
+        {
+          "verse": 22,
+          "text": "for Dan, Azarel, son of Jeroham. These were the commanders of the tribes of Israel."
+        },
+        {
+          "verse": 23,
+          "text": "David did not count those who were twenty years of age or younger, for the LORD had promised to multiply Israel like the stars of the heavens."
+        },
+        {
+          "verse": 24,
+          "text": "Joab, son of Zeruiah, began to take the census, but he did not complete it, for because of it wrath fell upon Israel. Therefore the number was not recorded in the book of chronicles of King David."
+        },
+        {
+          "verse": 25,
+          "text": "Overseers. Over the treasuries of the king was Azmaveth, the son of Adiel. Over the treasuries in the country, the cities, the villages, and the towers was Jonathan, son of Uzziah."
+        },
+        {
+          "verse": 26,
+          "text": "Over the farm workers who tilled the soil was Ezri, son of Chelub."
+        },
+        {
+          "verse": 27,
+          "text": "Over the vineyards was Shimei from Ramah, and over their produce for the wine cellars was Zabdi the Shiphmite."
+        },
+        {
+          "verse": 28,
+          "text": "Over the olive trees and sycamores of the Shephelah was Baalhanan the Gederite, and over the stores of oil was Joash."
+        },
+        {
+          "verse": 29,
+          "text": "Over the cattle that grazed in Sharon was Shitrai the Sharonite, and over the cattle in the valleys was Shaphat, the son of Adlai;"
+        },
+        {
+          "verse": 30,
+          "text": "over the camels was Obil the Ishmaelite; over the donkeys was Jehdeiah the Meronothite;"
+        },
+        {
+          "verse": 31,
+          "text": "and over the flocks was Jaziz the Hagrite. All these were the overseers of King David’s possessions."
+        },
+        {
+          "verse": 32,
+          "text": "David’s Court. Jonathan, David’s uncle and a man of intelligence, was counselor and scribe; he and Jehiel, the son of Hachmoni, attended the king’s sons."
+        },
+        {
+          "verse": 33,
+          "text": "Ahithophel was also the king’s counselor, and Hushai the Archite was the king’s friend."
+        },
+        {
+          "verse": 34,
+          "text": "After Ahithophel came Jehoiada, the son of Benaiah, and Abiathar. The commander of the king’s army was Joab."
+        }
+      ]
+    },
+    {
+      "chapter": 28,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Chapter 28 - The Assembly at Jerusalem. David assembled at Jerusalem all the commanders of Israel, the tribal commanders, the commanders of the divisions who were in the service of the king, the commanders of thousands and of hundreds, those in command of all the king’s estates and possessions, and his sons, together with the courtiers, the warriors, and every person of substance."
+        },
+        {
+          "verse": 2,
+          "text": "King David rose to his feet and said: “Hear me, my kinsmen and my people. It was my purpose to build a house of repose myself for the ark of the covenant of the LORD, the footstool for the feet of our God; and I was preparing to build it."
+        },
+        {
+          "verse": 3,
+          "text": "But God said to me, You may not build a house for my name, for you are a man who waged wars and shed blood."
+        },
+        {
+          "verse": 4,
+          "text": "However, the LORD, the God of Israel, chose me from all my father’s family to be king over Israel forever. For he chose Judah as leader, then one family of Judah, that of my father; and finally, among all the sons of my father, it pleased him to make me king over all Israel."
+        },
+        {
+          "verse": 5,
+          "text": "And of all my sons—for the LORD has given me many sons—he has chosen my son Solomon to sit on the throne of the LORD’s kingship over Israel."
+        },
+        {
+          "verse": 6,
+          "text": "For he said to me: It is your son Solomon who shall build my house and my courts, for I have chosen him for my son, and I will be a father to him."
+        },
+        {
+          "verse": 7,
+          "text": "I will establish his kingdom forever, if he perseveres in carrying out my commandments and ordinances as he does now."
+        },
+        {
+          "verse": 8,
+          "text": "Therefore, in the sight of all Israel, the assembly of the LORD, and in the hearing of our God: keep and carry out all the commandments of the LORD, your God, that you may continue to possess this good land and afterward leave it as an inheritance to your children forever."
+        },
+        {
+          "verse": 9,
+          "text": "“As for you, Solomon, my son, know the God of your father and serve him with a whole heart and a willing soul, for the LORD searches all hearts and understands all the mind’s thoughts. If you search for him, he will be found; but if you abandon him, he will cast you off forever."
+        },
+        {
+          "verse": 10,
+          "text": "See, then! The LORD has chosen you to build a house as his sanctuary. Be strong and set to work.”"
+        },
+        {
+          "verse": 11,
+          "text": "Temple Plans Given to Solomon. Then David gave to his son Solomon the design of the portico and of the house itself, with its storerooms, its upper rooms and inner chambers, and the shrine containing the cover of the ark."
+        },
+        {
+          "verse": 12,
+          "text": "He provided also the design for all else that he had in mind by way of courts for the house of the LORD, with the surrounding compartments for the treasuries of the house of God and the treasuries for the votive offerings,"
+        },
+        {
+          "verse": 13,
+          "text": "as well as for the divisions of the priests and Levites, for all the work of the service of the house of the LORD, and for all the liturgical vessels of the house of the LORD."
+        },
+        {
+          "verse": 14,
+          "text": "He specified the weight of gold to be used in the golden vessels for the various services and the weight of silver to be used in the silver vessels for the various services;"
+        },
+        {
+          "verse": 15,
+          "text": "likewise for the golden menorahs and their lamps he specified the weight of gold for each menorah and its lamps, and for the silver menorahs he specified the weight of silver for each menorah and its lamps, depending on the use to which each menorah was to be put."
+        },
+        {
+          "verse": 16,
+          "text": "He specified the weight of gold for each table that was to hold the showbread, and the silver for the silver tables;"
+        },
+        {
+          "verse": 17,
+          "text": "the pure gold for the forks, basins, and pitchers; the weight of gold for each golden bowl and the weight of silver for each silver bowl;"
+        },
+        {
+          "verse": 18,
+          "text": "the refined gold, and its weight, to be used for the altar of incense; and, finally, gold to fashion the chariot: the cherubim spreading their wings and covering the ark of the covenant of the LORD."
+        },
+        {
+          "verse": 19,
+          "text": "All this he wrote down, by the hand of the LORD, to make him understand it—the working out of the whole design."
+        },
+        {
+          "verse": 20,
+          "text": "Then David said to his son Solomon: “Be strong and steadfast, and go to work; do not fear or be dismayed, for the LORD God, my God, is with you. He will not fail you or abandon you before you have completed all the work for the service of the house of the LORD."
+        },
+        {
+          "verse": 21,
+          "text": "The divisions of the priests and Levites are ready for all the service of the house of God; they will be with you in all the work with all those who are eager to show their skill in every kind of craftsmanship. Also the commanders and all the people will do everything that you command.”"
+        }
+      ]
+    },
+    {
+      "chapter": 29,
+      "verses": [
+        {
+          "verse": 1,
+          "text": "Chapter 29 - Offerings for the Temple. King David then said to the whole assembly: “My son Solomon, whom alone God has chosen, is still young and inexperienced; the work, however, is great, for this palace is not meant for human beings, but for the LORD God."
+        },
+        {
+          "verse": 2,
+          "text": "For this reason I have stored up for the house of my God, as far as I was able, gold for what will be made of gold, silver for what will be made of silver, bronze for what will be made of bronze, iron for what will be made of iron, wood for what will be made of wood, onyx stones and settings for them, carnelian and mosaic stones, every other kind of precious stone, and great quantities of marble."
+        },
+        {
+          "verse": 3,
+          "text": "But now, because of the delight I take in the house of my God, in addition to all that I stored up for the holy house, I give to the house of my God my personal fortune in gold and silver:"
+        },
+        {
+          "verse": 4,
+          "text": "three thousand talents of Ophir gold, and seven thousand talents of refined silver, for overlaying the walls of the rooms,"
+        },
+        {
+          "verse": 5,
+          "text": "for the various utensils to be made of gold and silver, and for every work that is to be done by artisans. Now, who else will contribute generously and consecrate themselves this day to the LORD?”"
+        },
+        {
+          "verse": 6,
+          "text": "Then the heads of the families, the tribal commanders of Israel, the commanders of thousands and of hundreds, and those who had command of the king’s affairs came forward willingly"
+        },
+        {
+          "verse": 7,
+          "text": "and contributed for the service of the house of God five thousand talents and ten thousand darics of gold, ten thousand talents of silver, eighteen thousand talents of bronze, and one hundred thousand talents of iron."
+        },
+        {
+          "verse": 8,
+          "text": "Those who had precious stones gave them into the keeping of Jehiel the Gershonite for the treasury of the house of the LORD."
+        },
+        {
+          "verse": 9,
+          "text": "The people rejoiced over these free-will offerings, for they had been contributed to the LORD wholeheartedly. King David also rejoiced greatly."
+        },
+        {
+          "verse": 10,
+          "text": "David’s Prayer. Then David blessed the LORD in the sight of the whole assembly. David said: “Blessed are you, LORD, God of Israel our father, from eternity to eternity."
+        },
+        {
+          "verse": 11,
+          "text": "Yours, LORD, are greatness and might, majesty, victory, and splendor. For all in heaven and on earth is yours; yours, LORD, is kingship; you are exalted as head over all."
+        },
+        {
+          "verse": 12,
+          "text": "Riches and glory are from you, and you have dominion over all. In your hand are power and might; it is yours to give greatness and strength to all."
+        },
+        {
+          "verse": 13,
+          "text": "Therefore, our God, we give you thanks and we praise the majesty of your name."
+        },
+        {
+          "verse": 14,
+          "text": "“But who am I, and who are my people, that we should have the means to contribute so freely? For everything is from you, and what we give is what we have from you."
+        },
+        {
+          "verse": 15,
+          "text": "For before you we are strangers and travelers, like all our ancestors. Our days on earth are like a shadow, without a future."
+        },
+        {
+          "verse": 16,
+          "text": "LORD our God, all this wealth that we have brought together to build you a house for your holy name comes from you and is entirely yours."
+        },
+        {
+          "verse": 17,
+          "text": "I know, my God, that you put hearts to the test and that you take pleasure in integrity. With a whole heart I have willingly given all these things, and now with joy I have seen your people here present also giving to you generously."
+        },
+        {
+          "verse": 18,
+          "text": "LORD, God of our ancestors Abraham, Isaac, and Israel, keep such thoughts in the hearts and minds of your people forever, and direct their hearts toward you."
+        },
+        {
+          "verse": 19,
+          "text": "Give to my son Solomon a wholehearted desire to keep your commandments, precepts, and statutes, that he may carry out all these plans and build the palace for which I have made preparation.”"
+        },
+        {
+          "verse": 20,
+          "text": "Then David told the whole assembly, “Now bless the LORD your God!” And the whole assembly blessed the LORD, the God of their ancestors, bowing down in homage before the LORD and before the king."
+        },
+        {
+          "verse": 21,
+          "text": "On the following day they brought sacrifices and burnt offerings to the LORD, a thousand bulls, a thousand rams, and a thousand lambs, together with their libations and many other sacrifices for all Israel;"
+        },
+        {
+          "verse": 22,
+          "text": "and on that day they ate and drank in the LORD’s presence with great rejoicing. Solomon Anointed. Then for a second time they proclaimed David’s son Solomon king, and they anointed him for the LORD as ruler, and Zadok as priest."
+        },
+        {
+          "verse": 23,
+          "text": "Thereafter Solomon sat on the throne of the LORD as king succeeding his father David; he prospered, and all Israel obeyed him."
+        },
+        {
+          "verse": 24,
+          "text": "All the commanders and warriors, and also all the other sons of King David, swore allegiance to King Solomon."
+        },
+        {
+          "verse": 25,
+          "text": "And the LORD exalted Solomon greatly in the eyes of all Israel, giving him a glorious reign such as had not been enjoyed by any king over Israel before him."
+        },
+        {
+          "verse": 26,
+          "text": "David’s Death. Thus David, the son of Jesse, had reigned over all Israel."
+        },
+        {
+          "verse": 27,
+          "text": "He was king over Israel for forty years: he was king seven years in Hebron and thirty-three years in Jerusalem."
+        },
+        {
+          "verse": 28,
+          "text": "He died at a ripe old age, rich in years and wealth and glory, and his son Solomon succeeded him as king."
+        },
+        {
+          "verse": 29,
+          "text": "Now the deeds of King David, first and last, are recorded in the history of Samuel the seer, the history of Nathan the prophet, and the history of Gad the seer,"
+        },
+        {
+          "verse": 30,
+          "text": "together with the particulars of his reign and valor, and of the events that affected him and all Israel and all the kingdoms of the earth."
+        }
+      ]
+    }
+  ]
+}
