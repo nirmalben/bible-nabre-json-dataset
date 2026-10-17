@@ -1,7 +1,8 @@
 # The Holy Bible NABRE JSON Dataset
 
-This repository contains New American Bible Revised Edition ([NABRE](https://www.biblegateway.com/versions/New-American-Bible-Revised-Edition-NABRE-Bible/)) of The Holy Bible in JSON dataset along with the Bash script (`get_nabre_books`) used to generate it.
-The Bash script scrapes [biblegateway.com](https://www.biblegateway.com/versions/New-American-Bible-Revised-Edition-NABRE-Bible/#booklist) to get the verses for each chapter in each book (credits to [bible_verse-cli](https://github.com/RaynardGerraldo/bible_verse-cli) for the idea).
+The [New American Bible, Revised Edition (NABRE)](https://www.biblegateway.com/versions/New-American-Bible-Revised-Edition-NABRE-Bible/) as JSON: 73 books, organized by chapter and verse, plus the Python script used to generate it.
+ 
+The script scrapes [biblegateway.com](https://www.biblegateway.com/versions/New-American-Bible-Revised-Edition-NABRE-Bible/#booklist) one chapter at a time.
 
 The dataset can be found in the `generated_data` directory - 
 * The `nabre.json` which is the entire dataset containing all the verses in the New American Bible Revised Edition of The Holy Bible. The dataset format is as follows -
@@ -69,4 +70,15 @@ The directory `data/` contains -
   },
   ...
 ]
+```
+
+## Generating the data yourself
+ 
+Requires Python 3.9+.
+ 
+```bash
+pip install -r requirements.txt
+ 
+# run from the repository root
+python generate_nabre.py
 ```
